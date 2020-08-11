@@ -1,0 +1,126 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+molecules2,170128_Blk_ProcessBlk_1,"L-Phenylalanine, D8",1.12,8668209,34257,3075039,0.5,molecules2
+molecules2,170128_Blk_ProcessBlk_2,"L-Phenylalanine, D8",1.13,8409505,78088,2805090,0.6,molecules2
+molecules2,170128_Blk_ProcessBlk_3,"L-Phenylalanine, D8",1.13,8290454,32824,2835775,0.7,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_1,"L-Phenylalanine, D8",1.13,6808042,0,2382164,1.3,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_2,"L-Phenylalanine, D8",1.12,6724670,0,2321268,0.6,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_3,"L-Phenylalanine, D8",1.13,6449006,64505,2173966,0.7,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_1,"L-Phenylalanine, D8",1.12,5029915,0,1535822,0.8,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_2,"L-Phenylalanine, D8",1.12,4903412,66483,1541509,1,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_3,"L-Phenylalanine, D8",1.11,4901325,42681,1525496,0.9,molecules2
+molecules2,170128_Smp_Pro9312_A,"L-Phenylalanine, D8",1.12,7287669,0,2484534,0.9,molecules2
+molecules2,170128_Smp_Pro9312_B,"L-Phenylalanine, D8",1.13,6752489,0,2331975,1.3,molecules2
+molecules2,170128_Smp_Pro9312_C,"L-Phenylalanine, D8",1.13,6339558,84278,2227705,0.6,molecules2
+molecules2,170128_Smp_Pro9313_A,"L-Phenylalanine, D8",1.12,7003668,0,2411214,1.1,molecules2
+molecules2,170128_Smp_Pro9313_B,"L-Phenylalanine, D8",1.13,6840027,0,2259972,0.9,molecules2
+molecules2,170128_Smp_Pro9313_C,"L-Phenylalanine, D8",1.13,6888636,73884,2424909,0.9,molecules2
+molecules2,170128_Smp_Vesicle9312_1,"L-Phenylalanine, D8",1.11,5403265,0,1658797,1.3,molecules2
+molecules2,170128_Smp_Vesicle9312_2,"L-Phenylalanine, D8",1.12,5055638,0,1610411,1.2,molecules2
+molecules2,170128_Smp_Vesicle9312_3,"L-Phenylalanine, D8",1.11,5281479,57500,1645754,1.2,molecules2
+molecules2,170128_Smp_Vesicle9313_1,"L-Phenylalanine, D8",1.12,5377187,64305,1707152,1.3,molecules2
+molecules2,170128_Smp_Vesicle9313_2,"L-Phenylalanine, D8",1.11,5207311,43780,1685033,0.8,molecules2
+molecules2,170128_Smp_Vesicle9313_3,"L-Phenylalanine, D8",1.12,5420643,0,1742781,1,molecules2
+molecules2,170128_Blk_1a,"L-Phenylalanine, D8",1.12,4967190,37073,1499627,1.1,molecules2
+molecules2,170128_Blk_2a,"L-Phenylalanine, D8",1.12,4490283,0,1498360,1.3,molecules2
+molecules2,170128_Blk_3a,"L-Phenylalanine, D8",1.11,5386082,0,1731211,1.1,molecules2
+molecules2,170128_Blk_4a,"L-Phenylalanine, D8",1.13,8233550,33640,2789784,1.2,molecules2
+molecules2,170128_Blk_ProcessBlk_1,"L-Tryptophan, D3",1.94,4289298,7356,1206563,0.3,molecules2
+molecules2,170128_Blk_ProcessBlk_2,"L-Tryptophan, D3",1.94,4047723,9929,1124870,0.2,molecules2
+molecules2,170128_Blk_ProcessBlk_3,"L-Tryptophan, D3",1.94,3948776,28374,1153385,0.6,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_1,"L-Tryptophan, D3",1.94,3556833,0,990988,0.7,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_2,"L-Tryptophan, D3",1.94,3517888,0,997037,0.3,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_3,"L-Tryptophan, D3",1.94,3466121,0,960448,0.2,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_1,"L-Tryptophan, D3",1.93,2635646,0,763714,0.9,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_2,"L-Tryptophan, D3",1.93,2626745,0,745663,0.8,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_3,"L-Tryptophan, D3",1.93,2632344,0,787774,0.7,molecules2
+molecules2,170128_Smp_Pro9312_A,"L-Tryptophan, D3",1.94,3761158,35043,1077138,0.4,molecules2
+molecules2,170128_Smp_Pro9312_B,"L-Tryptophan, D3",1.94,3408632,0,966519,0.9,molecules2
+molecules2,170128_Smp_Pro9312_C,"L-Tryptophan, D3",1.94,3664844,0,1061109,0.5,molecules2
+molecules2,170128_Smp_Pro9313_A,"L-Tryptophan, D3",1.93,3475889,46424,987905,0.4,molecules2
+molecules2,170128_Smp_Pro9313_B,"L-Tryptophan, D3",1.93,3457818,0,970677,0.4,molecules2
+molecules2,170128_Smp_Pro9313_C,"L-Tryptophan, D3",1.94,3660375,0,999231,0.6,molecules2
+molecules2,170128_Smp_Vesicle9312_1,"L-Tryptophan, D3",1.93,2834255,0,800211,1.1,molecules2
+molecules2,170128_Smp_Vesicle9312_2,"L-Tryptophan, D3",1.93,2779435,0,791674,0.9,molecules2
+molecules2,170128_Smp_Vesicle9312_3,"L-Tryptophan, D3",1.93,2867436,33838,852755,0.7,molecules2
+molecules2,170128_Smp_Vesicle9313_1,"L-Tryptophan, D3",1.94,2778470,17455,818177,0.9,molecules2
+molecules2,170128_Smp_Vesicle9313_2,"L-Tryptophan, D3",1.93,2662299,0,731570,0.9,molecules2
+molecules2,170128_Smp_Vesicle9313_3,"L-Tryptophan, D3",1.93,2721048,0,745105,1,molecules2
+molecules2,170128_Blk_1a,"L-Tryptophan, D3",1.93,2558553,0,750048,0.7,molecules2
+molecules2,170128_Blk_2a,"L-Tryptophan, D3",1.93,1743063,0,482717,0.9,molecules2
+molecules2,170128_Blk_3a,"L-Tryptophan, D3",1.93,2766045,0,791344,1.1,molecules2
+molecules2,170128_Blk_4a,"L-Tryptophan, D3",1.94,3582431,31870,1018434,0.8,molecules2
+molecules2,170128_Blk_ProcessBlk_1,"Tryptamine Hydrochloride, D4",2.38,18715978,275723,4763408,0.7,molecules2
+molecules2,170128_Blk_ProcessBlk_2,"Tryptamine Hydrochloride, D4",2.38,18310932,95197,4645246,0.7,molecules2
+molecules2,170128_Blk_ProcessBlk_3,"Tryptamine Hydrochloride, D4",2.37,18157066,226215,4590226,0.4,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_1,"Tryptamine Hydrochloride, D4",2.38,13675843,161924,3545959,0.5,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_2,"Tryptamine Hydrochloride, D4",2.38,13228603,0,3480770,0.6,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_3,"Tryptamine Hydrochloride, D4",2.38,12862571,167301,3293590,0.5,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_1,"Tryptamine Hydrochloride, D4",2.39,11447754,75344,3012901,0.8,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_2,"Tryptamine Hydrochloride, D4",2.38,11238520,167279,2943562,1,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_3,"Tryptamine Hydrochloride, D4",2.38,11306863,133748,3015950,0.5,molecules2
+molecules2,170128_Smp_Pro9312_A,"Tryptamine Hydrochloride, D4",2.38,16410264,0,4257036,0.6,molecules2
+molecules2,170128_Smp_Pro9312_B,"Tryptamine Hydrochloride, D4",2.38,15223413,119736,4068864,1.1,molecules2
+molecules2,170128_Smp_Pro9312_C,"Tryptamine Hydrochloride, D4",2.38,16518880,80573,4118004,0.6,molecules2
+molecules2,170128_Smp_Pro9313_A,"Tryptamine Hydrochloride, D4",2.38,11564628,123594,3115930,0.8,molecules2
+molecules2,170128_Smp_Pro9313_B,"Tryptamine Hydrochloride, D4",2.38,13270573,212667,3459254,0.5,molecules2
+molecules2,170128_Smp_Pro9313_C,"Tryptamine Hydrochloride, D4",2.38,12134216,103780,3231520,0.7,molecules2
+molecules2,170128_Smp_Vesicle9312_1,"Tryptamine Hydrochloride, D4",2.39,14702992,53180,3826520,0.9,molecules2
+molecules2,170128_Smp_Vesicle9312_2,"Tryptamine Hydrochloride, D4",2.39,13178526,40648,3309371,0.6,molecules2
+molecules2,170128_Smp_Vesicle9312_3,"Tryptamine Hydrochloride, D4",2.38,13186445,0,3649684,0.7,molecules2
+molecules2,170128_Smp_Vesicle9313_1,"Tryptamine Hydrochloride, D4",2.39,12308679,0,3154002,1,molecules2
+molecules2,170128_Smp_Vesicle9313_2,"Tryptamine Hydrochloride, D4",2.39,11249733,108413,2753241,1.1,molecules2
+molecules2,170128_Smp_Vesicle9313_3,"Tryptamine Hydrochloride, D4",2.39,12297238,189790,3229141,0.9,molecules2
+molecules2,170128_Blk_1a,"Tryptamine Hydrochloride, D4",2.38,11970278,206044,2998865,0.8,molecules2
+molecules2,170128_Blk_2a,"Tryptamine Hydrochloride, D4",2.38,10037389,154452,3056920,1.1,molecules2
+molecules2,170128_Blk_3a,"Tryptamine Hydrochloride, D4",2.39,14265560,125569,3718005,1.3,molecules2
+molecules2,170128_Blk_4a,"Tryptamine Hydrochloride, D4",2.37,17141392,241881,4387987,0.9,molecules2
+molecules2,170128_Blk_ProcessBlk_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.27,6443505,15211,2489299,0.8,molecules2
+molecules2,170128_Blk_ProcessBlk_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.27,6141984,18475,2370462,0.7,molecules2
+molecules2,170128_Blk_ProcessBlk_3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.27,6402598,5808,2531185,0.9,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8408620,82859,3211394,0.8,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8149374,21191,3183283,0.9,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,7579969,54258,2830162,0.9,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8870741,83813,3343715,0.9,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8496256,23614,3172872,0.8,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8682679,43601,3434596,0.8,molecules2
+molecules2,170128_Smp_Pro9312_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,7469826,92713,3117066,0.9,molecules2
+molecules2,170128_Smp_Pro9312_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8066175,139709,3283421,1.2,molecules2
+molecules2,170128_Smp_Pro9312_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,7245797,5565,2648763,0.7,molecules2
+molecules2,170128_Smp_Pro9313_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,9671799,148515,3758537,1.2,molecules2
+molecules2,170128_Smp_Pro9313_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8830514,57120,3562129,0.6,molecules2
+molecules2,170128_Smp_Pro9313_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8292306,33721,3208274,0.5,molecules2
+molecules2,170128_Smp_Vesicle9312_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,10000751,99261,3847003,1.2,molecules2
+molecules2,170128_Smp_Vesicle9312_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,8139723,106877,3209148,1,molecules2
+molecules2,170128_Smp_Vesicle9312_3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,9701057,49167,3773433,1.1,molecules2
+molecules2,170128_Smp_Vesicle9313_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.27,8344536,94425,3173693,1.2,molecules2
+molecules2,170128_Smp_Vesicle9313_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,9283674,17054,3470092,1.1,molecules2
+molecules2,170128_Smp_Vesicle9313_3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,7754073,58891,3035639,1,molecules2
+molecules2,170128_Blk_1a,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,6244635,9617,2449039,1.1,molecules2
+molecules2,170128_Blk_2a,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.27,5494907,76958,2149020,1.3,molecules2
+molecules2,170128_Blk_3a,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,6219669,34509,2432909,1.5,molecules2
+molecules2,170128_Blk_4a,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.26,7145916,26379,2751520,1.1,molecules2
+molecules2,170128_Blk_ProcessBlk_1,"Indole 3 Acetic Acid, D5",5,1910160,0,423397,-0.2,molecules2
+molecules2,170128_Blk_ProcessBlk_2,"Indole 3 Acetic Acid, D5",5.02,1921750,0,445009,-0.4,molecules2
+molecules2,170128_Blk_ProcessBlk_3,"Indole 3 Acetic Acid, D5",5,1899283,0,438021,0,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_1,"Indole 3 Acetic Acid, D5",4.98,2526729,0,452191,-0.4,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_2,"Indole 3 Acetic Acid, D5",4.99,2297735,0,416923,-0.3,molecules2
+molecules2,170128_Poo_Jan24_AqExtracts_FS_3,"Indole 3 Acetic Acid, D5",5,2271878,0,408436,-0.3,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_1,"Indole 3 Acetic Acid, D5",4.95,3148244,13827,340233,0.1,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_2,"Indole 3 Acetic Acid, D5",4.96,3194694,29428,333598,0.3,molecules2
+molecules2,170128_Poo_Jan25_AqExtracts_FS_3,"Indole 3 Acetic Acid, D5",4.94,3106556,16579,321499,0.3,molecules2
+molecules2,170128_Smp_Pro9312_A,"Indole 3 Acetic Acid, D5",5.01,2273556,15020,425974,-0.2,molecules2
+molecules2,170128_Smp_Pro9312_B,"Indole 3 Acetic Acid, D5",5,2190039,10752,433218,-0.1,molecules2
+molecules2,170128_Smp_Pro9312_C,"Indole 3 Acetic Acid, D5",4.99,2335293,0,508079,-0.3,molecules2
+molecules2,170128_Smp_Pro9313_A,"Indole 3 Acetic Acid, D5",5,2106295,0,436316,0.2,molecules2
+molecules2,170128_Smp_Pro9313_B,"Indole 3 Acetic Acid, D5",5,2251383,0,470312,-0.1,molecules2
+molecules2,170128_Smp_Pro9313_C,"Indole 3 Acetic Acid, D5",5,2180125,0,414551,-0.5,molecules2
+molecules2,170128_Smp_Vesicle9312_1,"Indole 3 Acetic Acid, D5",4.96,2859772,26842,350565,0.7,molecules2
+molecules2,170128_Smp_Vesicle9312_2,"Indole 3 Acetic Acid, D5",4.96,3065847,0,351002,0.2,molecules2
+molecules2,170128_Smp_Vesicle9312_3,"Indole 3 Acetic Acid, D5",4.94,2945872,0,335059,0.4,molecules2
+molecules2,170128_Smp_Vesicle9313_1,"Indole 3 Acetic Acid, D5",4.96,2452986,0,324793,0.5,molecules2
+molecules2,170128_Smp_Vesicle9313_2,"Indole 3 Acetic Acid, D5",4.96,2738585,21695,321416,0.4,molecules2
+molecules2,170128_Smp_Vesicle9313_3,"Indole 3 Acetic Acid, D5",4.97,2831085,11610,328131,0.4,molecules2
+molecules2,170128_Blk_1a,"Indole 3 Acetic Acid, D5",4.95,2509633,0,293323,0.1,molecules2
+molecules2,170128_Blk_2a,"Indole 3 Acetic Acid, D5",4.96,1843724,6311,255593,0.6,molecules2
+molecules2,170128_Blk_3a,"Indole 3 Acetic Acid, D5",4.97,2575786,8341,299107,0.5,molecules2
+molecules2,170128_Blk_4a,"Indole 3 Acetic Acid, D5",5.01,1144476,0,258316,0.7,molecules2

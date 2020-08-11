@@ -1,0 +1,51 @@
+---
+title: "From MSDial on"
+author: "Katherine Heal"
+date: "August 11, 2020"
+output: html_document
+---
+Organization notes:
+As of 08/11/20, all mzxml and MSDial files are in corresponding Fraction/mzxml files 
+
+Analysis notes:
+
+```{r, message=FALSE, error=FALSE}
+library(tidyverse)
+library(cowplot)
+theme_set(theme_cowplot())
+library(here)
+```
+
+#BMIS on the HILIC output from MSDial, save output in BMISReports Folder, remove the intermediate output
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/BMIS_QEHILIC.R')
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsRep_HILIC.pdf", plot = BMISlist[[1]], device = "pdf", width = 10, height = 10, units = "in")
+write_file(BMISlist[[2]], "Intermediates/BMISReports/BMIS_Summary_HILIC.txt")
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsTest_HILIC.pdf", plot = BMISlist[[3]], device = "pdf", width = 10, height = 10, units = "in")
+write_csv(BMISlist[[4]], "Intermediates/BMISReports/BMISd_Areas_long_HILIC.csv")
+rm(BMISlist)
+```
+
+
+#BMIS on the CyanoAq output from Skyline, save output in BMISReports Folder, remove the intermediate output
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/BMIS_QECyano.R')
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsRep_Cyano.pdf", plot = BMISlist[[1]], device = "pdf", width = 10, height = 10, units = "in")
+write_file(BMISlist[[2]], "Intermediates/BMISReports/BMIS_Summary_Cyano.txt")
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsTest_Cyano.pdf", plot = BMISlist[[3]], device = "pdf", width = 10, height = 10, units = "in")
+write_csv(BMISlist[[4]], "Intermediates/BMISReports/BMISd_Areas_long_Cyano.csv")
+
+rm(BMISlist)
+```
+
+#Combine and Tidy environmental data, add in culture data, grab MS2 data
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/Combine_Clean_nofunction.R')
+
+#Add in the culture data
+dat.file <- read_csv("Intermediates/WideArea_withIDinfo.csv")
+culture.file <- read_csv("Intermediates/Culture_Intermediates/combined_wide_LogBioArea.csv")
+combo.wide <- left_join(dat.file, culture.file)
+write_csv(combo.wide, "Intermediates/WideArea_withIDinfo_withCultureLogBioArea.csv")
+remove(list = ls())
+```
