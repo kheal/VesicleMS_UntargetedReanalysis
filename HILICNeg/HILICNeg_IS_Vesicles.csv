@@ -1,0 +1,127 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+molecules1,170124_Blk_ProcessBlk_1,"Isethionic Acid, 13C2",7.06,38269484,438435,2050036,-7.8,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"Isethionic Acid, 13C2",7.08,38330400,16305,1983089,-7.7,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"Isethionic Acid, 13C2",7.06,38516004,152622,2088836,-7.9,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"Isethionic Acid, 13C2",6.66,45549876,0,1534141,-7.8,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"Isethionic Acid, 13C2",6.61,45992980,0,1472536,-7.7,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"Isethionic Acid, 13C2",6.65,46363892,0,1442302,-7.7,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"Isethionic Acid, 13C2",6.07,47906344,613975,1292010,-7.9,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"Isethionic Acid, 13C2",6.04,45224732,0,1178842,-7.8,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"Isethionic Acid, 13C2",6.01,44008428,0,1182747,-7.8,molecules1
+molecules1,170124_Smp_Pro9312_A,"Isethionic Acid, 13C2",6.76,38199284,6465713,1415419,-7.8,molecules1
+molecules1,170124_Smp_Pro9312_B,"Isethionic Acid, 13C2",6.71,44297176,0,1419253,-7.7,molecules1
+molecules1,170124_Smp_Pro9312_C,"Isethionic Acid, 13C2",6.73,44244480,0,1493098,-7.7,molecules1
+molecules1,170124_Smp_Pro9313_A,"Isethionic Acid, 13C2",6.76,42258840,0,1373136,-7.9,molecules1
+molecules1,170124_Smp_Pro9313_B,"Isethionic Acid, 13C2",6.76,42008180,0,1422077,-7.8,molecules1
+molecules1,170124_Smp_Pro9313_C,"Isethionic Acid, 13C2",6.68,43439372,0,1355928,-7.9,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"Isethionic Acid, 13C2",6.2,44911720,0,1137038,-8.1,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"Isethionic Acid, 13C2",6.2,47233176,0,1282646,-8,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"Isethionic Acid, 13C2",6.12,47348460,26390,1315094,-7.6,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"Isethionic Acid, 13C2",6.31,45182692,1153887,1354969,-7.8,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"Isethionic Acid, 13C2",6.12,42723340,0,1204874,-7.7,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"Isethionic Acid, 13C2",6.18,43530604,0,1091876,-7.7,molecules1
+molecules1,170124_Blk_ProcessBlk_1,"L-Cysteic Acid, D3",12.32,8309240,0,663411,-3.7,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"L-Cysteic Acid, D3",12.34,7920959,0,630536,-3.8,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"L-Cysteic Acid, D3",12.29,8421063,0,673074,-3.9,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"L-Cysteic Acid, D3",12.46,12191622,0,910875,-4,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"L-Cysteic Acid, D3",12.46,13466710,0,954059,-3.9,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"L-Cysteic Acid, D3",12.48,13641062,0,993760,-4.1,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"L-Cysteic Acid, D3",12.34,9341242,0,1186567,-3.9,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"L-Cysteic Acid, D3",12.32,8834189,0,1174866,-4,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"L-Cysteic Acid, D3",12.31,9258853,0,1133469,-4.1,molecules1
+molecules1,170124_Smp_Pro9312_A,"L-Cysteic Acid, D3",12.46,12582998,0,965773,-4,molecules1
+molecules1,170124_Smp_Pro9312_B,"L-Cysteic Acid, D3",12.44,12310750,0,904856,-3.8,molecules1
+molecules1,170124_Smp_Pro9312_C,"L-Cysteic Acid, D3",12.51,13087482,0,973386,-4,molecules1
+molecules1,170124_Smp_Pro9313_A,"L-Cysteic Acid, D3",12.51,12664671,0,1072788,-4.1,molecules1
+molecules1,170124_Smp_Pro9313_B,"L-Cysteic Acid, D3",12.51,12126057,0,903519,-3.9,molecules1
+molecules1,170124_Smp_Pro9313_C,"L-Cysteic Acid, D3",12.51,11138989,0,840379,-4.2,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"L-Cysteic Acid, D3",12.42,8831461,0,1121180,-4.1,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"L-Cysteic Acid, D3",12.4,9144675,0,1170175,-4,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"L-Cysteic Acid, D3",12.34,9440222,0,1115377,-3.8,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"L-Cysteic Acid, D3",12.42,8990168,0,1089733,-4,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"L-Cysteic Acid, D3",12.37,8630779,0,1063327,-4,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"L-Cysteic Acid, D3",12.39,8544404,0,1105349,-4.2,molecules1
+molecules1,170124_Blk_ProcessBlk_1,"Taurine, D4",10.52,23837942,23566,2328099,-7.2,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"Taurine, D4",10.49,22344668,0,2089710,-7.2,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"Taurine, D4",10.5,22403668,0,2111903,-7.5,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"Taurine, D4",10.69,11227401,0,1271666,-7.6,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"Taurine, D4",10.66,12249287,0,1349591,-7.5,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"Taurine, D4",10.66,12213208,0,1319241,-7.5,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"Taurine, D4",10.72,11859067,0,1505186,-7.3,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"Taurine, D4",10.74,13368278,91582,1847736,-7.3,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"Taurine, D4",10.74,13183684,0,1676725,-7.3,molecules1
+molecules1,170124_Smp_Pro9312_A,"Taurine, D4",10.71,16407234,0,1763762,-7.6,molecules1
+molecules1,170124_Smp_Pro9312_B,"Taurine, D4",10.69,14962868,0,1612273,-7.3,molecules1
+molecules1,170124_Smp_Pro9312_C,"Taurine, D4",10.72,16138188,0,1732860,-7.5,molecules1
+molecules1,170124_Smp_Pro9313_A,"Taurine, D4",10.72,6780372,0,745745,-7.6,molecules1
+molecules1,170124_Smp_Pro9313_B,"Taurine, D4",10.69,9439087,0,1017158,-7.6,molecules1
+molecules1,170124_Smp_Pro9313_C,"Taurine, D4",10.71,12100742,0,1304793,-8.1,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"Taurine, D4",10.78,13809284,0,1680295,-7.6,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"Taurine, D4",10.82,13293178,0,1667784,-7.4,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"Taurine, D4",10.72,14642093,0,1698199,-7.2,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"Taurine, D4",10.77,13571142,0,1669255,-7.4,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"Taurine, D4",10.72,13939045,0,1741194,-7.4,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"Taurine, D4",10.77,13980306,0,1747111,-7.6,molecules1
+molecules1,170124_Blk_ProcessBlk_1,"Succinic Acid, D4",12.39,58356220,0,4911374,-7.9,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"Succinic Acid, D4",12.46,54561408,0,4512384,-8,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"Succinic Acid, D4",12.4,55869996,0,5058925,-8.1,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"Succinic Acid, D4",12.49,58337052,0,5143021,-8.2,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"Succinic Acid, D4",12.46,68299576,0,5339722,-8.1,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"Succinic Acid, D4",12.48,70135920,0,5623117,-8.2,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"Succinic Acid, D4",12.29,80838008,1625441,7601887,-8.2,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"Succinic Acid, D4",12.27,74581192,391278,7342367,-8.2,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"Succinic Acid, D4",12.24,69939696,1347902,6487654,-8.2,molecules1
+molecules1,170124_Smp_Pro9312_A,"Succinic Acid, D4",12.51,60115232,0,4835469,-8.1,molecules1
+molecules1,170124_Smp_Pro9312_B,"Succinic Acid, D4",12.51,62225688,0,4897801,-8,molecules1
+molecules1,170124_Smp_Pro9312_C,"Succinic Acid, D4",12.51,67249000,0,5327682,-8.1,molecules1
+molecules1,170124_Smp_Pro9313_A,"Succinic Acid, D4",12.53,72657856,0,5841989,-8.2,molecules1
+molecules1,170124_Smp_Pro9313_B,"Succinic Acid, D4",12.51,57417456,0,4727426,-7.9,molecules1
+molecules1,170124_Smp_Pro9313_C,"Succinic Acid, D4",12.51,53785156,0,4722423,-8.3,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"Succinic Acid, D4",12.35,79063760,719006,7265506,-8.3,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"Succinic Acid, D4",12.34,84025920,306246,7850393,-8.3,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"Succinic Acid, D4",12.29,72387672,591288,6910959,-8,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"Succinic Acid, D4",12.37,81005144,1760370,7347877,-8.3,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"Succinic Acid, D4",12.32,68353680,0,6280400,-8.2,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"Succinic Acid, D4",12.34,70407216,0,6444926,-8.3,molecules1
+molecules1,170124_Blk_ProcessBlk_1,"Sulfoacetic Acid, 13C2",13.99,4899463,0,491701,-6.2,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"Sulfoacetic Acid, 13C2",14.01,4738369,0,424892,-6.4,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"Sulfoacetic Acid, 13C2",13.98,4824765,0,441741,-6.3,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"Sulfoacetic Acid, 13C2",13.96,8763628,0,1796184,-6.2,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"Sulfoacetic Acid, 13C2",13.96,9306159,0,1788464,-6.4,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"Sulfoacetic Acid, 13C2",13.94,8838059,0,1846434,-6.2,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"Sulfoacetic Acid, 13C2",13.78,53686576,0,6635175,-6.8,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"Sulfoacetic Acid, 13C2",13.78,52232716,0,6513886,-6.7,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"Sulfoacetic Acid, 13C2",13.77,53237660,259419,6798714,-6.7,molecules1
+molecules1,170124_Smp_Pro9312_A,"Sulfoacetic Acid, 13C2",13.97,11147924,0,2312911,-6.2,molecules1
+molecules1,170124_Smp_Pro9312_B,"Sulfoacetic Acid, 13C2",13.98,9665413,0,1988463,-6.2,molecules1
+molecules1,170124_Smp_Pro9312_C,"Sulfoacetic Acid, 13C2",13.97,9050944,0,1778796,-6.5,molecules1
+molecules1,170124_Smp_Pro9313_A,"Sulfoacetic Acid, 13C2",13.99,8967356,0,2020045,-6.3,molecules1
+molecules1,170124_Smp_Pro9313_B,"Sulfoacetic Acid, 13C2",13.96,8728700,0,1934572,-6.6,molecules1
+molecules1,170124_Smp_Pro9313_C,"Sulfoacetic Acid, 13C2",13.96,8413657,0,1794324,-7,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"Sulfoacetic Acid, 13C2",13.86,55988072,496734,6939115,-6.9,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"Sulfoacetic Acid, 13C2",13.85,53912296,0,6444498,-6.7,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"Sulfoacetic Acid, 13C2",13.81,54111776,591682,6555059,-6.6,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"Sulfoacetic Acid, 13C2",13.85,51980844,0,6391710,-6.9,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"Sulfoacetic Acid, 13C2",13.81,56086700,0,6749410,-6.8,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"Sulfoacetic Acid, 13C2",13.85,57860320,0,6944607,-6.9,molecules1
+molecules1,170124_Blk_ProcessBlk_1,"Sulfolactic Acid, 13C3",13.58,2682820,0,252264,-3.5,molecules1
+molecules1,170124_Blk_ProcessBlk_2,"Sulfolactic Acid, 13C3",13.56,2482270,0,247696,-3.6,molecules1
+molecules1,170124_Blk_ProcessBlk_3,"Sulfolactic Acid, 13C3",13.55,2286679,0,242805,-3.6,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,"Sulfolactic Acid, 13C3",13.64,3259135,0,408647,-3.6,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,"Sulfolactic Acid, 13C3",13.63,3527278,0,393580,-3.7,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,"Sulfolactic Acid, 13C3",13.61,3596306,0,410794,-3.6,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,"Sulfolactic Acid, 13C3",13.42,47552532,0,5849005,-3.8,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,"Sulfolactic Acid, 13C3",13.41,50001040,179020,6338763,-3.8,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,"Sulfolactic Acid, 13C3",13.41,43970628,380555,5118571,-3.8,molecules1
+molecules1,170124_Smp_Pro9312_A,"Sulfolactic Acid, 13C3",13.64,3562614,0,438387,-3.6,molecules1
+molecules1,170124_Smp_Pro9312_B,"Sulfolactic Acid, 13C3",13.65,4000970,0,457215,-3.3,molecules1
+molecules1,170124_Smp_Pro9312_C,"Sulfolactic Acid, 13C3",13.66,3178428,0,384486,-3.4,molecules1
+molecules1,170124_Smp_Pro9313_A,"Sulfolactic Acid, 13C3",13.67,3518227,0,443817,-3.9,molecules1
+molecules1,170124_Smp_Pro9313_B,"Sulfolactic Acid, 13C3",13.62,3250816,0,390500,-3.8,molecules1
+molecules1,170124_Smp_Pro9313_C,"Sulfolactic Acid, 13C3",13.65,3129334,0,381571,-4.2,molecules1
+molecules1,170124_Smp_Vesicle9312_1,"Sulfolactic Acid, 13C3",13.47,50421368,303123,6544185,-4.1,molecules1
+molecules1,170124_Smp_Vesicle9312_2,"Sulfolactic Acid, 13C3",13.47,50556540,0,6707156,-3.9,molecules1
+molecules1,170124_Smp_Vesicle9312_3,"Sulfolactic Acid, 13C3",13.42,52529896,42726,6553022,-3.6,molecules1
+molecules1,170124_Smp_Vesicle9313_1,"Sulfolactic Acid, 13C3",13.5,49373916,0,6511531,-3.9,molecules1
+molecules1,170124_Smp_Vesicle9313_2,"Sulfolactic Acid, 13C3",13.42,55695144,0,7387254,-3.8,molecules1
+molecules1,170124_Smp_Vesicle9313_3,"Sulfolactic Acid, 13C3",13.47,50905812,183962,6357121,-4.1,molecules1

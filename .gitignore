@@ -1,0 +1,10 @@
+HILICNeg/mzxml/
+HILICPos/mzxml/
+RP/mzxml/
+.Rproj.user/**
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+.Rproj.user/
+Vesicle Metabolites Reanalysis Plan.gdoc
