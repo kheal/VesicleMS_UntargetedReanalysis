@@ -8,6 +8,7 @@ Organization notes:
 As of 08/11/20, all mzxml and MSDial files are in corresponding Fraction/mzxml files 
 
 Analysis notes:
+BMIS-HILIC working
 
 ```{r, message=FALSE, error=FALSE}
 library(tidyverse)

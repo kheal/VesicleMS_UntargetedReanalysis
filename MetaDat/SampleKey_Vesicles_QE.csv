@@ -1,186 +1,186 @@
-Sample.Name,Notes,Fraction,Sample.Group,Treatment.Group,Bio.Normalization,Injec_vol,Blanks
-170124_Blk_1,,HILIC,1,1,,1,
-170124_Blk_2,,HILIC,1,1,,1,
-170124_Std_4uM_StdsInH2O_1,,HILIC,1,1,,1,
-170124_Std_4uM_StdsInMatrix_1,Pro Culture Matrix,HILIC,1,1,,1,
-170124_Blk_3,,HILIC,1,1,,1,
-170124_Blk_4,,HILIC,1,1,,1,
-170124_Blk_ProcessBlk_1,Process blank with Pro cultures,HILIC,1,1,,1,
-170124_Blk_ProcessBlk_2,,HILIC,1,1,,1,
-170124_Blk_ProcessBlk_3,,HILIC,1,1,,1,
-170124_Smp_Pro9312_A,,HILIC,1,1,,1,
-170124_Smp_Pro9312_C,,HILIC,1,1,,1,
-170124_Smp_Pro9313_A,,HILIC,1,1,,1,
-170124_Blk_5,,HILIC,1,1,,1,
-170124_Smp_Pro9312_B,,HILIC,1,1,,1,
-170124_Smp_Pro9313_B,,HILIC,1,1,,1,
-170124_Smp_Pro9313_C,,HILIC,1,1,,1,
-170124_Blk_6,,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_FS_1,pooled of cell pellets_full scan,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_FS_2,pooled of cell pellets_full scan,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_FS_3,pooled of cell pellets_full scan,HILIC,1,1,,1,
-170124_Blk_7,,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Pos_1,pooled of cell pellets_pos,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Pos_2,pooled of cell pellets_pos,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Pos_3,pooled of cell pellets_pos,HILIC,1,1,,1,
-170124_Blk_8,,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Neg_1,pooled of cell pellets_neg,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Neg_2,pooled of cell pellets_neg,HILIC,1,1,,1,
-170124_Poo_Jan24_AqExtracts_Neg_3,pooled of cell pellets_neg,HILIC,1,1,,1,
-170124_Blk_9,,HILIC,1,1,,1,
-170124_Std_4uM_StdsInMatrix_2,,HILIC,1,1,,1,
-170124_Blk_10,,HILIC,1,1,,1,
-170124_Blk_11,,HILIC,1,1,,1,
-170124_Blk_1a,,HILIC,1,1,,1,
-170124_Blk_1b,,HILIC,1,1,,1,
-170124_Blk_1c,,HILIC,1,1,,1,
-170124_Blk_2a,,HILIC,1,1,,1,
-170124_Blk_2b,,HILIC,1,1,,1,
-170124_Blk_2c,,HILIC,1,1,,1,
-170124_Blk_3a,,HILIC,1,1,,1,
-170124_Blk_3b,,HILIC,1,1,,1,
-170124_Blk_3c,,HILIC,1,1,,1,
-170124_Blk_4a,,HILIC,1,1,,1,
-170124_Blk_4b,,HILIC,1,1,,1,
-170124_Blk_4c,,HILIC,1,1,,1,
-170124_Smp_Vesicle9313_1,,HILIC,1,1,,1,
-170124_Smp_Vesicle9312_1,,HILIC,1,1,,1,
-170124_Smp_Vesicle9313_3,,HILIC,1,1,,1,
-170124_Blk_12,,HILIC,1,1,,1,
-170124_Smp_Vesicle9312_2,,HILIC,1,1,,1,
-170124_Smp_Vesicle9313_2,,HILIC,1,1,,1,
-170124_Smp_Vesicle9312_3,,HILIC,1,1,,1,
-170124_Blk_13,,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_FS_1,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_FS_2,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_FS_3,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Blk_14,,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Pos_1,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Pos_2,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Pos_3,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Blk_15,,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Neg_1,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Neg_2,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Poo_Jan25_AqExtracts_Neg_3,pooled of vesicle samples,HILIC,1,1,,1,
-170124_Std_4uM_StdsInMatrix_3,,HILIC,1,1,,1,
-170124_Std_4uM_StdsInH2O_2,,HILIC,1,1,,1,
-170124_Blk_16,,HILIC,1,1,,1,
-170124_Blk_17,,HILIC,1,1,,1,
-170128_Blk_1,,CyanoAq,1,1,,1,
-170128_Blk_2,,CyanoAq,1,1,,1,
-170128_Std_250nM_StdsInAqMatrix_1,,CyanoAq,1,1,,1,
-170128_Blk_3,,CyanoAq,1,1,,1,
-170128_Blk_4,,CyanoAq,1,1,,1,
-170128_Blk_ProcessBlk_1,,CyanoAq,1,1,,1,
-170128_Blk_ProcessBlk_2,,CyanoAq,1,1,,1,
-170128_Blk_ProcessBlk_3,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_A,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_A_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_C,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_C_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_A,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_A_DDA,,CyanoAq,1,1,,1,
-170128_Blk_5,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_B,,CyanoAq,1,1,,1,
-170128_Smp_Pro9312_B_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_B,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_B_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_C,,CyanoAq,1,1,,1,
-170128_Smp_Pro9313_C_DDA,,CyanoAq,1,1,,1,
-170128_Blk_6,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_FS_1,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_FS_2,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_FS_3,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_DDA_1,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_DDA_2,,CyanoAq,1,1,,1,
-170128_Poo_Jan24_AqExtracts_DDA_3,,CyanoAq,1,1,,1,
-170128_Blk_9,,CyanoAq,1,1,,1,
-170128_Blk_1a,,CyanoAq,1,1,,1,
-170128_Blk_1b,,CyanoAq,1,1,,1,
-170128_Blk_1c,,CyanoAq,1,1,,1,
-170128_Blk_2a,,CyanoAq,1,1,,1,
-170128_Blk_2b,,CyanoAq,1,1,,1,
-170128_Blk_2c,,CyanoAq,1,1,,1,
-170128_Blk_3a,,CyanoAq,1,1,,1,
-170128_Blk_3b,,CyanoAq,1,1,,1,
-170128_Blk_3c,,CyanoAq,1,1,,1,
-170128_Blk_4a,,CyanoAq,1,1,,1,
-170128_Blk_4b,,CyanoAq,1,1,,1,
-170128_Blk_4c,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_1,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_1_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_1,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_1_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_3,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_3_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_2,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_2_DDA,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_2,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9313_2DDA,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_3,,CyanoAq,1,1,,1,
-170128_Smp_Vesicle9312_3_DDA,,CyanoAq,1,1,,1,
-170128_Blk_11,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_FS_1,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_FS_2,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_FS_3,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_DDA_1,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_DDA_2,,CyanoAq,1,1,,1,
-170128_Poo_Jan25_AqExtracts_DDA_3,,CyanoAq,1,1,,1,
-170128_Std_250nM_StdsInAqMatrix_2,,CyanoAq,1,1,,1,
-170128_Std_250nM_StdsInDCMMatrix_1,,CyanoDCM,1,1,,1,
-170128_Blk_12,,CyanoDCM,1,1,,1,
-170128_Blk_ProcessBlk_1_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_ProcessBlk_2_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_ProcessBlk_3_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_A_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_A_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_C_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_C_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_A_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_A_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_13,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_B_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9312_B_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_B_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_B_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_C_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Pro9313_C_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_14,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_FS_1,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_FS_2,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_FS_3,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_DDA_1,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_DDA_2,,CyanoDCM,1,1,,1,
-170128_Poo_Jan24_DCMExtracts_DDA_3,,CyanoDCM,1,1,,1,
-170128_Blk_15,,CyanoDCM,1,1,,1,
-170128_Blk_1a_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_1b_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_1c_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_2a_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_2b_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_2c_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_3a_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_3b_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_3c_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_4a_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_4b_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_4c_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_1_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_1_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_1_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_1_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_3_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_3_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_2_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_2_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_2_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9313_2_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_3_DCM,,CyanoDCM,1,1,,1,
-170128_Smp_Vesicle9312_3_DDA_DCM,,CyanoDCM,1,1,,1,
-170128_Blk_17,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_FS_1,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_FS_2,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_FS_3,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_DDA_1,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_DDA_2,,CyanoDCM,1,1,,1,
-170128_Poo_Jan25_DCMExtracts_DDA_3,,CyanoDCM,1,1,,1,
+Sample.Name,Notes,Fraction,Sample.Group,Treatment.Group,Bio.Normalization,Injec_vol,Blanks,Samp.Type
+170124_Blk_1,,HILIC,1,1,,1,,
+170124_Blk_2,,HILIC,1,1,,1,,
+170124_Std_4uM_StdsInH2O_1,,HILIC,1,1,,1,,
+170124_Std_4uM_StdsInMatrix_1,Pro Culture Matrix,HILIC,1,1,,1,,
+170124_Blk_3,,HILIC,1,1,,1,,
+170124_Blk_4,,HILIC,1,1,,1,,
+170124_Blk_ProcessBlk_1,Process blank with Pro cultures,HILIC,1,1,,1,,Pellet
+170124_Blk_ProcessBlk_2,,HILIC,1,1,,1,,Pellet
+170124_Blk_ProcessBlk_3,,HILIC,1,1,,1,,Pellet
+170124_Smp_Pro9312_A,,HILIC,1,1,,1,,Pellet
+170124_Smp_Pro9312_C,,HILIC,1,1,,1,,Pellet
+170124_Smp_Pro9313_A,,HILIC,1,1,,1,,Pellet
+170124_Blk_5,,HILIC,1,1,,1,,
+170124_Smp_Pro9312_B,,HILIC,1,1,,1,,Pellet
+170124_Smp_Pro9313_B,,HILIC,1,1,,1,,Pellet
+170124_Smp_Pro9313_C,,HILIC,1,1,,1,,Pellet
+170124_Blk_6,,HILIC,1,1,,1,,
+170124_Poo_Jan24_AqExtracts_FS_1,pooled of cell pellets_full scan,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_FS_2,pooled of cell pellets_full scan,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_FS_3,pooled of cell pellets_full scan,HILIC,1,1,,1,,Pellet
+170124_Blk_7,,HILIC,1,1,,1,,
+170124_Poo_Jan24_AqExtracts_Pos_1,pooled of cell pellets_pos,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_Pos_2,pooled of cell pellets_pos,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_Pos_3,pooled of cell pellets_pos,HILIC,1,1,,1,,Pellet
+170124_Blk_8,,HILIC,1,1,,1,,
+170124_Poo_Jan24_AqExtracts_Neg_1,pooled of cell pellets_neg,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_Neg_2,pooled of cell pellets_neg,HILIC,1,1,,1,,Pellet
+170124_Poo_Jan24_AqExtracts_Neg_3,pooled of cell pellets_neg,HILIC,1,1,,1,,Pellet
+170124_Blk_9,,HILIC,1,1,,1,,
+170124_Std_4uM_StdsInMatrix_2,,HILIC,1,1,,1,,
+170124_Blk_10,,HILIC,1,1,,1,,
+170124_Blk_11,,HILIC,1,1,,1,,
+170124_Blk_1a,,HILIC,1,1,,1,,Vesicle
+170124_Blk_1b,,HILIC,1,1,,1,,Vesicle
+170124_Blk_1c,,HILIC,1,1,,1,,Vesicle
+170124_Blk_2a,,HILIC,1,1,,1,,Vesicle
+170124_Blk_2b,,HILIC,1,1,,1,,Vesicle
+170124_Blk_2c,,HILIC,1,1,,1,,Vesicle
+170124_Blk_3a,,HILIC,1,1,,1,,Vesicle
+170124_Blk_3b,,HILIC,1,1,,1,,Vesicle
+170124_Blk_3c,,HILIC,1,1,,1,,Vesicle
+170124_Blk_4a,,HILIC,1,1,,1,,Vesicle
+170124_Blk_4b,,HILIC,1,1,,1,,Vesicle
+170124_Blk_4c,,HILIC,1,1,,1,,Vesicle
+170124_Smp_Vesicle9313_1,,HILIC,1,1,,1,,Vesicle
+170124_Smp_Vesicle9312_1,,HILIC,1,1,,1,,Vesicle
+170124_Smp_Vesicle9313_3,,HILIC,1,1,,1,,Vesicle
+170124_Blk_12,,HILIC,1,1,,1,,
+170124_Smp_Vesicle9312_2,,HILIC,1,1,,1,,Vesicle
+170124_Smp_Vesicle9313_2,,HILIC,1,1,,1,,Vesicle
+170124_Smp_Vesicle9312_3,,HILIC,1,1,,1,,Vesicle
+170124_Blk_13,,HILIC,1,1,,1,,
+170124_Poo_Jan25_AqExtracts_FS_1,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_FS_2,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_FS_3,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Blk_14,,HILIC,1,1,,1,,
+170124_Poo_Jan25_AqExtracts_Pos_1,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_Pos_2,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_Pos_3,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Blk_15,,HILIC,1,1,,1,,
+170124_Poo_Jan25_AqExtracts_Neg_1,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_Neg_2,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Poo_Jan25_AqExtracts_Neg_3,pooled of vesicle samples,HILIC,1,1,,1,,Vesicle
+170124_Std_4uM_StdsInMatrix_3,,HILIC,1,1,,1,,
+170124_Std_4uM_StdsInH2O_2,,HILIC,1,1,,1,,
+170124_Blk_16,,HILIC,1,1,,1,,
+170124_Blk_17,,HILIC,1,1,,1,,
+170128_Blk_1,,CyanoAq,1,1,,1,,
+170128_Blk_2,,CyanoAq,1,1,,1,,
+170128_Std_250nM_StdsInAqMatrix_1,,CyanoAq,1,1,,1,,
+170128_Blk_3,,CyanoAq,1,1,,1,,
+170128_Blk_4,,CyanoAq,1,1,,1,,
+170128_Blk_ProcessBlk_1,,CyanoAq,1,1,,1,,Pellet
+170128_Blk_ProcessBlk_2,,CyanoAq,1,1,,1,,Pellet
+170128_Blk_ProcessBlk_3,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9312_A,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9312_A_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9312_C,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9312_C_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_A,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_A_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Blk_5,,CyanoAq,1,1,,1,,
+170128_Smp_Pro9312_B,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9312_B_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_B,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_B_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_C,,CyanoAq,1,1,,1,,Pellet
+170128_Smp_Pro9313_C_DDA,,CyanoAq,1,1,,1,,Pellet
+170128_Blk_6,,CyanoAq,1,1,,1,,
+170128_Poo_Jan24_AqExtracts_FS_1,,CyanoAq,1,1,,1,,Pellet
+170128_Poo_Jan24_AqExtracts_FS_2,,CyanoAq,1,1,,1,,Pellet
+170128_Poo_Jan24_AqExtracts_FS_3,,CyanoAq,1,1,,1,,Pellet
+170128_Poo_Jan24_AqExtracts_DDA_1,,CyanoAq,1,1,,1,,Pellet
+170128_Poo_Jan24_AqExtracts_DDA_2,,CyanoAq,1,1,,1,,Pellet
+170128_Poo_Jan24_AqExtracts_DDA_3,,CyanoAq,1,1,,1,,Pellet
+170128_Blk_9,,CyanoAq,1,1,,1,,
+170128_Blk_1a,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_1b,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_1c,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_2a,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_2b,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_2c,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_3a,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_3b,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_3c,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_4a,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_4b,,CyanoAq,1,1,,1,,Vesicle
+170128_Blk_4c,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_1,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_1_DDA,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_1,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_1_DDA,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_3,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_3_DDA,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_2,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_2_DDA,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_2,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9313_2DDA,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_3,,CyanoAq,1,1,,1,,Vesicle
+170128_Smp_Vesicle9312_3_DDA,,CyanoAq,1,1,,1,,
+170128_Blk_11,,CyanoAq,1,1,,1,,
+170128_Poo_Jan25_AqExtracts_FS_1,,CyanoAq,1,1,,1,,Vesicle
+170128_Poo_Jan25_AqExtracts_FS_2,,CyanoAq,1,1,,1,,Vesicle
+170128_Poo_Jan25_AqExtracts_FS_3,,CyanoAq,1,1,,1,,Vesicle
+170128_Poo_Jan25_AqExtracts_DDA_1,,CyanoAq,1,1,,1,,Vesicle
+170128_Poo_Jan25_AqExtracts_DDA_2,,CyanoAq,1,1,,1,,Vesicle
+170128_Poo_Jan25_AqExtracts_DDA_3,,CyanoAq,1,1,,1,,Vesicle
+170128_Std_250nM_StdsInAqMatrix_2,,CyanoAq,1,1,,1,,
+170128_Std_250nM_StdsInDCMMatrix_1,,CyanoDCM,1,1,,1,,
+170128_Blk_12,,CyanoDCM,1,1,,1,,
+170128_Blk_ProcessBlk_1_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_ProcessBlk_2_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_ProcessBlk_3_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_A_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_A_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_C_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_C_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_A_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_A_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_13,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_B_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9312_B_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_B_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_B_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_C_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Pro9313_C_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_14,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_FS_1,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_FS_2,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_FS_3,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_DDA_1,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_DDA_2,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan24_DCMExtracts_DDA_3,,CyanoDCM,1,1,,1,,
+170128_Blk_15,,CyanoDCM,1,1,,1,,
+170128_Blk_1a_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_1b_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_1c_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_2a_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_2b_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_2c_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_3a_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_3b_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_3c_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_4a_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_4b_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_4c_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_1_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_1_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_1_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_1_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_3_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_3_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_2_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_2_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_2_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9313_2_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_3_DCM,,CyanoDCM,1,1,,1,,
+170128_Smp_Vesicle9312_3_DDA_DCM,,CyanoDCM,1,1,,1,,
+170128_Blk_17,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_FS_1,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_FS_2,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_FS_3,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_DDA_1,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_DDA_2,,CyanoDCM,1,1,,1,,
+170128_Poo_Jan25_DCMExtracts_DDA_3,,CyanoDCM,1,1,,1,,
