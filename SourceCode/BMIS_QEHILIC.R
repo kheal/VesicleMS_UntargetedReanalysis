@@ -80,7 +80,7 @@ is.dat.full.with.samp.edited <- is.dat.full.with.samp %>%
            str_replace("_1a", "_vesicleblank_1") %>%
            str_replace("_2a", "_vesicleblank_2") %>%
            str_replace("_3a", "_vesicleblank_3") %>%
-           str_replace("_4a", "_vesicleblank_4"))
+           str_replace("_4a", "_vesicleblank_4")) %>%
   filter(!str_detect(MF, "Histidine")) 
 
 xcms.long <- xcms.dat %>%
