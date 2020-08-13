@@ -8,7 +8,6 @@ Organization notes:
 As of 08/11/20, all mzxml and MSDial files are in corresponding Fraction/mzxml files 
 
 Analysis notes:
-TO DO: re add the blank areas after BMIS for next combine and tidy steps
 
 ```{r, message=FALSE, error=FALSE}
 library(here)

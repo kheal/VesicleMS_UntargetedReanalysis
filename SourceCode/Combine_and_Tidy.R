@@ -116,7 +116,7 @@ dat.QC <- dat %>%
   left_join(dat.MF.good, by = c("MF", "Samp.Type"))
 
 
-#Summarize number of "good mass features in each fraction and in each sample type"
+#Summarize number of "good mass features in each fraction and in each sample type"-----
 dat.QC.summary <- dat.QC %>%
   mutate(Fraction = str_extract(MF, "_\\w+$") %>%
            str_replace("_", "")) %>%
@@ -133,3 +133,30 @@ dat.QC.summary.3 <- dat.QC.summary.2 %>%
   group_by(samp, Samp.Type, Fraction) %>%
   summarise(MFs_observed = sum(Keep))
 write_csv(dat.QC.summary.3, "Intermediates/MF_observed_summary.csv")
+
+
+#Summarize number of "Shared between cells or vesicles of both strains"-----
+dat.QC.summary.5 <- dat.QC.summary.2 %>%
+  mutate(Strain = str_extract(samp, "931.")) %>%
+  group_by(MF, Samp.Type, Fraction) %>%
+  summarise(Keep_total = sum(Keep))%>%
+  mutate(Shared = ifelse(Keep_total > 1.5, 1, 0)) %>%
+  mutate(At_least_one = ifelse(Keep_total >0, 1, 0)) %>%
+  group_by(Samp.Type, Fraction) %>%
+  summarise(Shared_total_btwStrains = sum(Shared),
+            Shared_percent_btwStrains = sum(Shared)/sum(At_least_one)*100)
+write_csv(dat.QC.summary.5, "Intermediates/MF_observed_summary_betweenstrains.csv")
+
+
+#Summarize number of "Shared between cells and vesicles of both strains"-----
+dat.QC.summary.6 <- dat.QC.summary.2 %>%
+  mutate(Strain = str_extract(samp, "931.")) %>%
+  group_by(MF, Strain, Fraction) %>%
+  summarise(Keep_total = sum(Keep)) %>%
+  mutate(Shared = ifelse(Keep_total > 1.5, 1, 0)) %>%
+  mutate(At_least_one = ifelse(Keep_total >0, 1, 0))%>%
+  group_by(Strain, Fraction) %>%
+  summarise(Shared_total_btwVandC = sum(Shared),
+            Shared_percent_btwVandC = sum(Shared)/sum(At_least_one)*100)
+write_csv(dat.QC.summary.6, "Intermediates/MF_observed_summary_betweensVandC.csv")
+
