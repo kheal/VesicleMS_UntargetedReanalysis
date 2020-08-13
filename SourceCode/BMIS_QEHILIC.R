@@ -202,7 +202,32 @@ BMIS_normalizedData <- newpoodat %>% select(MF, FinalBMIS, Orig_RSD, FinalRSD) %
     left_join(area.norm.2 %>% rename(FinalBMIS = MIS)) %>% unique() %>%
     filter(!MF %in% is.dat.full.with.samp.edited$MF)
 
-BMISlist <- list(IS_inspectPlot, QuickReport, ISTest_plot, BMIS_normalizedData)
+#clean up the blank data so we can add it back on 
+blank.dat.2 <- blank.dat %>% mutate(SampID = SampID %>% 
+                                     str_replace("_FS_","_FS") %>%
+                                     str_replace("Jan25_","Jan25") %>%
+                                     str_replace("Jan24_","Jan24") %>%
+                                     str_replace("_1a", "_vesicleblank_1") %>%
+                                     str_replace("_2a", "_vesicleblank_2") %>%
+                                     str_replace("_3a", "_vesicleblank_3") %>%
+                                     str_replace("_4a", "_vesicleblank_4")) %>%
+  separate(SampID, c("runDate", "type","samp","replicate"),"_", remove = FALSE) %>%
+  left_join(samp.key %>%
+              mutate(SampID = Sample.Name %>% 
+                       str_replace("_FS_","_FS") %>%
+                       str_replace("Jan25_","Jan25") %>%
+                       str_replace("Jan24_","Jan24") %>%
+                       str_replace("_1a", "_vesicleblank_1") %>%
+                       str_replace("_2a", "_vesicleblank_2") %>%
+                       str_replace("_3a", "_vesicleblank_3") %>%
+                       str_replace("_4a", "_vesicleblank_4")) %>%
+              select(SampID, Samp.Type)) %>%
+  mutate(Adjusted_Area = Area)
+ 
+BMIS_normalizedData.2 <- BMIS_normalizedData %>%
+  bind_rows(blank.dat.2)
+
+BMISlist <- list(IS_inspectPlot, QuickReport, ISTest_plot, BMIS_normalizedData.2)
 
 #Removes all intermediate variables :)
 rm(list=setdiff(ls(), c("BMISlist")))

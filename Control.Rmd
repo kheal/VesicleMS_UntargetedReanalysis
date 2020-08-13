@@ -34,9 +34,20 @@ write_csv(BMISlist[[4]], "Intermediates/BMISReports/BMISd_Areas_long_Cyano.csv")
 rm(BMISlist)
 ```
 
+#BMIS on the CyanoOrg output from MSDial, save output in BMISReports Folder, remove the intermediate output
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/BMIS_QECyanoOrg.R')
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsRep_CyanoOrg.pdf", plot = BMISlist[[1]], device = "pdf", width = 10, height = 10, units = "in")
+write_file(BMISlist[[2]], "Intermediates/BMISReports/BMIS_Summary_CyanoOrg.txt")
+ggsave("Intermediates/BMISReports/BMIS_IS_StandardsTest_CyanoOrg.pdf", plot = BMISlist[[3]], device = "pdf", width = 10, height = 10, units = "in")
+write_csv(BMISlist[[4]], "Intermediates/BMISReports/BMISd_Areas_long_CyanoOrg.csv")
+rm(BMISlist)
+```
+
+
 #Combine and Tidy environmental data, add in culture data, grab MS2 data
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
-source('SourceCode/Combine_Clean_nofunction.R')
+source('SourceCode/Combine_and_Tidy.R')
 
 #Add in the culture data
 dat.file <- read_csv("Intermediates/WideArea_withIDinfo.csv")

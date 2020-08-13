@@ -1,0 +1,26 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+molecules1,170128_Blk_1a_DCM,"Arachiodonic Acid, D8",11.97,1393221,0,394457,0.9,molecules1
+molecules1,170128_Blk_2a_DCM,"Arachiodonic Acid, D8",11.98,1533474,0,398346,1.3,molecules1
+molecules1,170128_Blk_3a_DCM,"Arachiodonic Acid, D8",11.98,1746634,0,496111,1.1,molecules1
+molecules1,170128_Blk_4a_DCM,"Arachiodonic Acid, D8",11.97,1609198,0,483484,1,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,"Arachiodonic Acid, D8",11.97,941160,0,325609,1.2,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,"Arachiodonic Acid, D8",11.97,992904,0,356386,1.3,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,"Arachiodonic Acid, D8",11.97,1142867,0,427821,1.1,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,"Arachiodonic Acid, D8",11.97,856650,0,264904,0.4,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,"Arachiodonic Acid, D8",11.97,993074,0,365287,0.4,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,"Arachiodonic Acid, D8",12,1746107,0,567630,0.1,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,"Arachiodonic Acid, D8",11.97,1043829,0,368751,0.2,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,"Arachiodonic Acid, D8",11.99,882964,0,339751,-0.2,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,"Arachiodonic Acid, D8",11.98,962025,0,353119,-0.2,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,"Arachiodonic Acid, D8",11.97,1203074,0,312830,0.6,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,"Arachiodonic Acid, D8",11.96,1276514,0,423892,0.4,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,"Arachiodonic Acid, D8",11.97,1718728,0,399561,0.2,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,"Arachiodonic Acid, D8",11.98,1832088,0,519848,0.3,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,"Arachiodonic Acid, D8",11.97,1364920,0,388308,0.5,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,"Arachiodonic Acid, D8",11.98,1315469,0,399280,1.1,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,"Arachiodonic Acid, D8",11.97,1240892,0,383794,-0.3,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,"Arachiodonic Acid, D8",11.97,1672279,0,490972,-0.3,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,"Arachiodonic Acid, D8",11.98,1066735,0,344507,0.1,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,"Arachiodonic Acid, D8",11.98,1003660,0,362501,-0.5,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,"Arachiodonic Acid, D8",11.97,880219,0,351431,-0.2,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,"Arachiodonic Acid, D8",11.98,1034732,0,394192,-0.7,molecules1
