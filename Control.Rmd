@@ -49,10 +49,4 @@ rm(BMISlist)
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
 source('SourceCode/Combine_and_Tidy.R')
 
-#Add in the culture data
-dat.file <- read_csv("Intermediates/WideArea_withIDinfo.csv")
-culture.file <- read_csv("Intermediates/Culture_Intermediates/combined_wide_LogBioArea.csv")
-combo.wide <- left_join(dat.file, culture.file)
-write_csv(combo.wide, "Intermediates/WideArea_withIDinfo_withCultureLogBioArea.csv")
-remove(list = ls())
 ```

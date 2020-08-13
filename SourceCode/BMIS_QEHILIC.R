@@ -21,13 +21,13 @@ xcms.dat_pos <- read_delim(xcms.dat.pos.file,
                            "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "HILICPos") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
+  select(MF, `170124_Blk_1a`:`170124_Smp_Vesicle9313_3`) %>%
   pivot_longer(-MF, names_to = "SampID", values_to = "Area")
 xcms.dat_neg <- read_delim(xcms.dat.neg.file,
                            "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "HILICNeg") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
+  select(MF, `170124_Blk_1a`:`170124_Smp_Vesicle9313_3`) %>%
   pivot_longer(-MF, names_to = "SampID", values_to = "Area")
 
 blank.dat <- rbind(xcms.dat_pos, xcms.dat_neg) %>%
@@ -93,7 +93,7 @@ xcms.long <- xcms.dat %>%
            str_replace("_3a", "_vesicleblank_3") %>%
            str_replace("_4a", "_vesicleblank_4")) %>%
   filter(!str_detect(SampID, "Pos_")) %>%
-  filter(!str_detect(SampID, "Neg_"))
+  filter(!str_detect(SampID, "Neg_")) 
  
   
 #Calculate mean values for each IS----
@@ -107,14 +107,24 @@ is.means <- is.dat.full.with.samp.edited %>%
                        str_replace("_2a", "_vesicleblank_2") %>%
                        str_replace("_3a", "_vesicleblank_3") %>%
                        str_replace("_4a", "_vesicleblank_4")) %>%
-              select(SampID, Samp.Type)) %>%
+              select(SampID, Samp.Type), by = "SampID") %>%
   group_by(MF, Samp.Type) %>%
   summarise(ave = mean(as.numeric(Area))) %>%
   mutate(ave = ifelse(MF == "Inj_vol", 1, ave))
 
 
 #Normalize to each internal Standard----
-binded <- rbind(is.dat.full.with.samp.edited, xcms.long)
+binded <- rbind(is.dat.full.with.samp.edited, xcms.long) %>%
+  left_join(samp.key %>%
+              mutate(SampID = Sample.Name %>% 
+                       str_replace("_FS_","_FS") %>%
+                       str_replace("Jan25_","Jan25") %>%
+                       str_replace("Jan24_","Jan24") %>%
+                       str_replace("_1a", "_vesicleblank_1") %>%
+                       str_replace("_2a", "_vesicleblank_2") %>%
+                       str_replace("_3a", "_vesicleblank_3") %>%
+                       str_replace("_4a", "_vesicleblank_4")) %>%
+              select(SampID, Samp.Type), by = "SampID") 
 split.dat <- list()
 for (i in 1:length(unique(is.dat.full.with.samp.edited$MF))){
   split.dat[[i]] <- binded %>% mutate(MIS = unique(is.dat.full.with.samp.edited$MF)[i]) %>%

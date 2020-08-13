@@ -1,0 +1,17 @@
+samp,Samp.Type,Fraction,MFs_observed
+Pro9312,Pellet,CyanoAq,582
+Pro9312,Pellet,CyanoOrg,1438
+Pro9312,Pellet,HILICNeg,212
+Pro9312,Pellet,HILICPos,528
+Pro9313,Pellet,CyanoAq,372
+Pro9313,Pellet,CyanoOrg,1520
+Pro9313,Pellet,HILICNeg,218
+Pro9313,Pellet,HILICPos,600
+Vesicle9312,Vesicle,CyanoAq,150
+Vesicle9312,Vesicle,CyanoOrg,1495
+Vesicle9312,Vesicle,HILICNeg,6
+Vesicle9312,Vesicle,HILICPos,11
+Vesicle9313,Vesicle,CyanoAq,287
+Vesicle9313,Vesicle,CyanoOrg,1725
+Vesicle9313,Vesicle,HILICNeg,10
+Vesicle9313,Vesicle,HILICPos,13

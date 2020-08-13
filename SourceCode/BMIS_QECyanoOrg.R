@@ -108,7 +108,18 @@ is.means <- is.dat.full.with.samp.edited %>%
 
 
 #Normalize to each internal Standard----
-binded <- rbind(is.dat.full.with.samp.edited, xcms.long)
+binded <- rbind(is.dat.full.with.samp.edited, xcms.long) %>%
+  left_join(samp.key %>%
+              mutate(SampID = Sample.Name %>% 
+                       str_replace("_DCM","") %>%
+                       str_replace("_FS_","_FS") %>%
+                       str_replace("Jan25_","Jan25") %>%
+                       str_replace("Jan24_","Jan24") %>%
+                       str_replace("_1a", "_vesicleblank_1") %>%
+                       str_replace("_2a", "_vesicleblank_2") %>%
+                       str_replace("_3a", "_vesicleblank_3") %>%
+                       str_replace("_4a", "_vesicleblank_4")) %>%
+              select(SampID, Samp.Type), by = "SampID")
 split.dat <- list()
 for (i in 1:length(unique(is.dat.full.with.samp.edited$MF))){
   split.dat[[i]] <- binded %>% mutate(MIS = unique(is.dat.full.with.samp.edited$MF)[i]) %>%
