@@ -1,0 +1,131 @@
+MS-DIAL ver. 4.24
+
+#Project
+MS1 Data type	Centroid
+MS2 Data type	Centroid
+Ion mode	Positive
+Target	Metablomics
+Mode	ddMSMS
+
+#Data collection parameters
+Retention time begin	1
+Retention time end	100
+Mass range begin	80
+Mass range end	800
+MS2 mass range begin	0
+MS2 mass range end	2000
+
+#Centroid parameters
+MS1 tolerance	0.02
+MS2 tolerance	0.02
+
+#Isotope recognition
+Maximum charged number	2
+
+#Data processing
+Number of threads	3
+
+#Peak detection parameters
+Smoothing method	LinearWeightedMovingAverage
+Smoothing level	3
+Minimum peak width	5
+Minimum peak height	5000
+
+#Peak spotting parameters
+Mass slice width	0.05
+Exclusion mass list (mass & tolerance)
+214.0896	0.01
+118.0655	0.01
+171.1493	0.01
+163.133	0.01
+95.0497	0.01
+215.0931	0.01
+188.062	0.01
+214.0005	0.01
+
+#Deconvolution parameters
+Sigma window value	0.5
+MS2Dec amplitude cut off	0.05
+Exclude after precursor	True
+Keep isotope until	0.5
+Keep original precursor isotopes	False
+
+#MSP file and MS/MS identification setting
+MSP file	
+Retention time tolerance	1
+Accurate mass tolerance (MS1)	0.025
+Accurate mass tolerance (MS2)	0.25
+Identification score cut off	60
+Using retention time for scoring	True
+Using retention time for filtering	True
+
+#Text file and post identification (retention time and accurate mass based) setting
+Text file	
+Retention time tolerance	0.1
+Accurate mass tolerance	0.01
+Identification score cut off	85
+
+#Advanced setting for identification
+Relative abundance cut off	0.1
+Top candidate report	True
+
+#Adduct ion setting
+[M+H]+
+[M+NH4]+
+[M+Na]+
+[M+CH3OH+H]+
+[M+K]+
+[M+Li]+
+[M+ACN+H]+
+[M+H-H2O]+
+[M+H-2H2O]+
+[M+2Na-H]+
+[M+IsoProp+H]+
+[M+ACN+Na]+
+[M+2K-H]+
+[M+DMSO+H]+
+[M+2ACN+H]+
+[M+IsoProp+Na+H]+
+[M-C6H10O4+H]+
+[M-C6H10O5+H]+
+[M-C6H8O6+H]+
+[2M+H]+
+[2M+NH4]+
+[2M+Na]+
+[2M+3H2O+2H]+
+[2M+K]+
+[2M+ACN+H]+
+[2M+ACN+Na]+
+[M+2H]2+
+[M+H+NH4]2+
+[M+H+Na]2+
+[M+H+K]2+
+[M+ACN+2H]2+
+[M+2Na]2+
+[M+2ACN+2H]2+
+[M+3ACN+2H]2+
+[M+3H]3+
+[M+2H+Na]3+
+[M+H+2Na]3+
+[M+3Na]3+
+
+#Alignment parameters setting
+Reference file	Y:\Google_Drive\My Drive\4_OtherProjects\_Vesicles\DataProcessing_Vesicles\RP_org\170128_Poo_Jan24_DCMExtracts_FS_3.abf
+Retention time tolerance	0.05
+MS1 tolerance	0.015
+Retention time factor	0.5
+MS1 factor	0.7
+Peak count filter	0
+N% detected in at least one group	80
+Remove feature based on peak height fold-change	True
+Sample max / blank average	0
+Sample average / blank average	0
+Keep identified and annotated metabolites	True
+Keep removable features and assign the tag for checking	True
+Gap filling by compulsion	True
+
+#Tracking of isotope labels
+Tracking of isotopic labels	FALSE
+
+#Ion mobility
+Ion mobility data	FALSE
