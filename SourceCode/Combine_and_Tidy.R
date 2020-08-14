@@ -188,3 +188,5 @@ dat.QC.2.wide <- dat.QC.2 %>%
                                        str_replace("_", "")) %>%
   select(MF, Fraction, mz, Retention_time, everything()) %>%
   arrange(Fraction, mz)
+write_csv(dat.QC.summary.6, "Intermediates/FullMF_biovolNormalized.csv")
+
