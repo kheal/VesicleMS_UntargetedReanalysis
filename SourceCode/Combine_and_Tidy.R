@@ -16,14 +16,17 @@ HILIC.SN.file.1 <- "HILICPos/SN_0_20208111327.txt"
 HILIC.SN.file.2 <- "HILICNeg/SN_0_20208111351.txt"
 CyanoAq.SN.file <- "RP/SN_0_20208111421.txt"
 CyanoOrg.SN.file <- "RP_org/SN_2_20208131211.txt"
+cell.count.file <- "MetaDat/cell_counts.csv"
 
 #Load and clean up the SNs-----
 SN.dat.HILIC.1 <- read_delim(HILIC.SN.file.1,
                            "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "HILICPos") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
-  pivot_longer(-MF, names_to = "SampID", values_to = "SN") %>% 
+  rename(Retention_time = `Average Rt(min)`,
+         mz = `Average Mz`) %>%
+  select(MF, Retention_time, mz, `170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
+  pivot_longer(`170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`, names_to = "SampID", values_to = "SN") %>% 
   mutate(SampID = SampID %>% 
            str_replace("_FS_","_FS") %>%
            str_replace("Jan25_","Jan25") %>%
@@ -36,8 +39,10 @@ SN.dat.HILIC.2 <- read_delim(HILIC.SN.file.2,
                              "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "HILICNeg") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
-  pivot_longer(-MF, names_to = "SampID", values_to = "SN") %>% 
+  rename(Retention_time = `Average Rt(min)`,
+         mz = `Average Mz`) %>%
+  select(MF, Retention_time, mz,`170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`) %>%
+  pivot_longer(`170124_Blk_ProcessBlk_1`:`170124_Smp_Vesicle9313_3`, names_to = "SampID", values_to = "SN") %>% 
   mutate(SampID = SampID %>% 
            str_replace("_FS_","_FS") %>%
            str_replace("Jan25_","Jan25") %>%
@@ -50,8 +55,10 @@ SN.dat.CyanoAq <- read_delim(CyanoAq.SN.file,
                              "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "CyanoAq") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170128_Blk_1a`:`170128_Smp_Vesicle9313_3`) %>%
-  pivot_longer(-MF, names_to = "SampID", values_to = "SN") %>% 
+  rename(Retention_time = `Average Rt(min)`,
+         mz = `Average Mz`) %>%
+  select(MF, Retention_time, mz, `170128_Blk_1a`:`170128_Smp_Vesicle9313_3`) %>%
+  pivot_longer(`170128_Blk_1a`:`170128_Smp_Vesicle9313_3`, names_to = "SampID", values_to = "SN") %>% 
   mutate(SampID = SampID %>% 
            str_replace("_FS_","_FS") %>%
            str_replace("Jan25_","Jan25") %>%
@@ -64,8 +71,10 @@ SN.dat.CyanoOrg  <- read_delim(CyanoOrg.SN.file,
                              "\t", escape_double = FALSE, trim_ws = TRUE,  skip = 4) %>%
   mutate(Column = "CyanoOrg") %>% 
   mutate(MF = paste0(`Alignment ID`, "_", Column)) %>%
-  select(MF, `170128_Blk_1a_DCM`:`170128_Smp_Vesicle9313_3_DCM`) %>%
-  pivot_longer(-MF, names_to = "SampID", values_to = "SN") %>% 
+  rename(Retention_time = `Average Rt(min)`,
+         mz = `Average Mz`) %>%
+  select(MF, Retention_time, mz, `170128_Blk_1a_DCM`:`170128_Smp_Vesicle9313_3_DCM`) %>%
+  pivot_longer(`170128_Blk_1a_DCM`:`170128_Smp_Vesicle9313_3_DCM`, names_to = "SampID", values_to = "SN") %>% 
   mutate(SampID = SampID %>% 
            str_replace("_DCM","") %>%
            str_replace("_FS_","_FS") %>%
@@ -78,6 +87,9 @@ SN.dat.CyanoOrg  <- read_delim(CyanoOrg.SN.file,
 
 sn.dat.combo <-SN.dat.HILIC.1 %>% bind_rows(SN.dat.HILIC.2) %>%
   bind_rows(SN.dat.CyanoAq) %>% bind_rows(SN.dat.CyanoOrg)
+
+MF.info.combo <-sn.dat.combo %>%
+  select(MF, Retention_time, mz) %>% unique()
 
 
 #Load your BMISd longdats match by samples, attach the SN data------
@@ -160,3 +172,19 @@ dat.QC.summary.6 <- dat.QC.summary.2 %>%
             Shared_percent_btwVandC = sum(Shared)/sum(At_least_one)*100)
 write_csv(dat.QC.summary.6, "Intermediates/MF_observed_summary_betweensVandC.csv")
 
+#Make supplemental table
+dat.QC.2 <- dat.QC %>% left_join(read_csv(cell.count.file), by = c("samp", "replicate")) %>%
+  mutate(Strain = str_extract(samp, "931.")) %>%
+  filter(type == "Smp") %>%
+  mutate(QCd_biovolume_area = ifelse(GoodPeak == 1 & GoodMFs == 1, Adjusted_Area/biovolume_extracted, NA))
+dat.QC.2.wide <- dat.QC.2 %>%
+  mutate(ColumnID = paste(Samp.Type, Strain, replicate, sep = "_")) %>%
+  mutate(ColumnID = ColumnID %>% str_replace("Pellet", "Cell")) %>%
+  select(MF, ColumnID, QCd_biovolume_area) %>%
+  filter(!is.na(QCd_biovolume_area)) %>%
+  pivot_wider(names_from = ColumnID, values_from = QCd_biovolume_area) %>%
+  left_join(MF.info.combo) %>%
+  mutate(Fraction = str_extract(MF, "_\\w+$") %>%
+                                       str_replace("_", "")) %>%
+  select(MF, Fraction, mz, Retention_time, everything()) %>%
+  arrange(Fraction, mz)
