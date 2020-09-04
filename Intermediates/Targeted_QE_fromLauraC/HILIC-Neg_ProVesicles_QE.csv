@@ -1,0 +1,1521 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Aconitic Acid,15.02,356334208,2302314,11896390,-0.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Aconitic Acid,14.34,312424864,3058434,19157184,-0.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Aconitic Acid,15.04,343550816,3021542,11025356,-0.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Aconitic Acid,14.98,358085792,2180446,12003811,-0.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Aconitic Acid,14.42,360321280,3911916,25011396,-0.7,Standards_neg
+Standards_neg,170124_Blk_1a,Aconitic Acid,14.72,677903,0,107837,0.6,Standards_neg
+Standards_neg,170124_Blk_1b,Aconitic Acid,14.69,681950,0,102297,0.4,Standards_neg
+Standards_neg,170124_Blk_1c,Aconitic Acid,14.77,847216,0,143757,0.6,Standards_neg
+Standards_neg,170124_Blk_2a,Aconitic Acid,12.82,243288,0,62192,-0.1,Standards_neg
+Standards_neg,170124_Blk_2b,Aconitic Acid,12.82,400956,0,77199,0.9,Standards_neg
+Standards_neg,170124_Blk_2c,Aconitic Acid,12.81,288710,0,44815,0.8,Standards_neg
+Standards_neg,170124_Blk_3a,Aconitic Acid,14.2,34182,0,26216,4,Standards_neg
+Standards_neg,170124_Blk_3b,Aconitic Acid,17.8,108455,0,25549,4.7,Standards_neg
+Standards_neg,170124_Blk_3c,Aconitic Acid,19.06,116932,0,29497,1.6,Standards_neg
+Standards_neg,170124_Blk_4a,Aconitic Acid,22.02,116327,0,30977,6.5,Standards_neg
+Standards_neg,170124_Blk_4b,Aconitic Acid,20.88,120215,0,37602,6.9,Standards_neg
+Standards_neg,170124_Blk_4c,Aconitic Acid,21.38,166390,0,37689,7.5,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Aconitic Acid,15.13,27391,0,14549,5.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Aconitic Acid,15.73,165218,0,30738,6.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Aconitic Acid,15.64,197949,0,30892,5.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Aconitic Acid,15.19,1396101,0,102845,1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Aconitic Acid,15.09,1659418,0,83680,0.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Aconitic Acid,15.16,1992694,0,90035,0.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Aconitic Acid,14.65,281785,0,47432,0,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Aconitic Acid,14.65,352350,0,98930,-0.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Aconitic Acid,14.61,288750,0,47546,0.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Aconitic Acid,15.23,1040565,0,78807,1.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Aconitic Acid,15.13,2395618,0,121089,1.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Aconitic Acid,15.09,2966629,0,126162,0.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Aconitic Acid,15.15,1744144,0,120872,0.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Aconitic Acid,15.14,1980919,0,119642,0.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Aconitic Acid,15.06,137047,0,30277,4.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Aconitic Acid,14.66,1411273,0,224801,-0.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Aconitic Acid,11.74,123598,0,24401,4.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Aconitic Acid,14.68,1342893,0,190103,-0.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Aconitic Acid,17.1,85594,0,23864,7.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Aconitic Acid,19.86,95400,0,22099,4.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Aconitic Acid,17.2,214137,0,33365,7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,ADP,16,18925360,0,235037,3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,ADP,14.14,18090100,0,223382,3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,ADP,15.81,21461802,0,262535,3.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,ADP,16.37,22425126,0,233987,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,ADP,14.23,23496988,0,298121,3.3,Standards_neg
+Standards_neg,170124_Blk_1a,ADP,13.52,26028,0,23630,6.4,Standards_neg
+Standards_neg,170124_Blk_1b,ADP,13.66,26647,0,26030,2.6,Standards_neg
+Standards_neg,170124_Blk_1c,ADP,14.02,38807,0,31112,1.9,Standards_neg
+Standards_neg,170124_Blk_2a,ADP,13.96,34259,0,30445,1.9,Standards_neg
+Standards_neg,170124_Blk_2b,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2c,ADP,14.24,31097,0,31215,-0.2,Standards_neg
+Standards_neg,170124_Blk_3a,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3b,ADP,13.71,23839,0,14477,2.1,Standards_neg
+Standards_neg,170124_Blk_3c,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,ADP,0.09,7939,0,5121,1.5,Standards_neg
+Standards_neg,170124_Blk_4c,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,ADP,13.89,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,ADP,13.92,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,ADP,13.83,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,ADP,16.47,13864723,0,189437,3.3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,ADP,16.14,15972480,0,223230,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,ADP,16.15,16636794,0,227514,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,ADP,16.07,10161819,0,194683,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,ADP,16.38,6799479,0,159822,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,ADP,15.98,21480702,0,290960,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,ADP,15.76,33321594,0,392129,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,ADP,15.92,18448318,0,265101,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,ADP,16.34,4512716,0,107339,3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,ADP,3.8,11589,0,9394,0.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,ADP,17.66,19113,0,12469,-0.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,ADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,ADP,5.79,9525,0,7529,-7.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,AMP,11.85,53305684,855965,4232758,3.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,AMP,11.2,73924312,0,4509745,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,AMP,11.95,74160920,0,5584685,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,AMP,11.82,74823336,593755,5126668,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,AMP,11.39,98875696,670068,5728804,3.1,Standards_neg
+Standards_neg,170124_Blk_1a,AMP,15.7,112698,0,26925,1.7,Standards_neg
+Standards_neg,170124_Blk_1b,AMP,13.52,56074,0,20393,1.4,Standards_neg
+Standards_neg,170124_Blk_1c,AMP,15.4,166185,0,38896,3.2,Standards_neg
+Standards_neg,170124_Blk_2a,AMP,14.54,75435,0,22188,2.8,Standards_neg
+Standards_neg,170124_Blk_2b,AMP,15.07,61190,0,46399,2.9,Standards_neg
+Standards_neg,170124_Blk_2c,AMP,16.61,72077,0,39084,3.5,Standards_neg
+Standards_neg,170124_Blk_3a,AMP,15.39,60996,0,23938,0.6,Standards_neg
+Standards_neg,170124_Blk_3b,AMP,13.41,23747,0,12578,1.8,Standards_neg
+Standards_neg,170124_Blk_3c,AMP,13.81,33455,0,32897,2.5,Standards_neg
+Standards_neg,170124_Blk_4a,AMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,AMP,0.09,19372,0,12495,3.4,Standards_neg
+Standards_neg,170124_Blk_4c,AMP,18.43,27628,0,18042,5.3,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,AMP,11.43,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,AMP,11.42,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,AMP,11.46,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,AMP,11.9,65495852,0,4640720,2.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,AMP,11.9,68228624,945589,4727401,2.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,AMP,11.91,69760160,788764,5140574,2.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,AMP,14.8,85809,0,21472,1.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,AMP,9.29,11509,0,10863,0.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,AMP,13.77,33298,0,20493,0.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,AMP,11.95,101138256,0,7628078,3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,AMP,11.93,139223216,1497245,10161486,3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,AMP,11.95,87001336,601307,6393039,3.2,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,AMP,11.96,43294032,484881,3314764,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,AMP,11.92,31048574,406936,2206987,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,AMP,11.95,12796097,0,908180,2.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,AMP,13.55,28855,0,17620,1.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,AMP,13.67,45023,0,24335,1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,AMP,13.37,94369,0,31714,2.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,AMP,15.04,55605,0,23334,0.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,AMP,14.47,52672,0,27158,4.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,AMP,13.39,46822,0,45770,2.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Citric Acid,17.33,91330216,9220909,613206,1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Citric Acid,15.39,92883736,0,1364227,0.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Citric Acid,17.02,112230928,0,640689,1.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Citric Acid,16.66,113069400,0,737794,1.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Citric Acid,15.07,116434720,0,1633712,0.4,Standards_neg
+Standards_neg,170124_Blk_1a,Citric Acid,14.49,5213159,0,416836,-1.4,Standards_neg
+Standards_neg,170124_Blk_1b,Citric Acid,14.55,3564668,0,265632,-0.6,Standards_neg
+Standards_neg,170124_Blk_1c,Citric Acid,14.63,3086331,0,211461,0.1,Standards_neg
+Standards_neg,170124_Blk_2a,Citric Acid,19.31,585126,242745,53337,4.1,Standards_neg
+Standards_neg,170124_Blk_2b,Citric Acid,20.71,611858,102898,87802,5.7,Standards_neg
+Standards_neg,170124_Blk_2c,Citric Acid,20.8,874851,36219,108723,6.5,Standards_neg
+Standards_neg,170124_Blk_3a,Citric Acid,19.46,369039,0,100918,3.9,Standards_neg
+Standards_neg,170124_Blk_3b,Citric Acid,21.85,581362,30824,113989,6.8,Standards_neg
+Standards_neg,170124_Blk_3c,Citric Acid,17.55,435111,0,33756,5.7,Standards_neg
+Standards_neg,170124_Blk_4a,Citric Acid,15.67,123139,75876,26548,6.2,Standards_neg
+Standards_neg,170124_Blk_4b,Citric Acid,15.57,98210,0,19500,4.4,Standards_neg
+Standards_neg,170124_Blk_4c,Citric Acid,22.31,470851,161836,77876,7.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Citric Acid,14.83,402581,0,34079,6.1,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Citric Acid,15.17,5464,362987,800,7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Citric Acid,15.21,93235,276649,45370,7.3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Citric Acid,16.8,47507964,0,305224,2.2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Citric Acid,16.39,48305456,327677,350958,1.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Citric Acid,16.64,50197296,0,375463,1.1,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Citric Acid,16.75,656184,0,85815,3.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Citric Acid,15.7,73555,0,18737,2.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Citric Acid,15.68,169206,0,38989,1.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Citric Acid,17.33,5979680,0,107437,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Citric Acid,16.71,15698373,9280627,132141,2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Citric Acid,16.44,23923316,6474014,184681,2.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Citric Acid,16.12,105920296,1058833,916135,0.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Citric Acid,16.02,101788616,220942,787498,1.2,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Citric Acid,16.78,24474806,1326971,170243,3.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Citric Acid,17.08,978458,118810,93658,2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Citric Acid,19.91,717289,0,97625,6.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Citric Acid,15.54,340186,0,68206,2.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Citric Acid,15.65,25308,0,15894,5.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Citric Acid,15.62,46719,0,24453,5.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Citric Acid,15.63,44391,0,16791,6.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Cysteic Acid,12.32,50234236,412107,4509393,-0.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Cysteic Acid,11.77,65480584,0,5765190,-1.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Cysteic Acid,12.42,49190628,159341,5110061,-0.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Cysteic Acid,12.31,61667080,40019,6522257,-0.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Cysteic Acid,11.97,47070260,0,4851244,-1,Standards_neg
+Standards_neg,170124_Blk_1a,Cysteic Acid,10.16,128461,0,20376,-1.6,Standards_neg
+Standards_neg,170124_Blk_1b,Cysteic Acid,10.06,141672,0,14498,-1.3,Standards_neg
+Standards_neg,170124_Blk_1c,Cysteic Acid,10.28,67539,0,13411,-0.8,Standards_neg
+Standards_neg,170124_Blk_2a,Cysteic Acid,12.6,19242,0,11635,-0.3,Standards_neg
+Standards_neg,170124_Blk_2b,Cysteic Acid,10.01,55410,0,11209,-1.3,Standards_neg
+Standards_neg,170124_Blk_2c,Cysteic Acid,10.45,48958,0,12566,-2.1,Standards_neg
+Standards_neg,170124_Blk_3a,Cysteic Acid,10.51,20166,0,12256,-2.2,Standards_neg
+Standards_neg,170124_Blk_3b,Cysteic Acid,9.83,79539,0,21188,-1.7,Standards_neg
+Standards_neg,170124_Blk_3c,Cysteic Acid,9.89,61092,0,16412,-1.8,Standards_neg
+Standards_neg,170124_Blk_4a,Cysteic Acid,12.18,13018,0,12687,-1,Standards_neg
+Standards_neg,170124_Blk_4b,Cysteic Acid,10.58,13358,0,7136,-1.8,Standards_neg
+Standards_neg,170124_Blk_4c,Cysteic Acid,11.32,15587,0,12584,-0.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Cysteic Acid,12.15,10755,0,7963,-0.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Cysteic Acid,11.99,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Cysteic Acid,11.99,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Cysteic Acid,12.49,1447599,0,126186,-0.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Cysteic Acid,12.46,1919489,0,175290,-0.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Cysteic Acid,12.49,2021070,0,171448,-1,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Cysteic Acid,12.49,19223,0,14789,-0.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Cysteic Acid,9.78,75600,0,16929,-0.9,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Cysteic Acid,9.81,50297,0,16240,-1.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Cysteic Acid,12.5,1100921,0,101851,-0.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Cysteic Acid,12.51,1572022,0,142463,-0.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Cysteic Acid,12.53,1795051,0,172539,-0.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Cysteic Acid,12.53,3352011,0,324272,-0.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Cysteic Acid,12.51,2059881,0,159026,-0.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Cysteic Acid,12.54,371343,0,70107,-1.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Cysteic Acid,10.17,39671,0,19526,-2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Cysteic Acid,10.31,28768,0,12527,-0.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Cysteic Acid,10.23,23804,0,13048,-1.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Cysteic Acid,9.59,59969,0,16041,-1.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Cysteic Acid,11.3,11040,0,11638,-3.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Cysteic Acid,10.3,83712,0,21536,-1.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,FAD,10.13,56480996,717599,3077302,3.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,FAD,9.37,82776168,546942,4329961,2.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,FAD,10.25,52503824,172053,3011237,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,FAD,10.11,61018452,0,3380128,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,FAD,9.62,71233288,1857823,3479565,2.8,Standards_neg
+Standards_neg,170124_Blk_1a,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1b,FAD,11.58,12111,0,6738,9,Standards_neg
+Standards_neg,170124_Blk_1c,FAD,19.84,24360,0,22492,2.4,Standards_neg
+Standards_neg,170124_Blk_2a,FAD,10.67,9062,0,6929,2.3,Standards_neg
+Standards_neg,170124_Blk_2b,FAD,7,9197,0,5395,5.9,Standards_neg
+Standards_neg,170124_Blk_2c,FAD,10.75,8580,0,8941,-13,Standards_neg
+Standards_neg,170124_Blk_3a,FAD,5.54,7673,0,4858,7.8,Standards_neg
+Standards_neg,170124_Blk_3b,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,FAD,17.96,18233,0,14505,3.1,Standards_neg
+Standards_neg,170124_Blk_4c,FAD,20.19,19762,0,17234,14.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,FAD,9.92,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,FAD,9.92,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,FAD,10,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,FAD,10.24,1096644,0,126385,2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,FAD,10.22,1478253,0,119570,2.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,FAD,10.22,1338571,0,109454,2.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,FAD,6.1,7435,0,5550,3.9,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,FAD,10.25,749675,0,86753,2.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,FAD,10.29,1109888,0,97579,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,FAD,10.31,1218717,0,128190,2.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,FAD,10.31,2617619,0,256264,2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,FAD,10.26,1399480,0,117957,2.2,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,FAD,10.27,209277,0,67315,0.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,FAD,22.37,26244,0,19509,0.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,FAD,19.29,23021,0,19931,0.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,FAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Fructose 6 phosphate,13.41,66843440,775074,4129438,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Fructose 6 phosphate,12.87,84026640,688726,5072537,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Fructose 6 phosphate,13.47,69255528,793723,3978530,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Fructose 6 phosphate,13.34,79899256,802284,4751436,3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Fructose 6 phosphate,12.94,94338152,320803,5567213,3.1,Standards_neg
+Standards_neg,170124_Blk_1a,Fructose 6 phosphate,13.34,148832,0,29168,3.2,Standards_neg
+Standards_neg,170124_Blk_1b,Fructose 6 phosphate,13.47,24214,0,14699,-1.6,Standards_neg
+Standards_neg,170124_Blk_1c,Fructose 6 phosphate,13.26,137385,0,52291,3.1,Standards_neg
+Standards_neg,170124_Blk_2a,Fructose 6 phosphate,16.07,41273,0,28032,7.5,Standards_neg
+Standards_neg,170124_Blk_2b,Fructose 6 phosphate,13.45,20466,0,17343,7.2,Standards_neg
+Standards_neg,170124_Blk_2c,Fructose 6 phosphate,13.41,24138,0,18843,5.4,Standards_neg
+Standards_neg,170124_Blk_3a,Fructose 6 phosphate,14.76,32957,0,18292,4.1,Standards_neg
+Standards_neg,170124_Blk_3b,Fructose 6 phosphate,14.25,30873,0,23868,2.2,Standards_neg
+Standards_neg,170124_Blk_3c,Fructose 6 phosphate,14.82,23987,0,19204,6.9,Standards_neg
+Standards_neg,170124_Blk_4a,Fructose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Fructose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Fructose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Fructose 6 phosphate,13.5,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Fructose 6 phosphate,13.45,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Fructose 6 phosphate,13.44,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Fructose 6 phosphate,13.51,19848556,101145,1006960,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Fructose 6 phosphate,13.5,22499664,0,961676,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Fructose 6 phosphate,13.44,23326896,0,948156,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Fructose 6 phosphate,14.14,34285,0,19614,5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Fructose 6 phosphate,16.04,23748,0,15283,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Fructose 6 phosphate,13.52,28716,0,22998,4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Fructose 6 phosphate,13.48,31871132,68550,1815431,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Fructose 6 phosphate,13.45,33350250,138502,1799863,3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Fructose 6 phosphate,13.5,17419042,0,825041,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Fructose 6 phosphate,13.61,22708808,0,1083452,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Fructose 6 phosphate,13.59,16579335,0,649936,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Fructose 6 phosphate,13.61,4450147,0,233155,3.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Fructose 6 phosphate,13.19,359785,0,79845,3.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Fructose 6 phosphate,14.33,28432,0,16971,4.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Fructose 6 phosphate,13.14,315353,0,72832,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Fructose 6 phosphate,9.17,13192,0,7358,5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Fructose 6 phosphate,15.76,21197,0,11320,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Fructose 6 phosphate,10.19,13036,0,6983,3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Fumaric Acid,12.86,35087564,4693393,1893528,-4.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Fumaric Acid,12.35,37051780,1333073,1906026,-4.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Fumaric Acid,12.95,37065768,4051829,2307011,-4.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Fumaric Acid,12.81,39266640,5339423,2526539,-4.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Fumaric Acid,12.53,36952404,960008,2282923,-4.5,Standards_neg
+Standards_neg,170124_Blk_1a,Fumaric Acid,12.75,770571,68344,81993,-4.2,Standards_neg
+Standards_neg,170124_Blk_1b,Fumaric Acid,12.65,213751,211661,55004,-4.8,Standards_neg
+Standards_neg,170124_Blk_1c,Fumaric Acid,12.73,454928,328171,45088,-4.4,Standards_neg
+Standards_neg,170124_Blk_2a,Fumaric Acid,12.71,265908,311705,44697,-4.3,Standards_neg
+Standards_neg,170124_Blk_2b,Fumaric Acid,12.89,633676,284564,57357,-4.4,Standards_neg
+Standards_neg,170124_Blk_2c,Fumaric Acid,12.64,725011,397582,53151,-4.4,Standards_neg
+Standards_neg,170124_Blk_3a,Fumaric Acid,12.64,290946,353668,65489,-4.3,Standards_neg
+Standards_neg,170124_Blk_3b,Fumaric Acid,12.65,428235,24575,71773,-4.8,Standards_neg
+Standards_neg,170124_Blk_3c,Fumaric Acid,12.7,439598,346805,51817,-4.5,Standards_neg
+Standards_neg,170124_Blk_4a,Fumaric Acid,12.68,72277,156391,20260,-4.9,Standards_neg
+Standards_neg,170124_Blk_4b,Fumaric Acid,12.82,234709,149022,39250,-4.5,Standards_neg
+Standards_neg,170124_Blk_4c,Fumaric Acid,12.75,449619,15619,43704,-3.9,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Fumaric Acid,12.62,135394,1132207,32466,-4.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Fumaric Acid,12.83,396851,447032,69172,-4.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Fumaric Acid,12.91,226606,545377,34924,-4.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Fumaric Acid,12.24,11360833,1582051,1028513,-4.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Fumaric Acid,12.26,11459247,1526550,1016681,-4.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Fumaric Acid,12.26,12900795,915970,1032381,-4.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Fumaric Acid,12.75,338634,254343,55562,-4.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Fumaric Acid,12.75,384006,473134,41040,-4.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Fumaric Acid,12.87,1285049,213178,89587,-4.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Fumaric Acid,12.26,8215025,1722971,746906,-4.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Fumaric Acid,12.26,9892128,615210,794307,-4.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Fumaric Acid,12.31,10830732,143971,815665,-4.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Fumaric Acid,12.29,20794002,3275420,1595404,-4.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Fumaric Acid,12.29,15027899,1881305,1135371,-4.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Fumaric Acid,12.31,6561323,1486127,533201,-4.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Fumaric Acid,12.81,359417,467698,40589,-5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Fumaric Acid,12.7,458389,331957,53785,-4.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Fumaric Acid,12.7,207270,212989,46071,-4.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Fumaric Acid,12.64,325263,271926,60500,-4.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Fumaric Acid,12.76,1070694,0,62277,-4.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Fumaric Acid,12.51,302958,397501,50438,-4.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Gluconic Acid,10.92,252180384,8928387,15095438,0.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Gluconic Acid,10.2,352744320,7550969,29597608,0.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Gluconic Acid,11.11,221705760,6896262,15945444,0.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Gluconic Acid,10.96,242513168,8058055,16864864,1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Gluconic Acid,10.54,308859808,6944220,20995268,0.3,Standards_neg
+Standards_neg,170124_Blk_1a,Gluconic Acid,10.94,2967293,6941785,146594,6.7,Standards_neg
+Standards_neg,170124_Blk_1b,Gluconic Acid,10.61,970784,2217256,90249,6.2,Standards_neg
+Standards_neg,170124_Blk_1c,Gluconic Acid,10.75,1091030,3162306,83728,6.4,Standards_neg
+Standards_neg,170124_Blk_2a,Gluconic Acid,11.32,7055331,3107104,147300,6.6,Standards_neg
+Standards_neg,170124_Blk_2b,Gluconic Acid,11.41,3950223,3760987,165161,6.8,Standards_neg
+Standards_neg,170124_Blk_2c,Gluconic Acid,11.91,13017648,4962407,178884,6.8,Standards_neg
+Standards_neg,170124_Blk_3a,Gluconic Acid,10.63,1897890,3422759,127607,6.3,Standards_neg
+Standards_neg,170124_Blk_3b,Gluconic Acid,10.99,75897,3427777,26873,6.8,Standards_neg
+Standards_neg,170124_Blk_3c,Gluconic Acid,10.77,1101825,3582497,79341,6.2,Standards_neg
+Standards_neg,170124_Blk_4a,Gluconic Acid,12.15,2562754,7806101,92388,7.4,Standards_neg
+Standards_neg,170124_Blk_4b,Gluconic Acid,10.75,4826220,10335491,109633,7.3,Standards_neg
+Standards_neg,170124_Blk_4c,Gluconic Acid,10.97,1184630,3956972,74707,7.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Gluconic Acid,10.55,1563233,3261816,92811,7.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Gluconic Acid,10.86,2497762,3987650,116413,7.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Gluconic Acid,10.81,162391,4706424,80981,6.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Gluconic Acid,10.44,3964789,6731916,159967,6.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Gluconic Acid,10.45,927059,5475860,86920,6.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Gluconic Acid,11.08,2709298,4357800,175629,5.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Gluconic Acid,10.81,246012,916997,53342,6.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Gluconic Acid,11.07,3345680,5645108,95107,7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Gluconic Acid,11.38,2320155,4316774,107707,7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Gluconic Acid,11.1,4272069,4154493,455515,3.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Gluconic Acid,11.11,4572776,7220499,303995,5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Gluconic Acid,11.11,2140193,6272649,171966,6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Gluconic Acid,10.53,1680015,3416202,145969,6.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Gluconic Acid,11.1,2184230,8342881,104060,6.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Gluconic Acid,11.31,692703,10815208,70306,6.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Gluconic Acid,10.5,1147708,2733230,86988,5.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Gluconic Acid,10.56,412836,5822632,59802,5.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Gluconic Acid,10.55,2379462,4408528,107786,6.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Gluconic Acid,10.67,289075,1704906,39978,6.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Gluconic Acid,10.41,1608416,5885041,71448,6.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Gluconic Acid,10.8,222645,789728,54028,6.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Glucose 1 phosphate,13.41,66843440,775074,4129438,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Glucose 1 phosphate,12.87,84026640,688726,5072537,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Glucose 1 phosphate,13.47,69255528,793723,3978530,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Glucose 1 phosphate,13.34,79899256,802284,4751436,3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Glucose 1 phosphate,12.94,94338152,320803,5567213,3.1,Standards_neg
+Standards_neg,170124_Blk_1a,Glucose 1 phosphate,13.34,148832,0,29168,3.2,Standards_neg
+Standards_neg,170124_Blk_1b,Glucose 1 phosphate,13.47,24214,0,14699,-1.6,Standards_neg
+Standards_neg,170124_Blk_1c,Glucose 1 phosphate,13.26,137385,0,52291,3.1,Standards_neg
+Standards_neg,170124_Blk_2a,Glucose 1 phosphate,10.8,44750,0,24777,4.5,Standards_neg
+Standards_neg,170124_Blk_2b,Glucose 1 phosphate,13.45,20466,0,17343,7.2,Standards_neg
+Standards_neg,170124_Blk_2c,Glucose 1 phosphate,13.41,24138,0,18843,5.4,Standards_neg
+Standards_neg,170124_Blk_3a,Glucose 1 phosphate,14.76,32957,0,18292,4.1,Standards_neg
+Standards_neg,170124_Blk_3b,Glucose 1 phosphate,14.25,30873,0,23868,2.2,Standards_neg
+Standards_neg,170124_Blk_3c,Glucose 1 phosphate,14.82,23987,0,19204,6.9,Standards_neg
+Standards_neg,170124_Blk_4a,Glucose 1 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Glucose 1 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Glucose 1 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Glucose 1 phosphate,13.36,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Glucose 1 phosphate,13.25,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Glucose 1 phosphate,13.3,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Glucose 1 phosphate,13.51,19848556,101145,1006960,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Glucose 1 phosphate,13.5,20817210,0,961676,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Glucose 1 phosphate,13.44,22836782,0,948156,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Glucose 1 phosphate,14.14,34285,0,19614,5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Glucose 1 phosphate,16.04,23748,0,15283,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Glucose 1 phosphate,13.52,28716,0,22998,4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Glucose 1 phosphate,13.48,31871132,68550,1815431,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Glucose 1 phosphate,13.45,33350250,138502,1799863,3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Glucose 1 phosphate,13.5,18511854,0,825041,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Glucose 1 phosphate,13.61,22414780,0,1083452,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Glucose 1 phosphate,13.59,16579335,0,649936,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Glucose 1 phosphate,13.61,4450147,0,233155,3.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Glucose 1 phosphate,13.19,359785,0,79845,3.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Glucose 1 phosphate,14.33,28432,0,16971,4.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Glucose 1 phosphate,13.14,315353,0,72832,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Glucose 1 phosphate,9.17,13192,0,7358,5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Glucose 1 phosphate,15.76,21197,0,11320,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Glucose 1 phosphate,10.19,13036,0,6983,3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Glucose 6 phosphate,14.19,30628016,5688198,1970885,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Glucose 6 phosphate,13.6,39603416,3803241,2852376,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Glucose 6 phosphate,14.1,31344240,9778786,2196063,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Glucose 6 phosphate,14,35872912,9215708,2505929,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Glucose 6 phosphate,13.65,52815640,8300464,4738756,3.2,Standards_neg
+Standards_neg,170124_Blk_1a,Glucose 6 phosphate,13.34,148832,0,29168,3.2,Standards_neg
+Standards_neg,170124_Blk_1b,Glucose 6 phosphate,13.67,28554,0,24831,2,Standards_neg
+Standards_neg,170124_Blk_1c,Glucose 6 phosphate,13.26,137385,0,52291,3.1,Standards_neg
+Standards_neg,170124_Blk_2a,Glucose 6 phosphate,16.07,41273,0,28032,7.5,Standards_neg
+Standards_neg,170124_Blk_2b,Glucose 6 phosphate,13.45,20466,0,17343,7.2,Standards_neg
+Standards_neg,170124_Blk_2c,Glucose 6 phosphate,13.96,26078,0,18771,6.8,Standards_neg
+Standards_neg,170124_Blk_3a,Glucose 6 phosphate,14.76,32957,0,18292,4.1,Standards_neg
+Standards_neg,170124_Blk_3b,Glucose 6 phosphate,14.25,30873,0,23868,2.2,Standards_neg
+Standards_neg,170124_Blk_3c,Glucose 6 phosphate,14.82,23987,0,19204,6.9,Standards_neg
+Standards_neg,170124_Blk_4a,Glucose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Glucose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Glucose 6 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Glucose 6 phosphate,14.1,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Glucose 6 phosphate,14.16,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Glucose 6 phosphate,14.16,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Glucose 6 phosphate,14.3,63502340,141352,1551220,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Glucose 6 phosphate,14.16,61411620,3285627,1710661,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Glucose 6 phosphate,14.22,61089108,5243284,1662417,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Glucose 6 phosphate,14.14,34285,0,19614,5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Glucose 6 phosphate,16.04,23748,0,15283,3.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Glucose 6 phosphate,13.52,28716,0,22998,4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Glucose 6 phosphate,14.19,113485536,11704152,3003654,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Glucose 6 phosphate,14.2,127707688,2153446,3095125,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Glucose 6 phosphate,14.36,57082052,11343566,1720649,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Glucose 6 phosphate,14.36,14485748,0,476456,3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Glucose 6 phosphate,14.35,18956290,0,564050,3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Glucose 6 phosphate,14.35,2474369,0,118647,3.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Glucose 6 phosphate,13.19,359785,0,79845,3.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Glucose 6 phosphate,14.33,28432,0,16971,4.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Glucose 6 phosphate,13.14,315353,0,72832,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Glucose 6 phosphate,9.17,13192,0,7358,5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Glucose 6 phosphate,15.76,21197,0,11320,2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Glucose 6 phosphate,10.19,13036,0,6983,3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,glycerol 3 phosphate,12.67,35079400,485645,2712415,-0.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,glycerol 3 phosphate,12.04,44688364,575080,3068176,-0.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,glycerol 3 phosphate,12.7,32720470,0,2485307,-0.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,glycerol 3 phosphate,12.57,37741860,0,2888705,-0.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,glycerol 3 phosphate,12.16,43517876,653312,3383881,-0.6,Standards_neg
+Standards_neg,170124_Blk_1a,glycerol 3 phosphate,24.25,28889,0,26453,-7.9,Standards_neg
+Standards_neg,170124_Blk_1b,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1c,glycerol 3 phosphate,12.7,31412,0,12298,-0.3,Standards_neg
+Standards_neg,170124_Blk_2a,glycerol 3 phosphate,12.4,12905,0,8664,-0.6,Standards_neg
+Standards_neg,170124_Blk_2b,glycerol 3 phosphate,4.82,8479,0,5074,5.2,Standards_neg
+Standards_neg,170124_Blk_2c,glycerol 3 phosphate,9.51,8714,0,7562,1.6,Standards_neg
+Standards_neg,170124_Blk_3a,glycerol 3 phosphate,5.92,9975,0,8407,1.5,Standards_neg
+Standards_neg,170124_Blk_3b,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,glycerol 3 phosphate,9.87,8335,0,6452,2.3,Standards_neg
+Standards_neg,170124_Blk_4a,glycerol 3 phosphate,11.43,15129,0,9971,2.5,Standards_neg
+Standards_neg,170124_Blk_4b,glycerol 3 phosphate,4.68,8851,0,8902,0.3,Standards_neg
+Standards_neg,170124_Blk_4c,glycerol 3 phosphate,4.72,8813,0,5474,-4.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,glycerol 3 phosphate,12.9,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,glycerol 3 phosphate,12.89,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,glycerol 3 phosphate,13.1,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,glycerol 3 phosphate,12.66,4982303,0,364124,-0.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,glycerol 3 phosphate,12.64,5138918,508321,388735,-0.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,glycerol 3 phosphate,12.65,5540983,0,423263,-0.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,glycerol 3 phosphate,11.96,18416,0,9801,-0.9,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,glycerol 3 phosphate,12.67,7921667,0,565831,-0.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,glycerol 3 phosphate,12.71,8122946,0,500714,-0.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,glycerol 3 phosphate,12.68,6156336,0,401846,-0.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,glycerol 3 phosphate,12.68,5219545,0,406322,-0.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,glycerol 3 phosphate,12.66,3167383,0,246268,-0.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,glycerol 3 phosphate,12.68,816890,0,114051,-0.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,glycerol 3 phosphate,12.53,106869,0,21873,-0.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,glycerol 3 phosphate,7.39,10649,0,5815,-5.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,glycerol 3 phosphate,12.39,80730,0,26877,0.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,glycerol 3 phosphate,12.62,18425,0,14077,-0.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,glycerol 3 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,GMP,13.96,30812628,0,2370075,3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,GMP,13.48,37641124,287303,2746434,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,GMP,13.97,25497742,0,2138189,3.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,GMP,13.91,27773158,0,2502612,4.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,GMP,13.54,38241420,0,3080677,3.6,Standards_neg
+Standards_neg,170124_Blk_1a,GMP,15.27,37159,0,34442,0.9,Standards_neg
+Standards_neg,170124_Blk_1b,GMP,16.62,31661,0,26096,1.1,Standards_neg
+Standards_neg,170124_Blk_1c,GMP,16.18,23161,0,13983,0.7,Standards_neg
+Standards_neg,170124_Blk_2a,GMP,13.97,37473,0,33238,2.3,Standards_neg
+Standards_neg,170124_Blk_2b,GMP,17.49,23394,0,15104,1.2,Standards_neg
+Standards_neg,170124_Blk_2c,GMP,15.9,30537,0,18872,0.7,Standards_neg
+Standards_neg,170124_Blk_3a,GMP,16.81,24377,0,24097,2.8,Standards_neg
+Standards_neg,170124_Blk_3b,GMP,14.93,25294,0,20985,1.7,Standards_neg
+Standards_neg,170124_Blk_3c,GMP,13.77,27254,0,24623,-7.9,Standards_neg
+Standards_neg,170124_Blk_4a,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,GMP,13.64,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,GMP,13.7,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,GMP,13.55,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,GMP,13.92,3211804,0,460529,3.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,GMP,13.91,3509514,0,479921,4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,GMP,13.92,3416191,0,458640,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,GMP,14.9,27894,0,19770,1.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,GMP,8.3,10945,0,9370,1.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,GMP,13.3,27897,0,20338,-0.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,GMP,13.92,6383173,0,742941,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,GMP,13.95,8355389,0,1068188,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,GMP,13.92,3780260,0,510278,3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,GMP,13.94,1223490,0,226602,3.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,GMP,13.9,849153,0,144471,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,GMP,13.98,220442,0,73260,4.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,GMP,14.88,37514,0,35757,0.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,GMP,15.49,30272,0,27299,2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,GMP,15.56,21007,0,12231,3.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,GMP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Ketoglutaric Acid,12.45,79786200,3015220,7492117,-2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Ketoglutaric Acid,11.88,85317400,2240013,7105224,-2.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Ketoglutaric Acid,12.53,89669592,3202960,9467541,-2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Ketoglutaric Acid,12.42,90400744,2976310,9307751,-1.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Ketoglutaric Acid,12.08,81144728,808461,7738501,-2.2,Standards_neg
+Standards_neg,170124_Blk_1a,Ketoglutaric Acid,10.85,406122,946378,77776,6,Standards_neg
+Standards_neg,170124_Blk_1b,Ketoglutaric Acid,10.86,777921,856130,82443,6.2,Standards_neg
+Standards_neg,170124_Blk_1c,Ketoglutaric Acid,10.86,2912704,696415,122188,5.1,Standards_neg
+Standards_neg,170124_Blk_2a,Ketoglutaric Acid,10.86,249980,146515,62240,4.3,Standards_neg
+Standards_neg,170124_Blk_2b,Ketoglutaric Acid,10.82,209462,66192,52422,3.1,Standards_neg
+Standards_neg,170124_Blk_2c,Ketoglutaric Acid,10.97,517141,191388,93017,5.5,Standards_neg
+Standards_neg,170124_Blk_3a,Ketoglutaric Acid,10.79,445432,400969,71132,5.8,Standards_neg
+Standards_neg,170124_Blk_3b,Ketoglutaric Acid,10.87,914345,447262,83563,5.5,Standards_neg
+Standards_neg,170124_Blk_3c,Ketoglutaric Acid,10.78,1525606,0,109194,5.2,Standards_neg
+Standards_neg,170124_Blk_4a,Ketoglutaric Acid,10.83,224834,954329,50829,6.7,Standards_neg
+Standards_neg,170124_Blk_4b,Ketoglutaric Acid,11.1,1282248,4551593,57159,6.9,Standards_neg
+Standards_neg,170124_Blk_4c,Ketoglutaric Acid,10.89,417267,3534554,78757,7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Ketoglutaric Acid,12.64,26210,915594,12529,6.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Ketoglutaric Acid,12.49,1047439,4193533,123047,7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Ketoglutaric Acid,12.77,644782,1966851,94405,7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Ketoglutaric Acid,12.52,12794672,2627481,1450710,-2.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Ketoglutaric Acid,12.51,13771532,2469653,1408064,-2.2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Ketoglutaric Acid,12.51,14683076,2667803,1537534,-2.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Ketoglutaric Acid,10.89,323253,938733,59682,6.1,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Ketoglutaric Acid,10.75,1142105,613975,106373,6.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Ketoglutaric Acid,10.85,151055,661837,63563,5.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Ketoglutaric Acid,12.56,8135780,3065198,1015193,-2.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Ketoglutaric Acid,12.54,12558818,4266653,1341237,-2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Ketoglutaric Acid,12.57,9072811,3476949,845703,-1.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Ketoglutaric Acid,12.56,24535646,3528759,2659957,-2.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Ketoglutaric Acid,12.54,20790172,2743266,2221263,-2,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Ketoglutaric Acid,12.54,7365193,3933238,747134,-1.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Ketoglutaric Acid,12.24,1175976,3073130,75451,5.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Ketoglutaric Acid,12.18,285738,1953072,42900,6.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Ketoglutaric Acid,12.59,250897,1542987,54368,7.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Ketoglutaric Acid,10.67,868934,924884,91874,5.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Ketoglutaric Acid,10.8,188536,1129071,42468,6.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Ketoglutaric Acid,10.88,405077,595916,62385,6.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,L-Pyroglutamic acid ,7.41,43312952,5597699,2281753,-3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,L-Pyroglutamic acid ,6.37,60620020,7262472,1696014,-3.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,L-Pyroglutamic acid ,7.72,72012808,6835187,2161276,-3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,L-Pyroglutamic acid ,7.08,65076984,13279824,1645715,-3.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,L-Pyroglutamic acid ,6.3,64226444,14887669,1167199,-3.6,Standards_neg
+Standards_neg,170124_Blk_1a,L-Pyroglutamic acid ,10.69,10892735,13197893,207905,-3.1,Standards_neg
+Standards_neg,170124_Blk_1b,L-Pyroglutamic acid ,8.37,1200193,5711979,64015,-3.3,Standards_neg
+Standards_neg,170124_Blk_1c,L-Pyroglutamic acid ,8.05,637202,5035415,74077,-3.4,Standards_neg
+Standards_neg,170124_Blk_2a,L-Pyroglutamic acid ,11.32,9835236,16564852,205911,-3.3,Standards_neg
+Standards_neg,170124_Blk_2b,L-Pyroglutamic acid ,7.93,1685415,8793415,49732,-3.3,Standards_neg
+Standards_neg,170124_Blk_2c,L-Pyroglutamic acid ,7.71,1615526,10103456,59224,-3.3,Standards_neg
+Standards_neg,170124_Blk_3a,L-Pyroglutamic acid ,8.36,1334363,8591531,54244,-3.6,Standards_neg
+Standards_neg,170124_Blk_3b,L-Pyroglutamic acid ,8.29,487127,4362407,37423,-3.6,Standards_neg
+Standards_neg,170124_Blk_3c,L-Pyroglutamic acid ,8.22,996097,5041797,57287,-3.5,Standards_neg
+Standards_neg,170124_Blk_4a,L-Pyroglutamic acid ,8.91,2518027,12454183,68740,-3.4,Standards_neg
+Standards_neg,170124_Blk_4b,L-Pyroglutamic acid ,8.68,2344297,12669212,65958,-3.3,Standards_neg
+Standards_neg,170124_Blk_4c,L-Pyroglutamic acid ,9.03,4339401,9238578,120763,-3.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,L-Pyroglutamic acid ,7.47,6679495,5624797,383904,-3.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,L-Pyroglutamic acid ,7.42,7176556,8305388,396395,-3.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,L-Pyroglutamic acid ,7.41,5711876,7053452,387126,-3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,L-Pyroglutamic acid ,7.17,103714320,20339860,2579836,-3.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,L-Pyroglutamic acid ,7.13,116978728,15430845,2700693,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,L-Pyroglutamic acid ,7.19,107316064,20668500,2726845,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,L-Pyroglutamic acid ,8.35,714862,17519056,40747,-3.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,L-Pyroglutamic acid ,7.56,7774017,14411650,119577,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,L-Pyroglutamic acid ,7.96,3727974,15114370,89460,-3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,L-Pyroglutamic acid ,7.27,111843816,15895754,3282879,-3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,L-Pyroglutamic acid ,7.22,132975832,20586244,3925285,-3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,L-Pyroglutamic acid ,7.27,128060048,16703794,3804588,-3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,L-Pyroglutamic acid ,7.25,76991448,32711646,1967691,-3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,L-Pyroglutamic acid ,7.24,57747528,18098592,1294825,-3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,L-Pyroglutamic acid ,7.22,37617328,18143050,918872,-3.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,L-Pyroglutamic acid ,7.86,2942141,6940604,87310,-3.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,L-Pyroglutamic acid ,7.91,1768089,9520378,82602,-3.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,L-Pyroglutamic acid ,8.1,4503851,16079437,79423,-3.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,L-Pyroglutamic acid ,7.83,1950826,6483803,67913,-3.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,L-Pyroglutamic acid ,7.89,7251379,15254820,107213,-3.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,L-Pyroglutamic acid ,8.05,1658329,6093178,65920,-3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Malic Acid,13.13,238436880,9884280,18299678,-3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Malic Acid,12.56,214900464,6857010,15616890,-3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Malic Acid,13.2,208450736,7861368,18171378,-3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Malic Acid,13.08,223933936,9143855,20023500,-2.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Malic Acid,12.65,237358288,6280014,22389382,-3.3,Standards_neg
+Standards_neg,170124_Blk_1a,Malic Acid,13.14,5459460,898406,425532,-3.4,Standards_neg
+Standards_neg,170124_Blk_1b,Malic Acid,13.12,5268319,463135,481206,-3.2,Standards_neg
+Standards_neg,170124_Blk_1c,Malic Acid,13.11,5396396,166265,519168,-3.4,Standards_neg
+Standards_neg,170124_Blk_2a,Malic Acid,13.14,6087176,1716332,575759,-3.7,Standards_neg
+Standards_neg,170124_Blk_2b,Malic Acid,13.14,7612351,176607,671849,-3.1,Standards_neg
+Standards_neg,170124_Blk_2c,Malic Acid,13.15,7212306,530193,649822,-3.7,Standards_neg
+Standards_neg,170124_Blk_3a,Malic Acid,13.14,2754240,871262,255476,-3.1,Standards_neg
+Standards_neg,170124_Blk_3b,Malic Acid,13.13,3061475,879464,358775,-3,Standards_neg
+Standards_neg,170124_Blk_3c,Malic Acid,13.11,2844699,863701,271005,-3.3,Standards_neg
+Standards_neg,170124_Blk_4a,Malic Acid,13,824325,388648,90519,0.2,Standards_neg
+Standards_neg,170124_Blk_4b,Malic Acid,13.12,636013,520811,88089,7.2,Standards_neg
+Standards_neg,170124_Blk_4c,Malic Acid,13.77,473047,1458561,91863,7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Malic Acid,13.15,5242174,947259,378021,-3.5,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Malic Acid,13.16,5322350,1983900,379370,-1.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Malic Acid,13.12,5875395,199063,350024,-2.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Malic Acid,13.14,4061700,1978975,248889,-0.2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Malic Acid,13.17,4523662,260472,305154,-2.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Malic Acid,13.15,5149378,835065,300347,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Malic Acid,12.9,3180837,882953,418594,-3.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Malic Acid,12.87,2438240,648773,475512,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Malic Acid,12.84,3345111,149208,447526,-3.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Malic Acid,13.09,646177,2584411,84825,-1.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Malic Acid,13.2,2214584,1252469,273547,1.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Malic Acid,13.2,2321416,2140014,182250,-1.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Malic Acid,13.17,5829547,2966747,453349,-3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Malic Acid,13.17,1314315,1704620,178973,-3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Malic Acid,13.2,3960378,2066060,223416,-0.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Malic Acid,12.97,3779016,895626,368662,-3.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Malic Acid,13,2597158,1219336,278098,-3.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Malic Acid,12.92,3387973,1749492,499391,-4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Malic Acid,13.09,2514518,748465,185572,-1.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Malic Acid,12.97,1051983,991002,233492,-3.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Malic Acid,12.98,1984373,1524878,128813,-1.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,NAD,12.01,27606134,0,2346838,3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,NAD,11.58,37444876,295111,2645609,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,NAD,12.09,28218648,0,2626349,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,NAD,11.98,29437372,0,3177238,3.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,NAD,11.67,35531816,264039,2950612,3.3,Standards_neg
+Standards_neg,170124_Blk_1a,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1b,NAD,22.68,64220,0,62148,19.4,Standards_neg
+Standards_neg,170124_Blk_1c,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2a,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,NAD,4.5,8404,0,8342,-5.6,Standards_neg
+Standards_neg,170124_Blk_2c,NAD,23.27,52564,0,55071,21.1,Standards_neg
+Standards_neg,170124_Blk_3a,NAD,10.54,19178,0,13456,-0.8,Standards_neg
+Standards_neg,170124_Blk_3b,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,NAD,12.97,22519,0,15120,-0.3,Standards_neg
+Standards_neg,170124_Blk_4b,NAD,12.51,17921,0,10763,7.1,Standards_neg
+Standards_neg,170124_Blk_4c,NAD,13.03,18796,0,19434,-0.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,NAD,11.85,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,NAD,11.96,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,NAD,11.95,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,NAD,12.04,8656828,0,872460,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,NAD,12.02,9440738,0,838176,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,NAD,12.04,9564096,0,899542,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,NAD,4.22,7606,0,4490,-1.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,NAD,24.18,104795,0,73555,14,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,NAD,12.09,9497255,0,837495,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,NAD,12.07,10876888,0,974355,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,NAD,12.06,10343973,0,1069491,3.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,NAD,12.07,10573458,0,1091064,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,NAD,12.06,6620050,0,594870,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,NAD,12.09,3181338,0,314490,3.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,NAD,12.15,16423,0,14887,0.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,NAD,11.93,15878,0,14643,-1.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,NAD,11.29,18376,0,16833,-1.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,NAD,12.39,15210,0,11481,2.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,NAD,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,NADP,15.64,25275814,0,250753,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,NADP,14.06,28769504,130184,1116995,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,NADP,15.32,23043968,0,237326,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,NADP,15.2,26557480,0,368033,3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,NADP,14.04,28145618,0,1375187,3.4,Standards_neg
+Standards_neg,170124_Blk_1a,NADP,18.02,21052,0,11686,6.3,Standards_neg
+Standards_neg,170124_Blk_1b,NADP,9.42,11082,0,8667,-5,Standards_neg
+Standards_neg,170124_Blk_1c,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2a,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,NADP,11.32,14016,0,12793,2.7,Standards_neg
+Standards_neg,170124_Blk_2c,NADP,7.89,9719,0,8764,-5.7,Standards_neg
+Standards_neg,170124_Blk_3a,NADP,24.88,29677,0,26354,-2.9,Standards_neg
+Standards_neg,170124_Blk_3b,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,NADP,24.85,21179,0,12595,-7.4,Standards_neg
+Standards_neg,170124_Blk_4a,NADP,4.72,7692,0,5243,5.1,Standards_neg
+Standards_neg,170124_Blk_4b,NADP,18.43,26501,0,22343,-1.2,Standards_neg
+Standards_neg,170124_Blk_4c,NADP,11.21,14974,0,11802,-0.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,NADP,14.82,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,NADP,15.23,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,NADP,14.8,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,NADP,15.73,930301,0,58868,2.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,NADP,15.49,2039706,0,72349,3.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,NADP,16.06,2168517,0,70676,2.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,NADP,10.81,14781,0,15509,0,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,NADP,16.17,429470,0,34114,1.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,NADP,15.54,1119690,0,45769,3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,NADP,15.93,2105205,0,88621,2.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,NADP,15.15,3548209,0,87922,3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,NADP,15.81,1374011,0,74979,2.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,NADP,16.63,177501,0,24921,1.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,NADP,15.01,23655,0,20238,15.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,NADP,12.62,21612,0,16513,10.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,NADP,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,NADP,11.52,19422,0,15722,7.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Orotic Acid,6.97,405050496,3626903,23916238,-1.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Orotic Acid,5.73,445515744,4790165,22315650,-2.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Orotic Acid,6.95,460486304,4122960,18498442,-1.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Orotic Acid,6.69,523077792,3401989,17706678,-1.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Orotic Acid,5.81,399580576,0,12224747,-1.8,Standards_neg
+Standards_neg,170124_Blk_1a,Orotic Acid,4.19,46255,0,12058,-1.3,Standards_neg
+Standards_neg,170124_Blk_1b,Orotic Acid,4.16,18763,0,9622,-0.4,Standards_neg
+Standards_neg,170124_Blk_1c,Orotic Acid,16.94,674842,0,39772,-1.6,Standards_neg
+Standards_neg,170124_Blk_2a,Orotic Acid,16.36,292550,0,42527,-1.8,Standards_neg
+Standards_neg,170124_Blk_2b,Orotic Acid,18.02,652427,0,89786,-1.5,Standards_neg
+Standards_neg,170124_Blk_2c,Orotic Acid,20.8,1341189,63010,123097,-1.8,Standards_neg
+Standards_neg,170124_Blk_3a,Orotic Acid,22.36,493672,99598,104861,-1.5,Standards_neg
+Standards_neg,170124_Blk_3b,Orotic Acid,16.92,509284,0,47081,-1.4,Standards_neg
+Standards_neg,170124_Blk_3c,Orotic Acid,22.46,831471,119868,127689,-1.2,Standards_neg
+Standards_neg,170124_Blk_4a,Orotic Acid,4.16,21632,0,8265,-1.3,Standards_neg
+Standards_neg,170124_Blk_4b,Orotic Acid,4.24,107099,0,18083,-0.9,Standards_neg
+Standards_neg,170124_Blk_4c,Orotic Acid,4.13,31795,0,10829,-1,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Orotic Acid,7.22,315991,0,26464,-1.1,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Orotic Acid,7.41,585996,315809,46136,-1.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Orotic Acid,7.44,193239,551301,31173,-2.2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Orotic Acid,6.8,1364090,1806338,47798,-1.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Orotic Acid,6.73,2133340,404006,77946,-1.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Orotic Acid,6.84,2182896,401983,83134,-1.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Orotic Acid,18.54,832210,7622,87247,-1.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Orotic Acid,21.96,979610,142519,127638,-1.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Orotic Acid,18.87,655791,82212,74934,-1.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Orotic Acid,7.14,1092654,1334927,51833,-1.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Orotic Acid,6.83,6371581,24800,192360,-1.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Orotic Acid,6.81,1753592,0,68444,-1.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Orotic Acid,7.47,965607,1462322,52512,-1.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Orotic Acid,6.88,1614521,994647,68349,-1.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Orotic Acid,7.42,384804,1005940,47385,-1.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Orotic Acid,18.6,866738,58885,95732,-1.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Orotic Acid,22.09,1251310,119948,120953,-1.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Orotic Acid,4.19,8791,0,7423,-1.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Orotic Acid,20.97,880670,155869,93600,-1.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Orotic Acid,22.13,683582,292672,93949,-1.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Orotic Acid,21.48,643301,630414,82502,-1.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Oxalic Acid,14.93,14564187,0,685396,-6.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Oxalic Acid,13.9,13145867,0,724934,-6.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Oxalic Acid,14.98,11851492,0,500655,-6.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Oxalic Acid,14.85,13907856,0,670354,-6.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Oxalic Acid,13.92,25501532,363439,1948714,-6.6,Standards_neg
+Standards_neg,170124_Blk_1a,Oxalic Acid,14.39,7342173,1384919,534909,-5.9,Standards_neg
+Standards_neg,170124_Blk_1b,Oxalic Acid,14.38,6866562,0,482636,-6.2,Standards_neg
+Standards_neg,170124_Blk_1c,Oxalic Acid,14.33,6903514,0,521426,-5.8,Standards_neg
+Standards_neg,170124_Blk_2a,Oxalic Acid,14.3,9382667,0,863661,-6.2,Standards_neg
+Standards_neg,170124_Blk_2b,Oxalic Acid,14.25,10258618,0,997618,-5.8,Standards_neg
+Standards_neg,170124_Blk_2c,Oxalic Acid,14.25,11362754,0,1036903,-6.2,Standards_neg
+Standards_neg,170124_Blk_3a,Oxalic Acid,14.31,6877514,0,480097,-6,Standards_neg
+Standards_neg,170124_Blk_3b,Oxalic Acid,14.3,7885717,0,520752,-6.3,Standards_neg
+Standards_neg,170124_Blk_3c,Oxalic Acid,14.28,7328954,0,557654,-6.3,Standards_neg
+Standards_neg,170124_Blk_4a,Oxalic Acid,14.28,843031,363553,91327,-6.6,Standards_neg
+Standards_neg,170124_Blk_4b,Oxalic Acid,14.32,900123,0,92050,-6.1,Standards_neg
+Standards_neg,170124_Blk_4c,Oxalic Acid,14.3,1298511,0,80593,-6.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Oxalic Acid,14.94,3839793,0,177135,-6.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Oxalic Acid,14.97,3610148,0,192667,-6.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Oxalic Acid,14.94,4068626,0,192510,-6.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Oxalic Acid,14.88,3545562,0,190602,-6.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Oxalic Acid,14.91,3682116,0,169404,-6.3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Oxalic Acid,14.88,4199399,0,178817,-6.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Oxalic Acid,14.03,7981447,0,568234,-6.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Oxalic Acid,13.99,7212241,0,503511,-6.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Oxalic Acid,13.97,6341673,0,525611,-6.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Oxalic Acid,14.85,3799454,310218,154262,-6.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Oxalic Acid,14.97,3846401,0,153230,-6.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Oxalic Acid,14.91,4811402,0,204122,-6.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Oxalic Acid,14.91,4284543,0,180112,-6.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Oxalic Acid,14.97,3138377,118861,152455,-6.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Oxalic Acid,14.91,2476908,0,122169,-6.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Oxalic Acid,14.17,6837855,0,516938,-6.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Oxalic Acid,14.13,8406205,0,708484,-6.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Oxalic Acid,14.05,7514493,0,558904,-6.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Oxalic Acid,14.22,6217887,0,315575,-5.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Oxalic Acid,14.14,6137584,0,319258,-6.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Oxalic Acid,14.21,6641061,0,403790,-6.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Phosphoglyceric Acid,21.07,7830579,0,153475,0.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Phosphoglyceric Acid,18.45,11570771,0,118163,-0.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Phosphoglyceric Acid,20.71,16457235,0,260329,0.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Phosphoglyceric Acid,21.05,18272204,0,236918,0.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Phosphoglyceric Acid,17.44,28623136,684608,146440,-0.1,Standards_neg
+Standards_neg,170124_Blk_1a,Phosphoglyceric Acid,14.63,387189,0,61311,1.1,Standards_neg
+Standards_neg,170124_Blk_1b,Phosphoglyceric Acid,14.57,42103,0,32472,0.1,Standards_neg
+Standards_neg,170124_Blk_1c,Phosphoglyceric Acid,14.82,28078,0,17249,2.9,Standards_neg
+Standards_neg,170124_Blk_2a,Phosphoglyceric Acid,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,Phosphoglyceric Acid,13.41,24401,0,22218,1.4,Standards_neg
+Standards_neg,170124_Blk_2c,Phosphoglyceric Acid,13.64,24644,0,20559,-0.4,Standards_neg
+Standards_neg,170124_Blk_3a,Phosphoglyceric Acid,0.06,115694,0,32689,-6.4,Standards_neg
+Standards_neg,170124_Blk_3b,Phosphoglyceric Acid,14.36,38565,0,32986,-0.7,Standards_neg
+Standards_neg,170124_Blk_3c,Phosphoglyceric Acid,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,Phosphoglyceric Acid,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Phosphoglyceric Acid,8.13,13492,0,9296,2.4,Standards_neg
+Standards_neg,170124_Blk_4c,Phosphoglyceric Acid,5.01,8121,0,5657,-0.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Phosphoglyceric Acid,19.95,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Phosphoglyceric Acid,19.93,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Phosphoglyceric Acid,19.44,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Phosphoglyceric Acid,21.17,23757208,0,363993,0.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Phosphoglyceric Acid,21.08,27988394,0,344377,0.2,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Phosphoglyceric Acid,20.74,29384092,0,343617,0.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Phosphoglyceric Acid,0.11,36379,0,24111,-3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Phosphoglyceric Acid,14.33,25029,0,13383,2.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Phosphoglyceric Acid,0.06,107460,0,37113,-7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Phosphoglyceric Acid,21.08,33112,0,27399,0.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Phosphoglyceric Acid,20.78,32459,0,17943,0.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Phosphoglyceric Acid,21.04,936120,0,50969,0,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Phosphoglyceric Acid,20.24,79059624,0,721066,0.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Phosphoglyceric Acid,20.83,60138884,0,589661,0.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Phosphoglyceric Acid,20.69,24009274,0,324719,-0.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Phosphoglyceric Acid,0.03,74404,0,32306,-7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Phosphoglyceric Acid,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Phosphoglyceric Acid,0.06,109044,0,32908,-6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Phosphoglyceric Acid,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Phosphoglyceric Acid,0.04,76072,0,34984,-7.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Phosphoglyceric Acid,0.03,118660,0,31887,-6.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Riboflavin Monophosphate,10.38,84062952,191294,3217780,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Riboflavin Monophosphate,9.49,125337848,2497767,4019709,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Riboflavin Monophosphate,10.45,77525232,1016370,2970363,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Riboflavin Monophosphate,10.33,89946072,0,2874779,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Riboflavin Monophosphate,9.79,109676592,1392336,3241364,3.1,Standards_neg
+Standards_neg,170124_Blk_1a,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1b,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1c,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2a,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2c,Riboflavin Monophosphate,16.37,33472,0,18878,-1.3,Standards_neg
+Standards_neg,170124_Blk_3a,Riboflavin Monophosphate,17.95,20570,0,15140,-8.4,Standards_neg
+Standards_neg,170124_Blk_3b,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Riboflavin Monophosphate,10.36,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Riboflavin Monophosphate,10.38,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Riboflavin Monophosphate,10.36,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Riboflavin Monophosphate,10.46,1829962,0,127148,3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Riboflavin Monophosphate,10.42,2413247,0,159468,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Riboflavin Monophosphate,10.49,2180037,0,144542,3.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Riboflavin Monophosphate,7.78,9994,0,5483,-3.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Riboflavin Monophosphate,10.55,486847,0,56263,2.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Riboflavin Monophosphate,10.55,1078788,0,117747,4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Riboflavin Monophosphate,10.5,769538,0,79373,3.2,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Riboflavin Monophosphate,10.5,4802033,0,275889,3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Riboflavin Monophosphate,10.51,4823191,0,259196,3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Riboflavin Monophosphate,10.55,73175,0,26315,1.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Riboflavin Monophosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Riboflavin Monophosphate,6.06,8707,0,5469,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Ribose 5 phosphate,13.3,22564564,0,1494454,2.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Ribose 5 phosphate,12.75,30819672,66837,2034153,1.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Ribose 5 phosphate,13.31,23313904,0,1457207,2.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Ribose 5 phosphate,13.22,23530622,1527265,1636452,2.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Ribose 5 phosphate,12.83,29057702,2299563,1960123,1.8,Standards_neg
+Standards_neg,170124_Blk_1a,Ribose 5 phosphate,9.1,9872,0,5622,2.1,Standards_neg
+Standards_neg,170124_Blk_1b,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1c,Ribose 5 phosphate,9.2,9450,0,8940,3.7,Standards_neg
+Standards_neg,170124_Blk_2a,Ribose 5 phosphate,10.77,12957,0,10040,2.1,Standards_neg
+Standards_neg,170124_Blk_2b,Ribose 5 phosphate,20.19,21851,0,17567,-5.7,Standards_neg
+Standards_neg,170124_Blk_2c,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3a,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3b,Ribose 5 phosphate,8.58,10252,0,7138,4,Standards_neg
+Standards_neg,170124_Blk_3c,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Ribose 5 phosphate,13.28,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Ribose 5 phosphate,13.17,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Ribose 5 phosphate,13.18,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Ribose 5 phosphate,13.05,4056753,0,162145,1.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Ribose 5 phosphate,12.97,4489814,0,157247,1.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Ribose 5 phosphate,12.97,4239207,0,139816,1.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Ribose 5 phosphate,8.93,8690,0,6183,5.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Ribose 5 phosphate,9.2,11106,0,10529,0.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Ribose 5 phosphate,13.03,7887742,0,243749,2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Ribose 5 phosphate,12.96,8711308,0,260718,2.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Ribose 5 phosphate,12.98,4775786,0,149955,1.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Ribose 5 phosphate,12.98,1140389,0,68858,1.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Ribose 5 phosphate,13.05,591565,0,54363,1.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Ribose 5 phosphate,13.05,84257,0,24755,1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Ribose 5 phosphate,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Salicylic Acid,2.38,581707392,2398098,64980376,-3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Salicylic Acid,2.18,685197056,2093852,95246936,-3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Salicylic Acid,2.37,639620736,5983387,107610640,-3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Salicylic Acid,2.31,660030656,2490135,112114312,-2.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Salicylic Acid,2.19,679264384,1672006,98906832,-3.5,Standards_neg
+Standards_neg,170124_Blk_1a,Salicylic Acid,2.31,1194458,139212,217984,-2.4,Standards_neg
+Standards_neg,170124_Blk_1b,Salicylic Acid,2.29,1531292,0,211846,-2.3,Standards_neg
+Standards_neg,170124_Blk_1c,Salicylic Acid,2.29,1003155,193242,197567,-2.4,Standards_neg
+Standards_neg,170124_Blk_2a,Salicylic Acid,2.29,10297419,394090,1893629,-2.4,Standards_neg
+Standards_neg,170124_Blk_2b,Salicylic Acid,2.29,10231496,321300,1815435,-2.4,Standards_neg
+Standards_neg,170124_Blk_2c,Salicylic Acid,2.29,10595787,290360,1888727,-2.7,Standards_neg
+Standards_neg,170124_Blk_3a,Salicylic Acid,2.27,915026,114477,131897,-3.1,Standards_neg
+Standards_neg,170124_Blk_3b,Salicylic Acid,2.29,1219603,0,175270,-2.7,Standards_neg
+Standards_neg,170124_Blk_3c,Salicylic Acid,2.27,1210820,3812,157933,-2.6,Standards_neg
+Standards_neg,170124_Blk_4a,Salicylic Acid,2.26,433679,83540,40122,-3.2,Standards_neg
+Standards_neg,170124_Blk_4b,Salicylic Acid,2.26,242082,5613,45757,-2.7,Standards_neg
+Standards_neg,170124_Blk_4c,Salicylic Acid,2.24,199114,64561,34974,-3,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Salicylic Acid,2.35,1012363,268467,104684,-2.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Salicylic Acid,2.37,1510849,0,142577,-2.5,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Salicylic Acid,2.38,1158559,0,135316,-2.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Salicylic Acid,2.34,778930,0,145638,-2.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Salicylic Acid,2.31,751106,256534,121182,-2.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Salicylic Acid,2.32,720556,172668,106349,-2.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Salicylic Acid,2.23,1131775,0,157520,-2.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Salicylic Acid,2.23,898701,155693,134077,-2.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Salicylic Acid,2.23,902462,93240,154733,-2.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Salicylic Acid,2.35,771817,90699,113884,-2.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Salicylic Acid,2.35,653380,164226,117755,-2.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Salicylic Acid,2.35,977522,0,144684,-2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Salicylic Acid,2.37,1146324,0,142091,-2.4,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Salicylic Acid,2.35,814337,0,127339,-2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Salicylic Acid,2.34,785454,59860,118777,-2.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Salicylic Acid,2.27,715097,0,94456,-2.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Salicylic Acid,2.24,1687769,0,224990,-2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Salicylic Acid,2.24,688708,0,84727,-2.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Salicylic Acid,2.27,790882,214730,124850,-2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Salicylic Acid,2.26,1146118,0,155200,-2.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Salicylic Acid,2.24,1217907,54919,199919,-2.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Sucrose,12.69,52229672,698852,5370605,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Sucrose,12.65,52819124,745453,5124462,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Sucrose,12.68,44785644,5121662,4546657,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Sucrose,11.77,892983040,7660168,74587936,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Sucrose,11.77,1011690432,11044511,91626008,2.6,Standards_neg
+Standards_neg,170124_Blk_1a,Sucrose,12.7,1083127,0,103594,7.5,Standards_neg
+Standards_neg,170124_Blk_1b,Sucrose,12.7,955346,0,83860,6.3,Standards_neg
+Standards_neg,170124_Blk_1c,Sucrose,12.75,1035533,0,67797,6.8,Standards_neg
+Standards_neg,170124_Blk_2a,Sucrose,11.9,173096,0,23185,6.7,Standards_neg
+Standards_neg,170124_Blk_2b,Sucrose,11.85,264857,0,45276,8.7,Standards_neg
+Standards_neg,170124_Blk_2c,Sucrose,12.01,127670,0,24435,6.3,Standards_neg
+Standards_neg,170124_Blk_3a,Sucrose,11.91,149258,0,29797,9.2,Standards_neg
+Standards_neg,170124_Blk_3b,Sucrose,20.85,651378,0,86617,10.1,Standards_neg
+Standards_neg,170124_Blk_3c,Sucrose,19.7,594289,72109,53328,9.6,Standards_neg
+Standards_neg,170124_Blk_4a,Sucrose,21,594716,0,76496,9,Standards_neg
+Standards_neg,170124_Blk_4b,Sucrose,11.77,343698,0,51456,6.4,Standards_neg
+Standards_neg,170124_Blk_4c,Sucrose,11.91,61121,17864,18717,2.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Sucrose,11.8,1241803,0,110117,6.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Sucrose,11.79,1275521,303566,134845,6.5,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Sucrose,11.85,983960,149199,105114,6.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Sucrose,11.79,2502900992,35490304,232096496,2.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Sucrose,11.79,2615936256,28172048,230876512,2.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Sucrose,11.8,2620247296,28233080,236326560,2.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Sucrose,11.84,750991,0,72009,7.6,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Sucrose,12.06,427099,1326,49771,7.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Sucrose,12.64,1320716,0,112213,5.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Sucrose,11.8,1454329728,9811492,139724224,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Sucrose,11.81,1925153536,22027234,180773264,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Sucrose,11.8,1949077248,13139674,181698192,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Sucrose,11.8,4296403968,41806956,373732672,2.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Sucrose,11.84,3299756800,28052396,270521856,2.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Sucrose,11.82,1863275520,21322296,165023552,2.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Sucrose,12.68,2328720,0,179735,5.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Sucrose,12.6,1294893,1360127,108936,5.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Sucrose,12.62,5504261,0,321813,4.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Sucrose,11.8,808579,0,96586,7.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Sucrose,11.87,815518,0,58575,8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Sucrose,11.79,803252,0,65862,7.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Sulfoacetic Acid,13.98,117659528,742995,8797929,-2.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Sulfoacetic Acid,13.51,107223760,749244,8309691,-3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Sulfoacetic Acid,14.1,125349768,2128253,20183108,-2.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Sulfoacetic Acid,14,153518032,1181676,20770708,-2.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Sulfoacetic Acid,13.73,146065872,798629,16824830,-2.9,Standards_neg
+Standards_neg,170124_Blk_1a,Sulfoacetic Acid,13.97,2649921,0,383814,-2.4,Standards_neg
+Standards_neg,170124_Blk_1b,Sulfoacetic Acid,13.94,2380847,0,296015,-2.7,Standards_neg
+Standards_neg,170124_Blk_1c,Sulfoacetic Acid,13.94,2798633,0,338000,-2.4,Standards_neg
+Standards_neg,170124_Blk_2a,Sulfoacetic Acid,13.97,1913245,0,302007,-2.5,Standards_neg
+Standards_neg,170124_Blk_2b,Sulfoacetic Acid,13.94,2292932,0,310615,-2.2,Standards_neg
+Standards_neg,170124_Blk_2c,Sulfoacetic Acid,13.94,2642099,0,313677,-2.5,Standards_neg
+Standards_neg,170124_Blk_3a,Sulfoacetic Acid,13.9,987435,0,136119,-2.4,Standards_neg
+Standards_neg,170124_Blk_3b,Sulfoacetic Acid,13.87,908460,0,179990,-2.8,Standards_neg
+Standards_neg,170124_Blk_3c,Sulfoacetic Acid,13.89,1032158,196503,156642,-2.8,Standards_neg
+Standards_neg,170124_Blk_4a,Sulfoacetic Acid,13.94,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,Sulfoacetic Acid,13.96,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,Sulfoacetic Acid,13.88,538,0,1143,0,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Sulfoacetic Acid,13.92,14827,0,9365,-1.2,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Sulfoacetic Acid,13.7,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Sulfoacetic Acid,13.71,15980,0,15191,-5.4,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Sulfoacetic Acid,14.03,5317275,0,646630,-3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Sulfoacetic Acid,13.99,4192099,0,573021,-2.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Sulfoacetic Acid,14.02,4516358,0,419810,-2.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Sulfoacetic Acid,13.8,1632468,0,198739,-2.9,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Sulfoacetic Acid,13.75,1668555,0,215613,-2.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Sulfoacetic Acid,13.77,1524010,0,162285,-2.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Sulfoacetic Acid,14.05,6020048,0,561681,-3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Sulfoacetic Acid,14.13,6895714,0,453113,-2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Sulfoacetic Acid,14.1,5429732,0,492053,-3.1,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Sulfoacetic Acid,14.05,5549439,0,459224,-2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Sulfoacetic Acid,14.09,5205770,0,477481,-2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Sulfoacetic Acid,14.07,4520862,0,399554,-3.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Sulfoacetic Acid,13.85,3244796,0,476624,-2.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Sulfoacetic Acid,13.83,1669960,0,182871,-2.3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Sulfoacetic Acid,13.8,2734455,0,351888,-2.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Sulfoacetic Acid,13.86,802231,0,130058,-2.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Sulfoacetic Acid,13.8,1717844,0,140033,-2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Sulfoacetic Acid,13.85,557448,433278,99646,-2.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Thymidine,3.49,75464448,4353235,2772344,3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Thymidine,3.41,74959568,2683350,2887560,2.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Thymidine,3.45,76918248,4621670,2987054,3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Thymidine,3.45,87818304,4758981,3634050,3.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Thymidine,3.49,60850368,1858949,2368759,2.4,Standards_neg
+Standards_neg,170124_Blk_1a,Thymidine,2.96,819135,2216179,110691,8.4,Standards_neg
+Standards_neg,170124_Blk_1b,Thymidine,3.36,1971963,2183382,122029,7.9,Standards_neg
+Standards_neg,170124_Blk_1c,Thymidine,2.82,2993266,3966485,131476,8,Standards_neg
+Standards_neg,170124_Blk_2a,Thymidine,3.47,1326748,1665121,94132,7.9,Standards_neg
+Standards_neg,170124_Blk_2b,Thymidine,3.25,719258,1469346,74348,8.1,Standards_neg
+Standards_neg,170124_Blk_2c,Thymidine,3.29,669801,1760158,47551,8,Standards_neg
+Standards_neg,170124_Blk_3a,Thymidine,3.4,1517432,2456383,92284,6.8,Standards_neg
+Standards_neg,170124_Blk_3b,Thymidine,2.92,2305322,3357571,101464,7.8,Standards_neg
+Standards_neg,170124_Blk_3c,Thymidine,2.98,1015663,1410657,70239,7.7,Standards_neg
+Standards_neg,170124_Blk_4a,Thymidine,2.7,2990302,3631166,91631,7.6,Standards_neg
+Standards_neg,170124_Blk_4b,Thymidine,3.14,719127,1440690,117170,7.8,Standards_neg
+Standards_neg,170124_Blk_4c,Thymidine,3.66,1064103,4704437,78250,7.9,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Thymidine,2.81,2502517,2211123,110613,7.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Thymidine,2.65,5020149,9499462,223382,8.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Thymidine,2.67,6451943,7860621,220182,8.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Thymidine,2.77,8257230,6492131,312240,7.8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Thymidine,2.7,4740169,8960848,156852,8,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Thymidine,2.68,1390378,6339777,90193,8.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Thymidine,3.28,74495,535608,22473,7.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Thymidine,3.39,1632549,1559006,86597,7.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Thymidine,3.17,599284,636355,75727,7.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Thymidine,3.28,1517880,5969082,110809,7.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Thymidine,3.39,421884,9187600,59951,8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Thymidine,3.18,272017,1395665,69219,7.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Thymidine,3.34,2933746,5349906,196517,7.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Thymidine,3.64,4318279,6208289,157361,7.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Thymidine,3.38,1194047,5651995,127105,7.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Thymidine,3.51,885962,1487923,62028,7.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Thymidine,2.73,2245834,4674089,120019,7.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Thymidine,2.93,3689192,2168259,125822,7.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Thymidine,3.53,243080,1940538,56834,7.6,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Thymidine,3.22,795592,1961850,55195,7.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Thymidine,2.71,865976,2582428,93621,7.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Thymine,3.52,402832352,44580276,16198855,-3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Thymine,3.51,399561216,34155808,16439010,-4.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Thymine,3.51,400209760,51244392,17796666,-3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Thymine,3.51,432322624,62175316,19389692,-3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Thymine,3.51,336061728,31861540,14711844,-4.1,Standards_neg
+Standards_neg,170124_Blk_1a,Thymine,2.81,33906312,40539340,753401,-3.4,Standards_neg
+Standards_neg,170124_Blk_1b,Thymine,2.73,5081243,22105758,382694,-3.6,Standards_neg
+Standards_neg,170124_Blk_1c,Thymine,2.67,8463823,32892338,330255,-3.6,Standards_neg
+Standards_neg,170124_Blk_2a,Thymine,2.75,4644731,25724326,317382,-3.4,Standards_neg
+Standards_neg,170124_Blk_2b,Thymine,3.2,6566806,27702020,405364,-3.4,Standards_neg
+Standards_neg,170124_Blk_2c,Thymine,2.71,10511539,24265002,520110,-3.7,Standards_neg
+Standards_neg,170124_Blk_3a,Thymine,2.72,7171495,26354338,383095,-4.3,Standards_neg
+Standards_neg,170124_Blk_3b,Thymine,2.97,12558662,23848400,492073,-3.7,Standards_neg
+Standards_neg,170124_Blk_3c,Thymine,2.7,5175382,35218908,242861,-3.7,Standards_neg
+Standards_neg,170124_Blk_4a,Thymine,2.7,20072434,25473942,453505,-3.7,Standards_neg
+Standards_neg,170124_Blk_4b,Thymine,2.89,13952414,32983262,582779,-3.5,Standards_neg
+Standards_neg,170124_Blk_4c,Thymine,2.82,7890210,43559348,474624,-3.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Thymine,2.71,5387006,26964712,315781,-3.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Thymine,2.71,9410786,63074376,436453,-3.6,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Thymine,2.71,19653914,59414476,594389,-3.7,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Thymine,2.71,37396092,63056124,982159,-3.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Thymine,2.7,6411671,33919092,458264,-3.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Thymine,2.68,4663436,30310794,388009,-3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Thymine,2.79,6076897,24259040,349238,-3.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Thymine,2.76,2814901,32475634,295413,-3.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Thymine,2.82,20691028,33726836,520311,-3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Thymine,2.75,18493506,41924016,702548,-3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Thymine,2.68,17959778,128687840,592657,-3.4,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Thymine,2.67,8042683,41491792,507727,-3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Thymine,2.67,14237177,43613760,783076,-3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Thymine,2.73,13544703,61438960,553038,-3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Thymine,2.71,16102024,82184504,644850,-3.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Thymine,2.78,10765369,30282474,515246,-3.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Thymine,3.06,10867506,29237646,405371,-3.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Thymine,2.75,7157363,31593110,333748,-3.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Thymine,2.75,11603708,33748044,511779,-3.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Thymine,2.68,6573677,47429560,379578,-3.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Thymine,2.68,7984466,16094685,481720,-3.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Trehalose,12.69,52229672,698852,5370605,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Trehalose,12.65,52819124,745453,5124462,3.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Trehalose,12.68,50214412,280581,4708037,3.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Trehalose,12.65,51537080,3563324,4843625,3.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Trehalose,12.64,49826696,6778331,5196456,3.2,Standards_neg
+Standards_neg,170124_Blk_1a,Trehalose,12.7,539803,714003,75767,7.1,Standards_neg
+Standards_neg,170124_Blk_1b,Trehalose,12.7,641352,521328,65140,6.4,Standards_neg
+Standards_neg,170124_Blk_1c,Trehalose,12.75,1035533,0,67797,6.8,Standards_neg
+Standards_neg,170124_Blk_2a,Trehalose,12.98,305202,0,50238,10.2,Standards_neg
+Standards_neg,170124_Blk_2b,Trehalose,12.98,206409,39041,30227,7.7,Standards_neg
+Standards_neg,170124_Blk_2c,Trehalose,13,65909,0,24319,7.9,Standards_neg
+Standards_neg,170124_Blk_3a,Trehalose,12.95,227541,0,81947,10.6,Standards_neg
+Standards_neg,170124_Blk_3b,Trehalose,13.1,128862,0,25028,7.9,Standards_neg
+Standards_neg,170124_Blk_3c,Trehalose,12.97,56703,210524,26207,11.2,Standards_neg
+Standards_neg,170124_Blk_4a,Trehalose,13.09,415541,0,55307,6.7,Standards_neg
+Standards_neg,170124_Blk_4b,Trehalose,13.09,50024,256688,12372,7.5,Standards_neg
+Standards_neg,170124_Blk_4c,Trehalose,12.9,153267,0,33119,3.5,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Trehalose,13.06,90768,0,23695,9.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Trehalose,12.92,136767,0,31489,5.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Trehalose,13.05,151157,79866,45092,9.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Trehalose,12.85,1147520,924684,103986,6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Trehalose,11.79,2615936256,28172048,230876512,2.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Trehalose,12.93,343526,1577466,57467,4.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Trehalose,12.67,2262619,148392,110427,6.1,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Trehalose,12.54,2037258,490488,89773,6.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Trehalose,12.64,1275719,915170,89557,5.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Trehalose,11.8,1454329728,9811492,139724224,2.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Trehalose,12.71,1382008,835450,117679,6.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Trehalose,12.86,671890,1109898,70519,5.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Trehalose,12.82,2074181,4605655,155160,4.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Trehalose,11.84,3299756800,28052396,270521856,2.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Trehalose,11.82,1863275520,21322296,165023552,2.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Trehalose,12.68,2775302,0,179735,5.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Trehalose,12.6,3064747,0,153763,5.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Trehalose,12.62,5720554,0,321813,5.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Trehalose,13.08,153744,0,24627,7.4,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Trehalose,12.87,346351,0,65460,9.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Trehalose,12.97,142686,0,24123,8.6,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,UDP-glucosamine,12.65,45064196,536167,4697052,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,UDP-glucosamine,12.23,54946336,146802,4760123,3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,UDP-glucosamine,12.68,46629016,0,4682579,3.5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,UDP-glucosamine,12.59,48448188,618388,4856304,3.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,UDP-glucosamine,12.34,51022628,746196,4746279,3.2,Standards_neg
+Standards_neg,170124_Blk_1a,UDP-glucosamine,13.25,15114,0,11875,-1.1,Standards_neg
+Standards_neg,170124_Blk_1b,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1c,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2a,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,UDP-glucosamine,14.27,30425,0,22879,-7.7,Standards_neg
+Standards_neg,170124_Blk_2c,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3a,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3b,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3c,UDP-glucosamine,24.52,26374,0,23460,-2.5,Standards_neg
+Standards_neg,170124_Blk_4a,UDP-glucosamine,13.67,16567,0,14069,11.7,Standards_neg
+Standards_neg,170124_Blk_4b,UDP-glucosamine,14.17,17922,0,18567,-0.3,Standards_neg
+Standards_neg,170124_Blk_4c,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,UDP-glucosamine,12.62,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,UDP-glucosamine,12.71,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,UDP-glucosamine,12.68,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,UDP-glucosamine,12.66,11044743,0,1066284,3.3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,UDP-glucosamine,12.65,11448174,0,1172331,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,UDP-glucosamine,12.65,10790886,0,1121627,3.3,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,UDP-glucosamine,11.77,17342,0,15646,-8.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,UDP-glucosamine,12.7,10652239,0,1088596,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,UDP-glucosamine,12.71,10708860,0,1064930,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,UDP-glucosamine,12.7,12225041,0,1238754,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,UDP-glucosamine,12.68,15083028,33588,1689814,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,UDP-glucosamine,12.66,10911148,0,1210682,3.7,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,UDP-glucosamine,12.68,4352599,0,482225,3,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,UDP-glucosamine,17.36,26060,0,22678,-3.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,UDP-glucosamine,22.42,24689,0,20441,9.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,UDP-glucosamine,12.09,18694,0,14233,10.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,UDP-glucosamine,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,UDP-glucosamine,20.55,30607,0,20485,-3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,UDP-glucose,13.52,42420324,0,4193000,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,UDP-glucose,13.11,50136512,0,4689412,2.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,UDP-glucose,13.55,34320612,0,3710302,3.1,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,UDP-glucose,13.42,45646788,0,4595909,3.4,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,UDP-glucose,13.16,46592596,39046,4700191,2.9,Standards_neg
+Standards_neg,170124_Blk_1a,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_1b,UDP-glucose,5.51,8426,0,6882,2.1,Standards_neg
+Standards_neg,170124_Blk_1c,UDP-glucose,24.22,26958,0,20689,5.3,Standards_neg
+Standards_neg,170124_Blk_2a,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_2b,UDP-glucose,8.76,9183,0,9403,-0.4,Standards_neg
+Standards_neg,170124_Blk_2c,UDP-glucose,7.72,11386,0,11355,-15.1,Standards_neg
+Standards_neg,170124_Blk_3a,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_3b,UDP-glucose,7.03,7843,0,6331,6.4,Standards_neg
+Standards_neg,170124_Blk_3c,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4a,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4b,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_4c,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,UDP-glucose,13.39,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,UDP-glucose,13.59,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,UDP-glucose,13.52,0,0,0,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,UDP-glucose,13.53,1294634,0,143569,2.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,UDP-glucose,13.48,1034275,0,144050,3,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,UDP-glucose,13.5,1160183,0,136853,3.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,UDP-glucose,5.18,7338,0,6752,8.7,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,UDP-glucose,13.52,500490,0,79801,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,UDP-glucose,13.53,311622,0,81037,2.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,UDP-glucose,13.5,1043038,0,150543,3.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,UDP-glucose,13.5,3275933,0,413286,3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,UDP-glucose,13.47,1386487,0,160074,2.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,UDP-glucose,13.5,329612,0,63495,2.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,UDP-glucose,7.97,10282,0,10356,0.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,UDP-glucose,#N/A,#N/A,#N/A,#N/A,#N/A,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Uracil,4.25,141077168,18267012,9769182,-4.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Uracil,4.23,133882032,11140314,9312237,-5.2,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Uracil,4.25,145225392,20315948,10784535,-5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Uracil,4.25,160401776,26100870,11498480,-4.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Uracil,4.25,129097432,20341512,8404709,-5,Standards_neg
+Standards_neg,170124_Blk_1a,Uracil,4.61,3564904,52878508,186398,-4.7,Standards_neg
+Standards_neg,170124_Blk_1b,Uracil,4.5,1896780,22262842,122171,-4.8,Standards_neg
+Standards_neg,170124_Blk_1c,Uracil,20.69,53502368,188852384,1270502,-4.9,Standards_neg
+Standards_neg,170124_Blk_2a,Uracil,4.9,4013971,49364292,169349,-4.7,Standards_neg
+Standards_neg,170124_Blk_2b,Uracil,3.62,2564815,22618458,143710,-4.6,Standards_neg
+Standards_neg,170124_Blk_2c,Uracil,3.86,2765083,17580084,219413,-4.7,Standards_neg
+Standards_neg,170124_Blk_3a,Uracil,4.55,4234711,15569833,188760,-5.7,Standards_neg
+Standards_neg,170124_Blk_3b,Uracil,3.79,5339836,28051116,155473,-4.7,Standards_neg
+Standards_neg,170124_Blk_3c,Uracil,11.76,56871216,46925024,894183,-4.8,Standards_neg
+Standards_neg,170124_Blk_4a,Uracil,2.7,8625815,25389174,224191,-4.8,Standards_neg
+Standards_neg,170124_Blk_4b,Uracil,4.19,5312073,29877998,191503,-4.7,Standards_neg
+Standards_neg,170124_Blk_4c,Uracil,17.33,14963952,139016208,664380,-4.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Uracil,4.52,644838,6620675,111182,-4.7,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Uracil,4.4,3130582,14264483,252890,-4.8,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Uracil,4.32,761586,16835016,128904,-5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Uracil,4.23,7931675,40683556,583643,-5.1,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Uracil,4.3,9884258,25297268,484418,-4.6,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Uracil,4.38,7732523,23201104,415441,-4.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Uracil,3.92,595814,2536386,103976,-4.8,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Uracil,11.55,53445624,49681428,913327,-4.9,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Uracil,3.99,5524071,26158082,219991,-4.8,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Uracil,4.22,3084222,30341542,405176,-4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Uracil,4.28,7895443,38953460,688250,-4.7,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Uracil,4.25,12630535,43633328,665423,-4.8,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Uracil,4,10599295,67289632,362301,-4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Uracil,3.76,2697384,34142400,256633,-4.9,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Uracil,3.38,6845998,42303420,274116,-5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Uracil,3.7,2630595,23502332,153827,-5.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Uracil,3.78,1210438,21488066,122040,-4.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Uracil,3.81,2946850,17524478,151605,-4.7,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Uracil,4.44,8338974,26296002,241408,-4.9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Uracil,4.33,1779887,33366464,142932,-4.8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Uracil,3.97,941808,3156681,153615,-5,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_1,Uridine,5.95,233727456,2599644,10110640,2.9,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInH2O_2,Uridine,5.91,230428736,1902239,10060055,2.3,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_1,Uridine,5.96,242239776,2920361,11477467,2.8,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_2,Uridine,5.95,251191168,3084506,11606766,2.7,Standards_neg
+Standards_neg,170124_Std_4uM_StdsInMatrix_3,Uridine,5.99,197782928,2585165,9330398,2.5,Standards_neg
+Standards_neg,170124_Blk_1a,Uridine,5.99,623107,0,37956,9.8,Standards_neg
+Standards_neg,170124_Blk_1b,Uridine,6.01,105846,0,18788,6.2,Standards_neg
+Standards_neg,170124_Blk_1c,Uridine,6.12,127908,56806,10563,9.2,Standards_neg
+Standards_neg,170124_Blk_2a,Uridine,5.9,107537,0,17388,9.2,Standards_neg
+Standards_neg,170124_Blk_2b,Uridine,5.98,96723,0,29872,8.8,Standards_neg
+Standards_neg,170124_Blk_2c,Uridine,6.07,109944,0,26108,8.8,Standards_neg
+Standards_neg,170124_Blk_3a,Uridine,6.03,127388,0,24015,6.1,Standards_neg
+Standards_neg,170124_Blk_3b,Uridine,15.4,1394128,1036824,103702,8.8,Standards_neg
+Standards_neg,170124_Blk_3c,Uridine,6.01,32981,0,12498,7.9,Standards_neg
+Standards_neg,170124_Blk_4a,Uridine,5.99,133232,0,20947,8,Standards_neg
+Standards_neg,170124_Blk_4b,Uridine,9.01,870949,44456,75896,9.4,Standards_neg
+Standards_neg,170124_Blk_4c,Uridine,11.96,2015156,1486621,72471,9.4,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_1,Uridine,6.03,35252,0,14012,9.3,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_2,Uridine,6.1,502002,4214,46141,9.3,Standards_neg
+Standards_neg,170124_Blk_ProcessBlk_3,Uridine,6.02,272249,309873,34299,9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,Uridine,6.03,7685571,314617,340130,3.9,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,Uridine,6.04,6793575,343727,315689,3.5,Standards_neg
+Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,Uridine,5.98,7263434,230520,335409,3.4,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,Uridine,6.01,30505,0,19601,9.5,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,Uridine,6.06,138483,0,14071,8.2,Standards_neg
+Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,Uridine,6.04,75813,0,17161,8.2,Standards_neg
+Standards_neg,170124_Smp_Pro9312_A,Uridine,5.98,11962145,516943,538751,3.5,Standards_neg
+Standards_neg,170124_Smp_Pro9312_B,Uridine,6.01,13004614,1018967,593143,3.6,Standards_neg
+Standards_neg,170124_Smp_Pro9312_C,Uridine,6.03,8061532,125319,331798,4.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_A,Uridine,5.93,4637198,216572,183141,4.3,Standards_neg
+Standards_neg,170124_Smp_Pro9313_B,Uridine,6,4012449,228089,161560,4.6,Standards_neg
+Standards_neg,170124_Smp_Pro9313_C,Uridine,6.04,3068136,0,106357,6.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_1,Uridine,6.14,98198,0,21798,8.5,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_2,Uridine,6.06,58871,0,12691,9,Standards_neg
+Standards_neg,170124_Smp_Vesicle9312_3,Uridine,5.93,142160,0,15976,8,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_1,Uridine,6.07,95407,585,25177,8.1,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_2,Uridine,10.61,1197564,0,106167,10.2,Standards_neg
+Standards_neg,170124_Smp_Vesicle9313_3,Uridine,6.07,84399,0,12567,8.3,Standards_neg
+molecules1,170124_Std_4uM_StdsInH2O_1,DHAP,12.83,8167976,0,708300,-0.8,molecules1
+molecules1,170124_Std_4uM_StdsInH2O_2,DHAP,12.24,10490378,414091,774903,-1.2,molecules1
+molecules1,170124_Std_4uM_StdsInMatrix_1,DHAP,12.87,7350219,0,626630,-0.6,molecules1
+molecules1,170124_Std_4uM_StdsInMatrix_2,DHAP,12.75,8111000,0,719301,-0.4,molecules1
+molecules1,170124_Std_4uM_StdsInMatrix_3,DHAP,12.37,9679730,142943,788085,-1.1,molecules1
+molecules1,170124_Blk_1a,DHAP,12.87,86491,64550,21040,-8.8,molecules1
+molecules1,170124_Blk_1b,DHAP,12.17,688990,0,37095,-7.9,molecules1
+molecules1,170124_Blk_1c,DHAP,12.82,143590,0,24088,-6.7,molecules1
+molecules1,170124_Blk_2a,DHAP,12.92,227521,0,35600,-7.9,molecules1
+molecules1,170124_Blk_2b,DHAP,12.89,306803,0,40597,-6.7,molecules1
+molecules1,170124_Blk_2c,DHAP,12.81,233631,106418,31351,-8.6,molecules1
+molecules1,170124_Blk_3a,DHAP,12.89,142272,0,30298,-8.2,molecules1
+molecules1,170124_Blk_3b,DHAP,12.89,275419,17954,57742,-8.8,molecules1
+molecules1,170124_Blk_3c,DHAP,12.92,145134,0,22216,-8.7,molecules1
+molecules1,170124_Blk_4a,DHAP,12.9,127342,0,22533,-8,molecules1
+molecules1,170124_Blk_4b,DHAP,12.73,234417,0,50022,-7.1,molecules1
+molecules1,170124_Blk_4c,DHAP,12.82,176515,0,29656,-7.9,molecules1
+molecules1,170124_Blk_ProcessBlk_1,DHAP,12.82,191595,0,28456,-8.7,molecules1
+molecules1,170124_Blk_ProcessBlk_2,DHAP,12.92,112812,0,36122,-4.2,molecules1
+molecules1,170124_Blk_ProcessBlk_3,DHAP,12.93,151980,0,22954,-6.5,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_1,DHAP,12.91,79752,0,58242,-1.8,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_2,DHAP,12.86,53499,0,27036,-3.6,molecules1
+molecules1,170124_Poo_Jan24_AqExtracts_FS_3,DHAP,12.9,301439,0,60738,-7.6,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_1,DHAP,12.95,197518,0,30078,-4.5,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_2,DHAP,12.9,198183,0,31823,-4.4,molecules1
+molecules1,170124_Poo_Jan25_AqExtracts_FS_3,DHAP,12.65,352722,27752,60565,-7.5,molecules1
+molecules1,170124_Smp_Pro9312_A,DHAP,12.81,104888,0,31731,-2.8,molecules1
+molecules1,170124_Smp_Pro9312_B,DHAP,12.89,168072,0,25981,-2.5,molecules1
+molecules1,170124_Smp_Pro9312_C,DHAP,12.76,56677,125171,15395,-3.8,molecules1
+molecules1,170124_Smp_Pro9313_A,DHAP,12.82,510571,0,72709,-3,molecules1
+molecules1,170124_Smp_Pro9313_B,DHAP,12.94,145241,0,31919,-1.6,molecules1
+molecules1,170124_Smp_Pro9313_C,DHAP,12.89,82701,0,34047,-2.8,molecules1
+molecules1,170124_Smp_Vesicle9312_1,DHAP,12.9,230685,0,37264,-7.4,molecules1
+molecules1,170124_Smp_Vesicle9312_2,DHAP,12.81,72286,78098,14839,-9.2,molecules1
+molecules1,170124_Smp_Vesicle9312_3,DHAP,12.84,210995,0,27327,-7.7,molecules1
+molecules1,170124_Smp_Vesicle9313_1,DHAP,13,188656,136904,36522,-7.8,molecules1
+molecules1,170124_Smp_Vesicle9313_2,DHAP,12.93,338812,0,54003,-5.9,molecules1
+molecules1,170124_Smp_Vesicle9313_3,DHAP,12.76,333475,0,30594,-6,molecules1
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"Isethionic Acid, 13C2",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"Isethionic Acid, 13C2",16.7,10627,0,9572,6.7,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"Isethionic Acid, 13C2",6.8,9222947,0,433802,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"Isethionic Acid, 13C2",6.51,9476376,0,401357,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"Isethionic Acid, 13C2",5.81,8422936,0,283788,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"Isethionic Acid, 13C2",6.5,43770240,0,1295855,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"Isethionic Acid, 13C2",6.45,40723788,0,1107156,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"Isethionic Acid, 13C2",6.48,40878056,0,1152292,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"Isethionic Acid, 13C2",6.56,38676384,0,1191584,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"Isethionic Acid, 13C2",6.54,35573112,64775,1186247,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"Isethionic Acid, 13C2",6.5,37446448,0,1110514,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"Isethionic Acid, 13C2",6.41,39943372,0,1211030,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"Isethionic Acid, 13C2",6.41,42070432,0,1199824,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"Isethionic Acid, 13C2",6.37,43485816,0,1214667,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"Isethionic Acid, 13C2",6.29,46421276,93465,2898624,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"Isethionic Acid, 13C2",6.29,51866584,82776,3264037,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"Isethionic Acid, 13C2",6.29,53401724,471502,3368394,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"Isethionic Acid, 13C2",7.06,38269484,438435,2050036,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"Isethionic Acid, 13C2",7.08,38330400,16305,1983089,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"Isethionic Acid, 13C2",7.06,38516004,152622,2088836,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"Isethionic Acid, 13C2",6.66,45862332,0,1534141,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"Isethionic Acid, 13C2",6.61,46276864,0,1472536,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"Isethionic Acid, 13C2",6.65,46442376,0,1442302,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"Isethionic Acid, 13C2",6.07,48626200,0,1298730,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"Isethionic Acid, 13C2",6.04,45229820,0,1178842,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"Isethionic Acid, 13C2",6.01,43979768,0,1182747,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"Isethionic Acid, 13C2",6.76,45234384,0,1547413,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"Isethionic Acid, 13C2",6.71,44321024,0,1419253,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"Isethionic Acid, 13C2",6.73,42218432,1130976,1471269,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"Isethionic Acid, 13C2",6.76,41662716,616299,1362986,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"Isethionic Acid, 13C2",6.76,41207548,724805,1409318,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"Isethionic Acid, 13C2",6.68,43381140,0,1355928,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"Isethionic Acid, 13C2",6.2,45219012,0,1137038,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"Isethionic Acid, 13C2",6.2,47579912,0,1282646,-8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"Isethionic Acid, 13C2",6.12,47548692,0,1315406,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"Isethionic Acid, 13C2",6.31,46489808,0,1369366,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"Isethionic Acid, 13C2",6.12,42842480,0,1204874,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"Isethionic Acid, 13C2",6.18,43574936,0,1091876,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"L-Cysteic Acid, D3",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"L-Cysteic Acid, D3",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"L-Cysteic Acid, D3",12.38,3380915,0,373699,-4,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"L-Cysteic Acid, D3",12.24,3190321,0,324695,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"L-Cysteic Acid, D3",11.97,2390950,0,293556,-4.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"L-Cysteic Acid, D3",12.54,9434301,0,1165716,-3.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"L-Cysteic Acid, D3",12.53,9077341,0,1207175,-4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"L-Cysteic Acid, D3",12.51,8911840,0,1160726,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"L-Cysteic Acid, D3",12.6,9059539,0,1166393,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"L-Cysteic Acid, D3",12.59,9254762,0,1188401,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"L-Cysteic Acid, D3",12.59,9483889,0,1224911,-4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"L-Cysteic Acid, D3",12.48,9580597,0,1188284,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"L-Cysteic Acid, D3",12.48,9570305,0,1248432,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"L-Cysteic Acid, D3",12.46,9723297,0,1203405,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"L-Cysteic Acid, D3",12.05,9178846,47683,808536,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"L-Cysteic Acid, D3",12.06,9046868,0,788826,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"L-Cysteic Acid, D3",12.07,9334379,0,785099,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"L-Cysteic Acid, D3",12.32,8309240,0,663411,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"L-Cysteic Acid, D3",12.34,7920959,0,630536,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"L-Cysteic Acid, D3",12.29,8421063,0,673074,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"L-Cysteic Acid, D3",12.46,12191622,0,910875,-4,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"L-Cysteic Acid, D3",12.46,13466710,0,954059,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"L-Cysteic Acid, D3",12.48,13641062,0,993760,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"L-Cysteic Acid, D3",12.34,9341242,0,1186567,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"L-Cysteic Acid, D3",12.32,8834189,0,1174866,-4,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"L-Cysteic Acid, D3",12.31,9258853,0,1133469,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"L-Cysteic Acid, D3",12.46,12582998,0,965773,-4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"L-Cysteic Acid, D3",12.44,12310750,0,904856,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"L-Cysteic Acid, D3",12.51,13087482,0,973386,-4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"L-Cysteic Acid, D3",12.51,12752182,0,1072788,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"L-Cysteic Acid, D3",12.51,12126057,0,903519,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"L-Cysteic Acid, D3",12.51,11138989,0,840379,-4.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"L-Cysteic Acid, D3",12.42,8831461,0,1121180,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"L-Cysteic Acid, D3",12.4,9144675,0,1170175,-4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"L-Cysteic Acid, D3",12.34,9440222,0,1115377,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"L-Cysteic Acid, D3",12.42,8990168,0,1089733,-4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"L-Cysteic Acid, D3",12.37,8630779,0,1063327,-4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"L-Cysteic Acid, D3",12.39,8544404,0,1105349,-4.2,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"Taurine, D4",19.45,32126,0,21704,-4.8,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"Taurine, D4",15.39,14494,0,7696,-2.7,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"Taurine, D4",10.61,2362751,0,251431,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"Taurine, D4",10.39,2252564,0,222981,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"Taurine, D4",9.89,2556351,0,252561,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"Taurine, D4",10.86,13831170,0,1711745,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"Taurine, D4",10.85,14226315,0,1687808,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"Taurine, D4",10.85,13961015,0,1584273,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"Taurine, D4",10.99,6886223,0,822459,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"Taurine, D4",10.97,6384481,0,778439,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"Taurine, D4",10.97,6355434,0,753287,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"Taurine, D4",10.84,13371427,0,1660228,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"Taurine, D4",10.84,12737650,0,1565328,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"Taurine, D4",10.85,13335499,0,1761218,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"Taurine, D4",10.06,20356106,140286,1822478,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"Taurine, D4",10.08,22050900,0,2063173,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"Taurine, D4",10.08,22007330,0,1849412,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"Taurine, D4",10.52,23837942,23566,2328099,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"Taurine, D4",10.49,22344668,0,2089710,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"Taurine, D4",10.5,22403668,0,2111903,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"Taurine, D4",10.69,11227401,0,1271666,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"Taurine, D4",10.66,12249287,0,1349591,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"Taurine, D4",10.66,12213208,0,1319241,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"Taurine, D4",10.72,11859067,0,1505186,-7.3,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"Taurine, D4",10.74,13368278,91582,1847736,-7.3,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"Taurine, D4",10.74,13183684,0,1676725,-7.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"Taurine, D4",10.71,16407234,0,1763762,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"Taurine, D4",10.69,14962868,0,1612273,-7.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"Taurine, D4",10.72,16138188,0,1732860,-7.5,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"Taurine, D4",10.72,6780372,0,745745,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"Taurine, D4",10.69,9439087,0,1017158,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"Taurine, D4",10.71,12100742,0,1304793,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"Taurine, D4",10.78,13809284,0,1680295,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"Taurine, D4",10.82,13293178,0,1667784,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"Taurine, D4",10.72,14642093,0,1698199,-7.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"Taurine, D4",10.77,13571142,0,1669255,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"Taurine, D4",10.72,13939045,0,1741194,-7.4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"Taurine, D4",10.77,13980306,0,1747111,-7.6,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"Succinic Acid, D4",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"Succinic Acid, D4",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"Succinic Acid, D4",12.49,16854534,0,1644694,-8,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"Succinic Acid, D4",12.35,16398307,0,1623855,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"Succinic Acid, D4",12.05,13004668,0,1345581,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"Succinic Acid, D4",12.45,63394056,240755,7239537,-7.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"Succinic Acid, D4",12.46,78979408,0,7493437,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"Succinic Acid, D4",12.45,82324504,512677,7950404,-8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"Succinic Acid, D4",12.49,87032160,769860,8151311,-8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"Succinic Acid, D4",12.48,80187992,1386285,8084024,-8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"Succinic Acid, D4",12.48,77842176,101565,8033340,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"Succinic Acid, D4",12.42,70244304,887984,7282997,-8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"Succinic Acid, D4",12.42,73519688,794576,7449085,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"Succinic Acid, D4",12.42,79022344,1188621,8071513,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"Succinic Acid, D4",12.15,52621008,70925,4763813,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"Succinic Acid, D4",12.15,56075772,0,4900456,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"Succinic Acid, D4",12.13,54654292,0,4912980,-7.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"Succinic Acid, D4",12.39,58356220,0,4911374,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"Succinic Acid, D4",12.46,54561408,0,4512384,-8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"Succinic Acid, D4",12.4,55869996,0,5058925,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"Succinic Acid, D4",12.49,58337052,0,5143021,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"Succinic Acid, D4",12.46,68299576,0,5339722,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"Succinic Acid, D4",12.48,70135920,0,5623117,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"Succinic Acid, D4",12.29,80838008,1625441,7601887,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"Succinic Acid, D4",12.27,74581192,391278,7342367,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"Succinic Acid, D4",12.24,69939696,1347902,6487654,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"Succinic Acid, D4",12.51,60115232,0,4835469,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"Succinic Acid, D4",12.51,62225688,0,4897801,-8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"Succinic Acid, D4",12.51,67249000,0,5327682,-8.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"Succinic Acid, D4",12.53,72657856,0,5841989,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"Succinic Acid, D4",12.51,57417456,0,4727426,-7.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"Succinic Acid, D4",12.51,53785156,0,4722423,-8.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"Succinic Acid, D4",12.35,79063760,719006,7265506,-8.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"Succinic Acid, D4",12.34,84025920,306246,7850393,-8.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"Succinic Acid, D4",12.29,72387672,591288,6910959,-8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"Succinic Acid, D4",12.37,81005144,1760370,7347877,-8.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"Succinic Acid, D4",12.32,68353680,0,6280400,-8.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"Succinic Acid, D4",12.34,70407216,0,6444926,-8.3,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"Sulfoacetic Acid, 13C2",21.5,558354,0,57149,-1,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"Sulfoacetic Acid, 13C2",23.81,389100,0,76327,-1.5,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"Sulfoacetic Acid, 13C2",14.1,2270686,0,408227,-5.8,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"Sulfoacetic Acid, 13C2",14,2223499,0,326953,-5,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"Sulfoacetic Acid, 13C2",13.65,2130375,0,225566,-5.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"Sulfoacetic Acid, 13C2",13.97,52789852,0,7502983,-6.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"Sulfoacetic Acid, 13C2",13.94,51145724,440898,6738646,-6.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"Sulfoacetic Acid, 13C2",13.94,53713996,317067,7120310,-6.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"Sulfoacetic Acid, 13C2",13.94,47396960,485398,6258446,-6.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"Sulfoacetic Acid, 13C2",13.94,55819708,138230,7382609,-6.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"Sulfoacetic Acid, 13C2",13.92,60002988,170544,7699347,-6.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"Sulfoacetic Acid, 13C2",13.9,60872980,4524,7636429,-6.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"Sulfoacetic Acid, 13C2",13.89,61549764,426982,7945782,-6.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"Sulfoacetic Acid, 13C2",13.88,66348564,101358,8425440,-6.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"Sulfoacetic Acid, 13C2",13.77,5069210,0,415126,-6.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"Sulfoacetic Acid, 13C2",13.77,4537242,0,394507,-6.3,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"Sulfoacetic Acid, 13C2",13.72,4595785,0,396574,-6.3,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"Sulfoacetic Acid, 13C2",13.99,4899463,0,491701,-6.2,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"Sulfoacetic Acid, 13C2",14.01,4738369,0,424892,-6.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"Sulfoacetic Acid, 13C2",13.98,4824765,0,441741,-6.3,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"Sulfoacetic Acid, 13C2",13.96,8763628,0,1796184,-6.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"Sulfoacetic Acid, 13C2",13.96,9306159,0,1788464,-6.4,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"Sulfoacetic Acid, 13C2",13.94,8838059,0,1846434,-6.2,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"Sulfoacetic Acid, 13C2",13.78,53686576,0,6635175,-6.8,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"Sulfoacetic Acid, 13C2",13.78,52232716,0,6513886,-6.7,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"Sulfoacetic Acid, 13C2",13.77,53237660,259419,6798714,-6.7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"Sulfoacetic Acid, 13C2",13.97,11147924,0,2312911,-6.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"Sulfoacetic Acid, 13C2",13.98,9665413,0,1988463,-6.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"Sulfoacetic Acid, 13C2",13.97,9050944,0,1778796,-6.5,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"Sulfoacetic Acid, 13C2",13.99,8967356,0,2020045,-6.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"Sulfoacetic Acid, 13C2",13.96,8728700,0,1934572,-6.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"Sulfoacetic Acid, 13C2",13.96,8413657,0,1794324,-7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"Sulfoacetic Acid, 13C2",13.86,55988072,496734,6939115,-6.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"Sulfoacetic Acid, 13C2",13.85,53912296,0,6444498,-6.7,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"Sulfoacetic Acid, 13C2",13.81,54111776,591682,6555059,-6.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"Sulfoacetic Acid, 13C2",13.85,51980844,0,6391710,-6.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"Sulfoacetic Acid, 13C2",13.81,56086700,0,6749410,-6.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"Sulfoacetic Acid, 13C2",13.85,57860320,0,6944607,-6.9,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_1,"Sulfolactic Acid, 13C3",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInH2O_2,"Sulfolactic Acid, 13C3",#N/A,#N/A,#N/A,#N/A,#N/A,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_1,"Sulfolactic Acid, 13C3",13.67,883543,0,118445,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_2,"Sulfolactic Acid, 13C3",13.5,750333,0,106961,-3.1,Internal Standards_neg
+Internal Standards_neg,170124_Std_4uM_StdsInMatrix_3,"Sulfolactic Acid, 13C3",13.21,602754,0,81027,-4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1a,"Sulfolactic Acid, 13C3",13.63,54175436,146369,6793224,-3.4,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1b,"Sulfolactic Acid, 13C3",13.59,55132748,0,7022098,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_1c,"Sulfolactic Acid, 13C3",13.58,56911988,529923,7340286,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2a,"Sulfolactic Acid, 13C3",13.63,50880680,274785,6527091,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2b,"Sulfolactic Acid, 13C3",13.61,57341692,0,7392679,-3.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_2c,"Sulfolactic Acid, 13C3",13.61,59530880,0,7653007,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3a,"Sulfolactic Acid, 13C3",13.54,61562944,0,7990933,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3b,"Sulfolactic Acid, 13C3",13.54,59351332,0,8129675,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Blk_3c,"Sulfolactic Acid, 13C3",13.53,62043132,498558,7860942,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4a,"Sulfolactic Acid, 13C3",13.28,2340825,0,226310,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4b,"Sulfolactic Acid, 13C3",13.33,2481050,0,231528,-3.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_4c,"Sulfolactic Acid, 13C3",13.31,2665463,8999,234807,-3.3,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_1,"Sulfolactic Acid, 13C3",13.58,2682820,0,252264,-3.5,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_2,"Sulfolactic Acid, 13C3",13.56,2482270,0,247696,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Blk_ProcessBlk_3,"Sulfolactic Acid, 13C3",13.55,2286679,0,242805,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_1,"Sulfolactic Acid, 13C3",13.64,3259135,0,408647,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_2,"Sulfolactic Acid, 13C3",13.63,3527278,0,393580,-3.7,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan24_AqExtracts_FS_3,"Sulfolactic Acid, 13C3",13.61,3596306,0,410794,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_1,"Sulfolactic Acid, 13C3",13.42,47552532,0,5849005,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_2,"Sulfolactic Acid, 13C3",13.41,50001040,179020,6338763,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Poo_Jan25_AqExtracts_FS_3,"Sulfolactic Acid, 13C3",13.41,43970628,380555,5118571,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_A,"Sulfolactic Acid, 13C3",13.64,3562614,0,438387,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_B,"Sulfolactic Acid, 13C3",13.65,4000970,0,457215,-3.3,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9312_C,"Sulfolactic Acid, 13C3",13.66,3178428,0,384486,-3.4,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_A,"Sulfolactic Acid, 13C3",13.67,3518227,0,443817,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_B,"Sulfolactic Acid, 13C3",13.62,3250816,0,390500,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Pro9313_C,"Sulfolactic Acid, 13C3",13.65,3129334,0,381571,-4.2,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_1,"Sulfolactic Acid, 13C3",13.47,50421368,303123,6544185,-4.1,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_2,"Sulfolactic Acid, 13C3",13.47,50556540,0,6707156,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9312_3,"Sulfolactic Acid, 13C3",13.42,52529896,42726,6553022,-3.6,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_1,"Sulfolactic Acid, 13C3",13.5,49373916,0,6511531,-3.9,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_2,"Sulfolactic Acid, 13C3",13.42,55695144,0,7387254,-3.8,Internal Standards_neg
+Internal Standards_neg,170124_Smp_Vesicle9313_3,"Sulfolactic Acid, 13C3",13.47,50905812,183962,6357121,-4.1,Internal Standards_neg

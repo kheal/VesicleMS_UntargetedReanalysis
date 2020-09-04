@@ -1,0 +1,325 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+molecules1,170127_Std_250nM_StdsInH2O_1,Arachidonic Acid,11.99,48588,0,28644,-1.1,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Arachidonic Acid,12.01,43409,0,18755,-1.1,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Arachidonic Acid,11.98,526865,0,180334,-2.1,molecules1
+molecules1,170128_Blk_1a_DCM,Arachidonic Acid,12.17,15127,0,6652,-1,molecules1
+molecules1,170128_Blk_1b_DCM,Arachidonic Acid,12.13,15785,0,5671,-1.1,molecules1
+molecules1,170128_Blk_1c_DCM,Arachidonic Acid,11.89,23913,26174,7651,-1.2,molecules1
+molecules1,170128_Blk_2a_DCM,Arachidonic Acid,11.89,14444,0,6107,-0.8,molecules1
+molecules1,170128_Blk_2b_DCM,Arachidonic Acid,11.89,15387,0,5979,-0.9,molecules1
+molecules1,170128_Blk_2c_DCM,Arachidonic Acid,11.88,9917,0,4648,-1,molecules1
+molecules1,170128_Blk_3a_DCM,Arachidonic Acid,11.87,13989,4308,5410,-1.2,molecules1
+molecules1,170128_Blk_3b_DCM,Arachidonic Acid,11.88,12658,0,5553,-1.7,molecules1
+molecules1,170128_Blk_3c_DCM,Arachidonic Acid,11.88,18190,0,4957,-1.1,molecules1
+molecules1,170128_Blk_4a_DCM,Arachidonic Acid,11.88,729543,44548,100819,-1.6,molecules1
+molecules1,170128_Blk_4b_DCM,Arachidonic Acid,11.89,734540,40431,101639,-1.2,molecules1
+molecules1,170128_Blk_4c_DCM,Arachidonic Acid,11.88,652563,90560,97680,-1.5,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Arachidonic Acid,11.88,18782,0,8801,-0.9,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Arachidonic Acid,11.89,27835,0,13401,-1.2,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Arachidonic Acid,11.89,32703,0,11674,-1.6,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Arachidonic Acid,11.8,19531,0,16970,-1.4,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Arachidonic Acid,11.88,32825,0,16254,-1.7,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Arachidonic Acid,11.89,47128,13764,19598,-1.7,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Arachidonic Acid,11.87,141149,0,32942,-2.1,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Arachidonic Acid,11.89,241357,0,45876,-2.3,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Arachidonic Acid,11.87,163174,0,31889,-2.4,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Arachidonic Acid,11.9,37024,0,11734,-1.2,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Arachidonic Acid,11.86,67361,0,18268,-1.6,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Arachidonic Acid,11.9,29278,0,9514,-1.4,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Arachidonic Acid,11.87,99981,0,31575,-1.5,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Arachidonic Acid,11.87,32781,0,11236,-1.6,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Arachidonic Acid,11.87,84146,0,25221,-1.3,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Arachidonic Acid,11.88,133141,0,21691,-2.1,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Arachidonic Acid,11.88,27492,0,12295,-2.4,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Arachidonic Acid,11.88,14649,0,5531,-1.6,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Arachidonic Acid,11.81,391529,0,60179,-2.2,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Arachidonic Acid,11.81,126622,0,29374,-2.1,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Arachidonic Acid,11.88,241289,22019,49743,-2.8,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,Carotene,16.23,5051740,0,749250,0.5,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Carotene,16.23,3593712,0,569984,0.7,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Carotene,16.22,7960467,663018,707106,0.3,molecules1
+molecules1,170128_Blk_1a_DCM,Carotene,16.33,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_1b_DCM,Carotene,16.32,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_1c_DCM,Carotene,16.3,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2a_DCM,Carotene,16.28,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2b_DCM,Carotene,16.08,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2c_DCM,Carotene,16.27,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3a_DCM,Carotene,16.5,589,0,1477,0.5,molecules1
+molecules1,170128_Blk_3b_DCM,Carotene,16.33,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3c_DCM,Carotene,16.36,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4a_DCM,Carotene,16.38,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4b_DCM,Carotene,16.36,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4c_DCM,Carotene,16.33,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Carotene,16.4,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Carotene,16.32,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Carotene,16.25,0,0,0,#N/A,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Carotene,16.15,6681374,16360,922637,0.3,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Carotene,16.14,8161506,94710,1027741,0.1,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Carotene,16.15,9886658,190315,1264314,0.3,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Carotene,16.13,75256168,922830,8462857,-0.7,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Carotene,16.14,64619540,262505,7768830,-0.7,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Carotene,16.14,78346808,84860,8208076,-0.6,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Carotene,16.14,7741441,1259863,1498560,0.1,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Carotene,16.14,11575985,33103,2037649,-0.1,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Carotene,16.16,13898122,2596819,2134648,0.1,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Carotene,16.15,11179954,641878,1963190,-0.2,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Carotene,16.14,11769079,180531,2290091,0.4,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Carotene,16.41,14066,45692,3240,3.2,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Carotene,16.13,14181549,1071457,1775699,0,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Carotene,16.13,3693072,114523,589227,-0.2,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Carotene,16.14,15265906,538315,1894491,-0.3,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Carotene,16.15,156264368,1661958,10281565,-1.4,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Carotene,16.13,104425168,2687458,9390287,-0.9,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Carotene,16.15,149138672,1196413,10597636,-1.8,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,EPA,8.15,2961,0,7959,11.4,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,EPA,18,10686,0,19039,-8.4,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,EPA,11.88,258553,0,96299,-1.9,molecules1
+molecules1,170128_Blk_1a_DCM,EPA,12.07,10674,1932,5403,-1.1,molecules1
+molecules1,170128_Blk_1b_DCM,EPA,12.05,17389,2399,5955,-1,molecules1
+molecules1,170128_Blk_1c_DCM,EPA,11.91,10467,15126,3699,-1,molecules1
+molecules1,170128_Blk_2a_DCM,EPA,11.82,1858,0,1500,-0.2,molecules1
+molecules1,170128_Blk_2b_DCM,EPA,11.79,1559,0,2092,-1.4,molecules1
+molecules1,170128_Blk_2c_DCM,EPA,11.74,350,2320,614,-1.4,molecules1
+molecules1,170128_Blk_3a_DCM,EPA,11.84,610,0,1074,-0.5,molecules1
+molecules1,170128_Blk_3b_DCM,EPA,11.8,1885,0,1256,-0.9,molecules1
+molecules1,170128_Blk_3c_DCM,EPA,12.03,1171,0,1482,-0.1,molecules1
+molecules1,170128_Blk_4a_DCM,EPA,11.81,5182,0,3446,-1.1,molecules1
+molecules1,170128_Blk_4b_DCM,EPA,11.82,7868,0,3308,-0.5,molecules1
+molecules1,170128_Blk_4c_DCM,EPA,11.76,10210,0,5194,-0.9,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,EPA,11.91,765,0,1176,-0.8,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,EPA,12,9869,0,5099,-0.7,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,EPA,11.88,3778,0,2806,-1.1,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,EPA,11.89,280387,0,103713,-2,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,EPA,11.89,356796,0,125166,-1.5,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,EPA,11.89,414498,0,152314,-1.6,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,EPA,11.6,12605,0,9014,-1.4,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,EPA,12.09,11877,0,5898,-1.2,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,EPA,11.9,17568,0,13032,-2.2,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,EPA,12.06,17722,0,7022,-1.1,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,EPA,12.06,15430,0,13910,-0.5,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,EPA,12.08,28509,0,10502,-1.2,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,EPA,11.88,1204145,0,401182,-1.5,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,EPA,11.88,810601,0,303663,-1.4,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,EPA,11.89,345942,0,124684,-1,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,EPA,12,323,0,0,13.4,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,EPA,9.91,7818,0,2947,-1.4,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,EPA,11.59,7977,0,3907,-1.2,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,EPA,11.89,51693,0,23606,-1.6,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,EPA,12.43,66930,0,36483,-2.2,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,EPA,11.89,35279,0,16914,-2.3,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,Ergosterol,13.56,2305838,0,649141,-0.8,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Ergosterol,13.57,4264802,0,1122758,-0.5,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Ergosterol,13.56,12141274,125164,2202120,-0.7,molecules1
+molecules1,170128_Blk_1a_DCM,Ergosterol,13.63,16800,0,5669,-0.9,molecules1
+molecules1,170128_Blk_1b_DCM,Ergosterol,13.62,16351,0,5589,-0.4,molecules1
+molecules1,170128_Blk_1c_DCM,Ergosterol,13.63,10112,0,7697,-0.7,molecules1
+molecules1,170128_Blk_2a_DCM,Ergosterol,13.63,36538,0,11460,-1,molecules1
+molecules1,170128_Blk_2b_DCM,Ergosterol,13.63,36890,0,13941,-0.4,molecules1
+molecules1,170128_Blk_2c_DCM,Ergosterol,13.63,25899,0,9073,-1.3,molecules1
+molecules1,170128_Blk_3a_DCM,Ergosterol,13.62,685,0,1582,-1.8,molecules1
+molecules1,170128_Blk_3b_DCM,Ergosterol,13.75,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3c_DCM,Ergosterol,13.8,579,0,1323,-1.2,molecules1
+molecules1,170128_Blk_4a_DCM,Ergosterol,13.61,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4b_DCM,Ergosterol,13.76,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4c_DCM,Ergosterol,13.69,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Ergosterol,13.62,13185,0,5492,-0.9,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Ergosterol,13.77,594,0,1143,-0.4,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Ergosterol,11,256042,0,78188,-9.7,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Ergosterol,12.75,26259,0,13234,-1.7,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Ergosterol,12.73,31922,0,24168,-1.8,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Ergosterol,12.74,40045,0,25649,-1.5,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Ergosterol,13.64,44009,0,15196,-1.3,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Ergosterol,13.62,23636,0,10676,-1,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Ergosterol,13.63,22447,0,9049,-1.2,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Ergosterol,11.02,253388,0,82642,-9.6,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Ergosterol,13.39,2737,0,2483,-0.9,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Ergosterol,12.74,15682,0,9705,-0.8,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Ergosterol,12.73,105644,0,48078,-0.8,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Ergosterol,12.74,37063,0,22457,-0.8,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Ergosterol,13.47,7132,0,3202,-0.2,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Ergosterol,13.63,273639,20202,71315,-1.2,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Ergosterol,13.64,39570,0,14202,-1.6,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Ergosterol,13.63,178844,13513,55251,-1.3,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Ergosterol,12.74,25613,0,14781,-1.6,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Ergosterol,12.73,4708,0,4268,-0.2,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Ergosterol,12.74,13472,0,12706,-1.9,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,Retinoic Acid,11.82,5507172,0,1999105,-1.3,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Retinoic Acid,11.83,5213250,227185,1848715,-1.1,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Retinoic Acid,11.81,26228998,409468,6995862,-2.1,molecules1
+molecules1,170128_Blk_1a_DCM,Retinoic Acid,12.03,8984,0,2666,-1.1,molecules1
+molecules1,170128_Blk_1b_DCM,Retinoic Acid,12.04,3144,0,2025,-0.8,molecules1
+molecules1,170128_Blk_1c_DCM,Retinoic Acid,12.02,6390,0,1945,-1.2,molecules1
+molecules1,170128_Blk_2a_DCM,Retinoic Acid,11.96,5078,0,2370,-1,molecules1
+molecules1,170128_Blk_2b_DCM,Retinoic Acid,12.02,1416,0,1662,-0.7,molecules1
+molecules1,170128_Blk_2c_DCM,Retinoic Acid,11.98,504,0,910,-0.1,molecules1
+molecules1,170128_Blk_3a_DCM,Retinoic Acid,11.9,2405,0,1376,-0.2,molecules1
+molecules1,170128_Blk_3b_DCM,Retinoic Acid,11.98,2744,0,1539,-1,molecules1
+molecules1,170128_Blk_3c_DCM,Retinoic Acid,11.93,3041,0,2035,-0.3,molecules1
+molecules1,170128_Blk_4a_DCM,Retinoic Acid,11.9,3422,99,2230,-1.7,molecules1
+molecules1,170128_Blk_4b_DCM,Retinoic Acid,11.99,2362,0,2119,-0.6,molecules1
+molecules1,170128_Blk_4c_DCM,Retinoic Acid,11.99,2689,0,2117,-1.5,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Retinoic Acid,11.89,1779,0,2463,-0.9,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Retinoic Acid,11.89,7242,0,3498,-1,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Retinoic Acid,11.9,4128,0,3639,-0.8,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Retinoic Acid,11.77,6534993,457677,2113669,-1.9,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Retinoic Acid,11.76,8719344,185217,2651025,-2.2,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Retinoic Acid,11.76,8401520,1296818,2903056,-1.9,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Retinoic Acid,11.76,918369,11377,263429,-2.2,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Retinoic Acid,11.77,776852,57239,216571,-2.3,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Retinoic Acid,11.77,962498,0,251305,-2.4,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Retinoic Acid,11.78,53968,0,22003,-1.6,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Retinoic Acid,11.76,119152,0,40066,-1.6,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Retinoic Acid,11.76,84432,0,26816,-1.6,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Retinoic Acid,11.76,26699934,932379,7149215,-1.7,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Retinoic Acid,11.76,19964370,694032,5907755,-1.8,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Retinoic Acid,11.76,8984892,167188,2529932,-1.4,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Retinoic Acid,12.4,102268,0,33251,-2.5,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Retinoic Acid,12.41,40211,0,17875,-2.6,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Retinoic Acid,12.4,76528,0,26387,-2.2,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Retinoic Acid,11.76,3223310,70442,898596,-2.2,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Retinoic Acid,11.77,403531,60300,130950,-2.2,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Retinoic Acid,11.77,937452,0,252001,-2.8,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,Squalene,14.84,115575,0,51527,-0.6,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Squalene,14.85,313197,0,97484,-0.5,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Squalene,14.84,679411,0,178731,-0.7,molecules1
+molecules1,170128_Blk_1a_DCM,Squalene,15.03,539,0,918,0.9,molecules1
+molecules1,170128_Blk_1b_DCM,Squalene,14.83,1519,0,2007,-2.2,molecules1
+molecules1,170128_Blk_1c_DCM,Squalene,15.05,755,0,1178,-1.3,molecules1
+molecules1,170128_Blk_2a_DCM,Squalene,14.85,1938,0,1834,-1.5,molecules1
+molecules1,170128_Blk_2b_DCM,Squalene,14.9,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2c_DCM,Squalene,14.83,1130,0,1428,-1,molecules1
+molecules1,170128_Blk_3a_DCM,Squalene,14.84,3674,0,1975,-0.8,molecules1
+molecules1,170128_Blk_3b_DCM,Squalene,14.85,1814,0,1580,-0.8,molecules1
+molecules1,170128_Blk_3c_DCM,Squalene,14.81,1235,0,1162,-0.4,molecules1
+molecules1,170128_Blk_4a_DCM,Squalene,14.83,96727,0,31901,-0.9,molecules1
+molecules1,170128_Blk_4b_DCM,Squalene,14.84,93610,0,32780,-0.8,molecules1
+molecules1,170128_Blk_4c_DCM,Squalene,14.83,81527,0,26474,-1,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Squalene,14.93,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Squalene,15.01,654,0,1173,5.6,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Squalene,15.02,1941,0,1799,8,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Squalene,13.51,911487,7308,246624,9.1,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Squalene,13.51,993893,0,280727,9.3,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Squalene,13.51,1019455,0,293643,9.2,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Squalene,14.81,9472,0,4217,-0.6,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Squalene,14.83,3266967,307815,702086,-0.7,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Squalene,14.84,16567,0,6871,-0.7,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Squalene,13.5,1862035,21962,520239,9.5,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Squalene,13.5,1115735,0,285797,9.4,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Squalene,13.51,2094392,0,547820,9.2,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Squalene,13.51,531918,0,159558,9.2,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Squalene,13.5,470507,0,132277,9.4,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Squalene,13.5,435380,0,117455,9.5,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Squalene,14.83,11243,0,6054,-0.8,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Squalene,14.83,15410,0,7312,-1.2,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Squalene,14.83,13081,0,6686,-0.8,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Squalene,14.86,18457,0,6030,-0.5,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Squalene,14.81,14912,0,5589,-0.7,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Squalene,14.83,8434,0,6535,-1.1,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,trans Retinal,12.35,9837073,620255,3053213,-1.3,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,trans Retinal,12.36,3528982,250631,1056700,-1,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,trans Retinal,12.34,23697360,1283324,6818541,-1.4,molecules1
+molecules1,170128_Blk_1a_DCM,trans Retinal,12.5,6660,0,3775,-1.6,molecules1
+molecules1,170128_Blk_1b_DCM,trans Retinal,12.53,6607,0,2056,-1,molecules1
+molecules1,170128_Blk_1c_DCM,trans Retinal,12.53,6577,0,1764,-0.9,molecules1
+molecules1,170128_Blk_2a_DCM,trans Retinal,12.49,2340,0,2014,-0.7,molecules1
+molecules1,170128_Blk_2b_DCM,trans Retinal,12.38,1946,0,1874,-1.6,molecules1
+molecules1,170128_Blk_2c_DCM,trans Retinal,12.43,596,0,1271,-2.4,molecules1
+molecules1,170128_Blk_3a_DCM,trans Retinal,12.44,1602,0,2320,-1.8,molecules1
+molecules1,170128_Blk_3b_DCM,trans Retinal,12.45,613,0,1083,-2.4,molecules1
+molecules1,170128_Blk_3c_DCM,trans Retinal,12.47,1088,0,2274,-2.2,molecules1
+molecules1,170128_Blk_4a_DCM,trans Retinal,12.38,979,0,1533,-1.7,molecules1
+molecules1,170128_Blk_4b_DCM,trans Retinal,12.35,681,108,1625,-0.5,molecules1
+molecules1,170128_Blk_4c_DCM,trans Retinal,12.43,2739,0,1757,-1.2,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,trans Retinal,12.48,6116,0,3702,-0.8,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,trans Retinal,12.46,5622,0,3772,-1.3,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,trans Retinal,12.44,7160,0,4975,-1.7,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,trans Retinal,12.28,1204494,0,230459,-1.3,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,trans Retinal,12.28,1488181,0,293187,-1.1,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,trans Retinal,12.28,1619183,0,301498,-0.9,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,trans Retinal,12.27,429632,0,101059,-0.6,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,trans Retinal,12.28,449399,0,121632,-1.3,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,trans Retinal,12.28,481255,0,127530,-0.7,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,trans Retinal,12.27,412766,0,84530,-0.9,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,trans Retinal,12.27,636615,0,123251,-1,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,trans Retinal,12.28,720672,0,129134,-1.1,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,trans Retinal,12.26,4540340,0,1067806,-1,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,trans Retinal,12.27,2328067,0,512882,-0.6,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,trans Retinal,12.28,2054812,0,348734,-0.8,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,trans Retinal,12.33,77165,0,46469,-0.7,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,trans Retinal,12.32,47878,0,25649,-1.5,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,trans Retinal,12.27,123913,0,27192,-1.1,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,trans Retinal,12.28,631809,0,223209,-1.5,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,trans Retinal,12.27,471937,0,175939,-1,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,trans Retinal,12.28,433847,0,165254,-1.9,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_1,Vitamin K1,14.61,430260,0,109436,-0.1,molecules1
+molecules1,170127_Std_250nM_StdsInH2O_2,Vitamin K1,14.62,795805,0,213971,0.1,molecules1
+molecules1,170128_Std_250nM_StdsInDCMMatrix_1,Vitamin K1,14.59,2593978,38657,735288,-0.6,molecules1
+molecules1,170128_Blk_1a_DCM,Vitamin K1,14.61,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_1b_DCM,Vitamin K1,14.7,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_1c_DCM,Vitamin K1,14.6,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2a_DCM,Vitamin K1,14.68,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2b_DCM,Vitamin K1,14.73,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_2c_DCM,Vitamin K1,14.76,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3a_DCM,Vitamin K1,14.67,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3b_DCM,Vitamin K1,14.75,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_3c_DCM,Vitamin K1,14.67,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4a_DCM,Vitamin K1,14.74,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4b_DCM,Vitamin K1,14.74,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_4c_DCM,Vitamin K1,14.7,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_1_DCM,Vitamin K1,14.64,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_2_DCM,Vitamin K1,14.69,0,0,0,#N/A,molecules1
+molecules1,170128_Blk_ProcessBlk_3_DCM,Vitamin K1,14.89,317,0,69,12.2,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_1,Vitamin K1,14.6,78779,0,29913,-0.7,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_2,Vitamin K1,14.61,114798,0,41227,-1.2,molecules1
+molecules1,170128_Poo_Jan24_DCMExtracts_FS_3,Vitamin K1,14.61,108247,0,42766,-1,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_1,Vitamin K1,14.6,6605680,82344,1922249,-0.5,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_2,Vitamin K1,14.61,4698167,24592,1241823,-0.4,molecules1
+molecules1,170128_Poo_Jan25_DCMExtracts_FS_3,Vitamin K1,14.61,6277073,128494,1652903,-0.4,molecules1
+molecules1,170128_Smp_Pro9312_A_DCM,Vitamin K1,14.6,56653,0,21036,-0.3,molecules1
+molecules1,170128_Smp_Pro9312_B_DCM,Vitamin K1,14.61,73760,0,26897,-1.3,molecules1
+molecules1,170128_Smp_Pro9312_C_DCM,Vitamin K1,14.6,223084,0,82898,-1.2,molecules1
+molecules1,170128_Smp_Pro9313_A_DCM,Vitamin K1,14.6,180685,0,62933,-0.8,molecules1
+molecules1,170128_Smp_Pro9313_B_DCM,Vitamin K1,14.61,101165,0,34660,-1.3,molecules1
+molecules1,170128_Smp_Pro9313_C_DCM,Vitamin K1,14.61,11443,0,9597,-0.5,molecules1
+molecules1,170128_Smp_Vesicle9312_1_DCM,Vitamin K1,14.61,125382,0,39313,-0.6,molecules1
+molecules1,170128_Smp_Vesicle9312_2_DCM,Vitamin K1,14.6,93298,0,29177,-0.9,molecules1
+molecules1,170128_Smp_Vesicle9312_3_DCM,Vitamin K1,14.61,87628,0,28596,-0.6,molecules1
+molecules1,170128_Smp_Vesicle9313_1_DCM,Vitamin K1,14.6,10951256,187007,2803243,-0.6,molecules1
+molecules1,170128_Smp_Vesicle9313_2_DCM,Vitamin K1,14.6,4695982,31955,1299858,-0.6,molecules1
+molecules1,170128_Smp_Vesicle9313_3_DCM,Vitamin K1,14.61,9405640,88924,2518192,-1,molecules1
+molecules2,170127_Std_250nM_StdsInH2O_1,"Arachiodonic Acid, D8",#N/A,#N/A,#N/A,#N/A,#N/A,molecules2
+molecules2,170127_Std_250nM_StdsInH2O_2,"Arachiodonic Acid, D8",#N/A,#N/A,#N/A,#N/A,#N/A,molecules2
+molecules2,170128_Std_250nM_StdsInDCMMatrix_1,"Arachiodonic Acid, D8",11.96,853968,0,258282,0.2,molecules2
+molecules2,170128_Blk_1a_DCM,"Arachiodonic Acid, D8",11.97,1344421,0,394457,1,molecules2
+molecules2,170128_Blk_1b_DCM,"Arachiodonic Acid, D8",11.98,1416412,17432,407876,1.3,molecules2
+molecules2,170128_Blk_1c_DCM,"Arachiodonic Acid, D8",11.97,1411515,0,387694,1.4,molecules2
+molecules2,170128_Blk_2a_DCM,"Arachiodonic Acid, D8",11.98,1476983,11854,397450,1.3,molecules2
+molecules2,170128_Blk_2b_DCM,"Arachiodonic Acid, D8",11.98,1620872,0,490016,1.5,molecules2
+molecules2,170128_Blk_2c_DCM,"Arachiodonic Acid, D8",11.98,1407572,0,371082,1.2,molecules2
+molecules2,170128_Blk_3a_DCM,"Arachiodonic Acid, D8",11.98,1724531,28580,494121,1.1,molecules2
+molecules2,170128_Blk_3b_DCM,"Arachiodonic Acid, D8",11.98,1662332,27174,465856,1.4,molecules2
+molecules2,170128_Blk_3c_DCM,"Arachiodonic Acid, D8",11.98,1419506,0,394257,1.1,molecules2
+molecules2,170128_Blk_4a_DCM,"Arachiodonic Acid, D8",11.97,1599517,2688,483294,1,molecules2
+molecules2,170128_Blk_4b_DCM,"Arachiodonic Acid, D8",11.98,1534144,15415,412459,1.3,molecules2
+molecules2,170128_Blk_4c_DCM,"Arachiodonic Acid, D8",11.97,1591963,27568,471410,1,molecules2
+molecules2,170128_Blk_ProcessBlk_1_DCM,"Arachiodonic Acid, D8",11.97,941160,0,325609,1.2,molecules2
+molecules2,170128_Blk_ProcessBlk_2_DCM,"Arachiodonic Acid, D8",11.97,1260656,0,356386,1.2,molecules2
+molecules2,170128_Blk_ProcessBlk_3_DCM,"Arachiodonic Acid, D8",11.97,1391809,0,427821,1.1,molecules2
+molecules2,170128_Poo_Jan24_DCMExtracts_FS_1,"Arachiodonic Acid, D8",11.97,1020748,0,264904,0.2,molecules2
+molecules2,170128_Poo_Jan24_DCMExtracts_FS_2,"Arachiodonic Acid, D8",11.97,1223709,0,365287,0.3,molecules2
+molecules2,170128_Poo_Jan24_DCMExtracts_FS_3,"Arachiodonic Acid, D8",12,1783344,0,567630,0.1,molecules2
+molecules2,170128_Poo_Jan25_DCMExtracts_FS_1,"Arachiodonic Acid, D8",11.97,1043829,0,368751,0.2,molecules2
+molecules2,170128_Poo_Jan25_DCMExtracts_FS_2,"Arachiodonic Acid, D8",11.99,882964,0,339751,-0.2,molecules2
+molecules2,170128_Poo_Jan25_DCMExtracts_FS_3,"Arachiodonic Acid, D8",11.98,962025,0,353119,-0.2,molecules2
+molecules2,170128_Smp_Pro9312_A_DCM,"Arachiodonic Acid, D8",11.97,1203074,0,312830,0.6,molecules2
+molecules2,170128_Smp_Pro9312_B_DCM,"Arachiodonic Acid, D8",11.96,1283013,0,423892,0.4,molecules2
+molecules2,170128_Smp_Pro9312_C_DCM,"Arachiodonic Acid, D8",11.97,1712258,0,399561,0.2,molecules2
+molecules2,170128_Smp_Pro9313_A_DCM,"Arachiodonic Acid, D8",11.98,1855075,0,519848,0.3,molecules2
+molecules2,170128_Smp_Pro9313_B_DCM,"Arachiodonic Acid, D8",11.97,1364683,0,388308,0.5,molecules2
+molecules2,170128_Smp_Pro9313_C_DCM,"Arachiodonic Acid, D8",11.98,1315469,0,399280,1.1,molecules2
+molecules2,170128_Smp_Vesicle9312_1_DCM,"Arachiodonic Acid, D8",11.97,1240892,0,383794,-0.3,molecules2
+molecules2,170128_Smp_Vesicle9312_2_DCM,"Arachiodonic Acid, D8",11.97,1672279,0,490972,-0.3,molecules2
+molecules2,170128_Smp_Vesicle9312_3_DCM,"Arachiodonic Acid, D8",11.98,1066735,0,344507,0.1,molecules2
+molecules2,170128_Smp_Vesicle9313_1_DCM,"Arachiodonic Acid, D8",11.98,1003660,0,362501,-0.5,molecules2
+molecules2,170128_Smp_Vesicle9313_2_DCM,"Arachiodonic Acid, D8",11.97,880219,0,351431,-0.2,molecules2
+molecules2,170128_Smp_Vesicle9313_3_DCM,"Arachiodonic Acid, D8",11.98,1034732,0,394192,-0.7,molecules2
