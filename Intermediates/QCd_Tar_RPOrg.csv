@@ -1,0 +1,110 @@
+Hello! Welcome to the world of QE Quality Control! Minimum area for a real peak: 5000. RT flexibility: 0.2. Blank can be this fraction of a sample: 10. S/N ratio: 5. Parts per million flexibility: 4. Processed on: 2020-09-04 14:10:16. 
+"","Replicate.Name","Precursor.Ion.Name","Retention.Time","Area","Background","Height","Mass.Error.PPM","SNFlag","ppmFlag","areaminFlag","RT_ref","RTFlag","Blank.Area","Poo.Name","Fraction","BlankFlag","Flags","QC_area"
+"1","170128_Smp_Pro9312_A_DCM","Arachidonic Acid",11.9,37024,0,"11734",-1.2,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"2","170128_Smp_Pro9312_B_DCM","Arachidonic Acid",11.86,67361,0,"18268",-1.6,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"3","170128_Smp_Pro9312_C_DCM","Arachidonic Acid",11.9,29278,0,"9514",-1.4,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"4","170128_Smp_Pro9313_A_DCM","Arachidonic Acid",11.87,99981,0,"31575",-1.5,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"5","170128_Smp_Pro9313_B_DCM","Arachidonic Acid",11.87,32781,0,"11236",-1.6,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"6","170128_Smp_Pro9313_C_DCM","Arachidonic Acid",11.87,84146,0,"25221",-1.3,NA,NA,NA,11.985,NA,32703,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"7","170128_Smp_Vesicle9312_1_DCM","Arachidonic Acid",11.88,133141,0,"21691",-2.1,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"8","170128_Smp_Vesicle9312_2_DCM","Arachidonic Acid",11.88,27492,0,"12295",-2.4,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"9","170128_Smp_Vesicle9312_3_DCM","Arachidonic Acid",11.88,14649,0,"5531",-1.6,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"10","170128_Smp_Vesicle9313_1_DCM","Arachidonic Acid",11.81,391529,0,"60179",-2.2,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"11","170128_Smp_Vesicle9313_2_DCM","Arachidonic Acid",11.81,126622,0,"29374",-2.1,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"12","170128_Smp_Vesicle9313_3_DCM","Arachidonic Acid",11.88,241289,22019,"49743",-2.8,NA,NA,NA,11.985,NA,729543,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"13","170128_Smp_Pro9312_A_DCM","Carotene",16.14,7741441,1259863,"1498560",0.1,NA,NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"",7741441
+"14","170128_Smp_Pro9312_B_DCM","Carotene",16.14,11575985,33103,"2037649",-0.1,NA,NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"",11575985
+"15","170128_Smp_Pro9312_C_DCM","Carotene",16.16,13898122,2596819,"2134648",0.1,NA,NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"",13898122
+"16","170128_Smp_Pro9313_A_DCM","Carotene",16.15,11179954,641878,"1963190",-0.2,NA,NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"",11179954
+"17","170128_Smp_Pro9313_B_DCM","Carotene",16.14,11769079,180531,"2290091",0.4,NA,NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"",11769079
+"18","170128_Smp_Pro9313_C_DCM","Carotene",16.41,14066,45692,"3240",3.2,"SNFlag",NA,NA,16.225,NA,0,"170128_Poo_Jan24_DCMExtracts_FS_1","RPOrg",NA,"SNFlag, ",NA
+"19","170128_Smp_Vesicle9312_1_DCM","Carotene",16.13,14181549,1071457,"1775699",0,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",14181549
+"20","170128_Smp_Vesicle9312_2_DCM","Carotene",16.13,3693072,114523,"589227",-0.2,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",3693072
+"21","170128_Smp_Vesicle9312_3_DCM","Carotene",16.14,15265906,538315,"1894491",-0.3,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",15265906
+"22","170128_Smp_Vesicle9313_1_DCM","Carotene",16.15,156264368,1661958,"10281565",-1.4,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",156264368
+"23","170128_Smp_Vesicle9313_2_DCM","Carotene",16.13,104425168,2687458,"9390287",-0.9,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",104425168
+"24","170128_Smp_Vesicle9313_3_DCM","Carotene",16.15,149138672,1196413,"10597636",-1.8,NA,NA,NA,16.225,NA,589,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg",NA,"",149138672
+"25","170128_Smp_Pro9312_A_DCM","EPA",12.06,17722,0,"7022",-1.1,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"26","170128_Smp_Pro9312_B_DCM","EPA",12.06,15430,0,"13910",-0.5,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"27","170128_Smp_Pro9312_C_DCM","EPA",12.08,28509,0,"10502",-1.2,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"28","170128_Smp_Pro9313_A_DCM","EPA",11.88,1204145,0,"401182",-1.5,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"RTFlag, ",NA
+"29","170128_Smp_Pro9313_B_DCM","EPA",11.88,810601,0,"303663",-1.4,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"RTFlag, ",NA
+"30","170128_Smp_Pro9313_C_DCM","EPA",11.89,345942,0,"124684",-1,NA,NA,NA,10.015,"RTFlag",9869,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"RTFlag, ",NA
+"31","170128_Smp_Vesicle9312_1_DCM","EPA",12,323,0,"0",13.4,NA,"ppmFlag","areaminFlag",10.015,"RTFlag",10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","ppmFlag, areaminFlag, RTFlag, BlankFlag",NA
+"32","170128_Smp_Vesicle9312_2_DCM","EPA",9.91,7818,0,"2947",-1.4,NA,NA,NA,10.015,NA,10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","BlankFlag",NA
+"33","170128_Smp_Vesicle9312_3_DCM","EPA",11.59,7977,0,"3907",-1.2,NA,NA,NA,10.015,"RTFlag",10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"34","170128_Smp_Vesicle9313_1_DCM","EPA",11.89,51693,0,"23606",-1.6,NA,NA,NA,10.015,"RTFlag",10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"35","170128_Smp_Vesicle9313_2_DCM","EPA",12.43,66930,0,"36483",-2.2,NA,NA,NA,10.015,"RTFlag",10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"36","170128_Smp_Vesicle9313_3_DCM","EPA",11.89,35279,0,"16914",-2.3,NA,NA,NA,10.015,"RTFlag",10674,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"37","170128_Smp_Pro9312_A_DCM","Ergosterol",11.02,253388,0,"82642",-9.6,NA,"ppmFlag",NA,13.56,"RTFlag",256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"38","170128_Smp_Pro9312_B_DCM","Ergosterol",13.39,2737,0,"2483",-0.9,NA,NA,"areaminFlag",13.56,NA,256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","areaminFlag, BlankFlag",NA
+"39","170128_Smp_Pro9312_C_DCM","Ergosterol",12.74,15682,0,"9705",-0.8,NA,NA,NA,13.56,"RTFlag",256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"40","170128_Smp_Pro9313_A_DCM","Ergosterol",12.73,105644,0,"48078",-0.8,NA,NA,NA,13.56,"RTFlag",256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"41","170128_Smp_Pro9313_B_DCM","Ergosterol",12.74,37063,0,"22457",-0.8,NA,NA,NA,13.56,"RTFlag",256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"42","170128_Smp_Pro9313_C_DCM","Ergosterol",13.47,7132,0,"3202",-0.2,NA,NA,NA,13.56,NA,256042,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"43","170128_Smp_Vesicle9312_1_DCM","Ergosterol",13.63,273639,20202,"71315",-1.2,NA,NA,NA,13.56,NA,36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","BlankFlag",NA
+"44","170128_Smp_Vesicle9312_2_DCM","Ergosterol",13.64,39570,0,"14202",-1.6,NA,NA,NA,13.56,NA,36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","BlankFlag",NA
+"45","170128_Smp_Vesicle9312_3_DCM","Ergosterol",13.63,178844,13513,"55251",-1.3,NA,NA,NA,13.56,NA,36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","BlankFlag",NA
+"46","170128_Smp_Vesicle9313_1_DCM","Ergosterol",12.74,25613,0,"14781",-1.6,NA,NA,NA,13.56,"RTFlag",36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"47","170128_Smp_Vesicle9313_2_DCM","Ergosterol",12.73,4708,0,"4268",-0.2,NA,NA,"areaminFlag",13.56,"RTFlag",36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
+"48","170128_Smp_Vesicle9313_3_DCM","Ergosterol",12.74,13472,0,"12706",-1.9,NA,NA,NA,13.56,"RTFlag",36538,"170128_Poo_Jan25_DCMExtracts_FS_2","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"49","170128_Smp_Pro9312_A_DCM","Retinoic Acid",11.78,53968,0,"22003",-1.6,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg","BlankFlag","BlankFlag",NA
+"50","170128_Smp_Pro9312_B_DCM","Retinoic Acid",11.76,119152,0,"40066",-1.6,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"",119152
+"51","170128_Smp_Pro9312_C_DCM","Retinoic Acid",11.76,84432,0,"26816",-1.6,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"",84432
+"52","170128_Smp_Pro9313_A_DCM","Retinoic Acid",11.76,26699934,932379,"7149215",-1.7,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"",26699934
+"53","170128_Smp_Pro9313_B_DCM","Retinoic Acid",11.76,19964370,694032,"5907755",-1.8,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"",19964370
+"54","170128_Smp_Pro9313_C_DCM","Retinoic Acid",11.76,8984892,167188,"2529932",-1.4,NA,NA,NA,11.815,NA,7242,"170128_Poo_Jan24_DCMExtracts_FS_2","RPOrg",NA,"",8984892
+"55","170128_Smp_Vesicle9312_1_DCM","Retinoic Acid",12.4,102268,0,"33251",-2.5,NA,NA,NA,11.815,"RTFlag",8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"RTFlag, ",NA
+"56","170128_Smp_Vesicle9312_2_DCM","Retinoic Acid",12.41,40211,0,"17875",-2.6,NA,NA,NA,11.815,"RTFlag",8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"57","170128_Smp_Vesicle9312_3_DCM","Retinoic Acid",12.4,76528,0,"26387",-2.2,NA,NA,NA,11.815,"RTFlag",8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","RTFlag, BlankFlag",NA
+"58","170128_Smp_Vesicle9313_1_DCM","Retinoic Acid",11.76,3223310,70442,"898596",-2.2,NA,NA,NA,11.815,NA,8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",3223310
+"59","170128_Smp_Vesicle9313_2_DCM","Retinoic Acid",11.77,403531,60300,"130950",-2.2,NA,NA,NA,11.815,NA,8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",403531
+"60","170128_Smp_Vesicle9313_3_DCM","Retinoic Acid",11.77,937452,0,"252001",-2.8,NA,NA,NA,11.815,NA,8984,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",937452
+"61","170128_Smp_Pro9312_A_DCM","Squalene",13.5,1862035,21962,"520239",9.5,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"62","170128_Smp_Pro9312_B_DCM","Squalene",13.5,1115735,0,"285797",9.4,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"63","170128_Smp_Pro9312_C_DCM","Squalene",13.51,2094392,0,"547820",9.2,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"64","170128_Smp_Pro9313_A_DCM","Squalene",13.51,531918,0,"159558",9.2,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"65","170128_Smp_Pro9313_B_DCM","Squalene",13.5,470507,0,"132277",9.4,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"66","170128_Smp_Pro9313_C_DCM","Squalene",13.5,435380,0,"117455",9.5,NA,"ppmFlag",NA,14.84,"RTFlag",1941,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"ppmFlag, RTFlag, ",NA
+"67","170128_Smp_Vesicle9312_1_DCM","Squalene",14.83,11243,0,"6054",-0.8,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"68","170128_Smp_Vesicle9312_2_DCM","Squalene",14.83,15410,0,"7312",-1.2,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"69","170128_Smp_Vesicle9312_3_DCM","Squalene",14.83,13081,0,"6686",-0.8,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"70","170128_Smp_Vesicle9313_1_DCM","Squalene",14.86,18457,0,"6030",-0.5,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"71","170128_Smp_Vesicle9313_2_DCM","Squalene",14.81,14912,0,"5589",-0.7,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"72","170128_Smp_Vesicle9313_3_DCM","Squalene",14.83,8434,0,"6535",-1.1,NA,NA,NA,14.84,NA,96727,NA,"RPOrg","BlankFlag","BlankFlag",NA
+"73","170128_Smp_Pro9312_A_DCM","trans Retinal",12.27,412766,0,"84530",-0.9,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",412766
+"74","170128_Smp_Pro9312_B_DCM","trans Retinal",12.27,636615,0,"123251",-1,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",636615
+"75","170128_Smp_Pro9312_C_DCM","trans Retinal",12.28,720672,0,"129134",-1.1,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",720672
+"76","170128_Smp_Pro9313_A_DCM","trans Retinal",12.26,4540340,0,"1067806",-1,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",4540340
+"77","170128_Smp_Pro9313_B_DCM","trans Retinal",12.27,2328067,0,"512882",-0.6,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",2328067
+"78","170128_Smp_Pro9313_C_DCM","trans Retinal",12.28,2054812,0,"348734",-0.8,NA,NA,NA,12.345,NA,7160,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",2054812
+"79","170128_Smp_Vesicle9312_1_DCM","trans Retinal",12.33,77165,0,"46469",-0.7,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",77165
+"80","170128_Smp_Vesicle9312_2_DCM","trans Retinal",12.32,47878,0,"25649",-1.5,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg","BlankFlag","BlankFlag",NA
+"81","170128_Smp_Vesicle9312_3_DCM","trans Retinal",12.27,123913,0,"27192",-1.1,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",123913
+"82","170128_Smp_Vesicle9313_1_DCM","trans Retinal",12.28,631809,0,"223209",-1.5,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",631809
+"83","170128_Smp_Vesicle9313_2_DCM","trans Retinal",12.27,471937,0,"175939",-1,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",471937
+"84","170128_Smp_Vesicle9313_3_DCM","trans Retinal",12.28,433847,0,"165254",-1.9,NA,NA,NA,12.345,NA,6660,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",433847
+"85","170128_Smp_Pro9312_A_DCM","Vitamin K1",14.6,56653,0,"21036",-0.3,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",56653
+"86","170128_Smp_Pro9312_B_DCM","Vitamin K1",14.61,73760,0,"26897",-1.3,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",73760
+"87","170128_Smp_Pro9312_C_DCM","Vitamin K1",14.6,223084,0,"82898",-1.2,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",223084
+"88","170128_Smp_Pro9313_A_DCM","Vitamin K1",14.6,180685,0,"62933",-0.8,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",180685
+"89","170128_Smp_Pro9313_B_DCM","Vitamin K1",14.61,101165,0,"34660",-1.3,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",101165
+"90","170128_Smp_Pro9313_C_DCM","Vitamin K1",14.61,11443,0,"9597",-0.5,NA,NA,NA,14.6,NA,317,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg",NA,"",11443
+"91","170128_Smp_Vesicle9312_1_DCM","Vitamin K1",14.61,125382,0,"39313",-0.6,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",125382
+"92","170128_Smp_Vesicle9312_2_DCM","Vitamin K1",14.6,93298,0,"29177",-0.9,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",93298
+"93","170128_Smp_Vesicle9312_3_DCM","Vitamin K1",14.61,87628,0,"28596",-0.6,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",87628
+"94","170128_Smp_Vesicle9313_1_DCM","Vitamin K1",14.6,10951256,187007,"2803243",-0.6,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",10951256
+"95","170128_Smp_Vesicle9313_2_DCM","Vitamin K1",14.6,4695982,31955,"1299858",-0.6,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",4695982
+"96","170128_Smp_Vesicle9313_3_DCM","Vitamin K1",14.61,9405640,88924,"2518192",-1,NA,NA,NA,14.6,NA,0,"170128_Poo_Jan25_DCMExtracts_FS_1","RPOrg",NA,"",9405640
+"97","170128_Smp_Pro9312_A_DCM","Arachiodonic Acid, D8",11.97,1203074,0,"312830",0.6,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"98","170128_Smp_Pro9312_B_DCM","Arachiodonic Acid, D8",11.96,1283013,0,"423892",0.4,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"99","170128_Smp_Pro9312_C_DCM","Arachiodonic Acid, D8",11.97,1712258,0,"399561",0.2,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"100","170128_Smp_Pro9313_A_DCM","Arachiodonic Acid, D8",11.98,1855075,0,"519848",0.3,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"101","170128_Smp_Pro9313_B_DCM","Arachiodonic Acid, D8",11.97,1364683,0,"388308",0.5,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"102","170128_Smp_Pro9313_C_DCM","Arachiodonic Acid, D8",11.98,1315469,0,"399280",1.1,NA,NA,NA,11.96,NA,1391809,"170128_Poo_Jan24_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"103","170128_Smp_Vesicle9312_1_DCM","Arachiodonic Acid, D8",11.97,1240892,0,"383794",-0.3,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"104","170128_Smp_Vesicle9312_2_DCM","Arachiodonic Acid, D8",11.97,1672279,0,"490972",-0.3,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"105","170128_Smp_Vesicle9312_3_DCM","Arachiodonic Acid, D8",11.98,1066735,0,"344507",0.1,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"106","170128_Smp_Vesicle9313_1_DCM","Arachiodonic Acid, D8",11.98,1003660,0,"362501",-0.5,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"107","170128_Smp_Vesicle9313_2_DCM","Arachiodonic Acid, D8",11.97,880219,0,"351431",-0.2,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA
+"108","170128_Smp_Vesicle9313_3_DCM","Arachiodonic Acid, D8",11.98,1034732,0,"394192",-0.7,NA,NA,NA,11.96,NA,1724531,"170128_Poo_Jan25_DCMExtracts_FS_3","RPOrg","BlankFlag","BlankFlag",NA

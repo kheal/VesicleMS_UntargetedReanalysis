@@ -3,36 +3,29 @@ library(tidyverse)
 
 #Set your datafiles
 #Read in your output files from Skyline
-Datfile1 <- "RawOutput/CultureRawSkylineOutput/Cyano/20200430_Checks/CyanoAq_CyanosBatch.csv"
-Datfile2 <- "RawOutput/CultureRawSkylineOutput/Cyano/20200430_Checks/CyanoAq_DiatomsBatch1.csv"
-Datfile3 <- "RawOutput/CultureRawSkylineOutput/Cyano/20200430_Checks/CyanoAq_DiatomsBatch2.csv"
-Datfile4 <- "RawOutput/CultureRawSkylineOutput/Cyano/20200430_Checks/CyanoAq_Dinos-Greens-AOA_Batch.csv"
+Datfile1 <- "Intermediates/Targeted_QE_fromLauraC/CyanoOrg-Pos_ProVesicles_QE.csv"
 
 #Read in a csv that has which samples go to which blanks
-BlankMatcherFile <- "MetaData/Samps_with_Blanks_RP_Cultures.csv"
+BlankMatcherFile <- "MetaDat/BlankMatcher.csv"
 
 #Set your flag to find standards to base RT off of
-StdFlag <- c("170413_Smp_KM1513-15m_A", "180716_Smp_S7E41D30_1")
+StdFlag <- c("170127_Std_250nM_StdsInH2O_1", "170128_Std_250nM_StdsInH2O_1", "170128_Std_250nM_StdsInDCMMatrix_1")
 
 #Set your parameters
-SNmin = 10
+SNmin = 5
 ppmflex = 4
-Areamin = 40000  #40000 is good target for HILICNeg
+Areamin = 5000  #40000 is good target for HILICNeg
 RTflex = .2
-BlankRatiomax = 5
+BlankRatiomax = 10
 
 #What's your output file name?
-fileout <- "Intermediates/Culture_Intermediates/QCd_RP.csv"
- 
+fileout <- "Intermediates/QCd_Tar_RPOrg.csv"
 
 #Says which are blanks and which are samples
 BlankMatcher <- read_csv(BlankMatcherFile)
 
 #Combine all the Datfiles
 Datfile_Comb <- read.csv(Datfile1) %>% 
-  rbind(read.csv(Datfile2)) %>% 
-  rbind(read.csv(Datfile3)) %>% 
-  rbind(read.csv(Datfile4)) %>% 
   unique()
 
 #First do easy flags - SN, ppm, Areamin

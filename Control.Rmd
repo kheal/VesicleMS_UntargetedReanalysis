@@ -52,10 +52,20 @@ source('SourceCode/Combine_and_Tidy.R')
 #QC on targeted compounds from Laura C
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
 source('SourceCode/QC_HILICPos_Targeted.R')
+remove(list = ls())
+
 source('SourceCode/QC_HILICNeg_Targeted.R')
+remove(list = ls())
+
 source('SourceCode/QC_RPAq_Targeted.R')
+remove(list = ls())
 
-
+source('SourceCode/QC_RPOrg_Targeted.R')
+remove(list = ls())
 ```
 
-notes: dump trehalose
+#Combine and tidy targeted data
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/Combine_and_Tidy_Targeted.R')
+```
+

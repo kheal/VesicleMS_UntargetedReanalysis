@@ -21,6 +21,9 @@ BlankRatiomax = 10
 #What's your output file name?
 fileout <- "Intermediates/QCd_Tar_HILICNeg.csv"
 
+#Compounds to dump from this fraction
+compounds.to.dump <- c("Trehalose", "Riboflavin Monophosphate")
+
 #Says which are blanks and which are samples
 BlankMatcher <- read_csv(BlankMatcherFile)
 
@@ -72,7 +75,8 @@ Dat3 <- Dat2 %>%
 Dat4 <- Dat3 %>%
   mutate(Flags = paste(SNFlag, ppmFlag, areaminFlag, RTFlag, BlankFlag, sep = ", ")) %>%
   mutate(Flags = as.character(Flags %>% str_remove_all("NA, ") %>%  str_remove_all("NA"))) %>%
-  mutate(QC_area = ifelse(str_detect(Flags, "Flag"), NA, Area))
+  mutate(QC_area = ifelse(str_detect(Flags, "Flag"), NA, Area))%>%
+  filter(!Precursor.Ion.Name %in% compounds.to.dump)
 
 #To inspect
 Dat5 <- Dat4 %>%

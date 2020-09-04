@@ -1,4 +1,4 @@
-Hello! Welcome to the world of QE Quality Control! Minimum area for a real peak: 40000. RT flexibility: 1. Blank can be this fraction of a sample: 10. S/N ratio: 5. Parts per million flexibility: 6. Processed on: 2020-09-04 12:28:37. 
+Hello! Welcome to the world of QE Quality Control! Minimum area for a real peak: 40000. RT flexibility: 1. Blank can be this fraction of a sample: 10. S/N ratio: 5. Parts per million flexibility: 6. Processed on: 2020-09-04 14:10:15. 
 "","Replicate.Name","Precursor.Ion.Name","Retention.Time","Area","Background","Height","Mass.Error.PPM","SNFlag","ppmFlag","areaminFlag","RT_ref","RTFlag","Blank.Area","Poo.Name","Fraction","BlankFlag","Flags","QC_area"
 "1","170124_Smp_Pro9312_A","Aconitic Acid",15.23,1040565,0,"78807",1.2,NA,NA,NA,14.705,NA,197949,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
 "2","170124_Smp_Pro9312_B","Aconitic Acid",15.13,2395618,0,"121089",1.2,NA,NA,NA,14.705,NA,197949,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",2395618
@@ -252,231 +252,207 @@ Hello! Welcome to the world of QE Quality Control! Minimum area for a real peak:
 "250","170124_Smp_Vesicle9313_1","Phosphoglyceric Acid",NA,NA,NA,"#N/A",NA,NA,NA,NA,19.4175,NA,387189,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
 "251","170124_Smp_Vesicle9313_2","Phosphoglyceric Acid",0.04,76072,0,"34984",-7.2,NA,"ppmFlag",NA,19.4175,"RTFlag",387189,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
 "252","170124_Smp_Vesicle9313_3","Phosphoglyceric Acid",0.03,118660,0,"31887",-6.7,NA,"ppmFlag",NA,19.4175,"RTFlag",387189,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"253","170124_Smp_Pro9312_A","Riboflavin Monophosphate",10.55,486847,0,"56263",2.7,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",486847
-"254","170124_Smp_Pro9312_B","Riboflavin Monophosphate",10.55,1078788,0,"117747",4,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1078788
-"255","170124_Smp_Pro9312_C","Riboflavin Monophosphate",10.5,769538,0,"79373",3.2,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",769538
-"256","170124_Smp_Pro9313_A","Riboflavin Monophosphate",10.5,4802033,0,"275889",3.1,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4802033
-"257","170124_Smp_Pro9313_B","Riboflavin Monophosphate",10.51,4823191,0,"259196",3.1,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4823191
-"258","170124_Smp_Pro9313_C","Riboflavin Monophosphate",10.55,73175,0,"26315",1.2,NA,NA,NA,10.0275,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",73175
-"259","170124_Smp_Vesicle9312_1","Riboflavin Monophosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,10.0275,NA,20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC",NA,"",NA
-"260","170124_Smp_Vesicle9312_2","Riboflavin Monophosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,10.0275,NA,20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC",NA,"",NA
-"261","170124_Smp_Vesicle9312_3","Riboflavin Monophosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,10.0275,NA,20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC",NA,"",NA
-"262","170124_Smp_Vesicle9313_1","Riboflavin Monophosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,10.0275,NA,20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC",NA,"",NA
-"263","170124_Smp_Vesicle9313_2","Riboflavin Monophosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,10.0275,NA,20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC",NA,"",NA
-"264","170124_Smp_Vesicle9313_3","Riboflavin Monophosphate",6.06,8707,0,"5469",3.1,NA,NA,"areaminFlag",10.0275,"RTFlag",20570,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
-"265","170124_Smp_Pro9312_A","Ribose 5 phosphate",13.03,7887742,0,"243749",2,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",7887742
-"266","170124_Smp_Pro9312_B","Ribose 5 phosphate",12.96,8711308,0,"260718",2.2,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",8711308
-"267","170124_Smp_Pro9312_C","Ribose 5 phosphate",12.98,4775786,0,"149955",1.9,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4775786
-"268","170124_Smp_Pro9313_A","Ribose 5 phosphate",12.98,1140389,0,"68858",1.5,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1140389
-"269","170124_Smp_Pro9313_B","Ribose 5 phosphate",13.05,591565,0,"54363",1.4,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",591565
-"270","170124_Smp_Pro9313_C","Ribose 5 phosphate",13.05,84257,0,"24755",1,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",84257
-"271","170124_Smp_Vesicle9312_1","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"272","170124_Smp_Vesicle9312_2","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"273","170124_Smp_Vesicle9312_3","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"274","170124_Smp_Vesicle9313_1","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"275","170124_Smp_Vesicle9313_2","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"276","170124_Smp_Vesicle9313_3","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
-"277","170124_Smp_Pro9312_A","Salicylic Acid",2.35,771817,90699,"113884",-2.6,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"278","170124_Smp_Pro9312_B","Salicylic Acid",2.35,653380,164226,"117755",-2.3,"SNFlag",NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"279","170124_Smp_Pro9312_C","Salicylic Acid",2.35,977522,0,"144684",-2.8,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"280","170124_Smp_Pro9313_A","Salicylic Acid",2.37,1146324,0,"142091",-2.4,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"281","170124_Smp_Pro9313_B","Salicylic Acid",2.35,814337,0,"127339",-2.9,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"282","170124_Smp_Pro9313_C","Salicylic Acid",2.34,785454,59860,"118777",-2.8,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"283","170124_Smp_Vesicle9312_1","Salicylic Acid",2.27,715097,0,"94456",-2.5,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"284","170124_Smp_Vesicle9312_2","Salicylic Acid",2.24,1687769,0,"224990",-2.7,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"285","170124_Smp_Vesicle9312_3","Salicylic Acid",2.24,688708,0,"84727",-2.6,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"286","170124_Smp_Vesicle9313_1","Salicylic Acid",2.27,790882,214730,"124850",-2.7,"SNFlag",NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"287","170124_Smp_Vesicle9313_2","Salicylic Acid",2.26,1146118,0,"155200",-2.4,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"288","170124_Smp_Vesicle9313_3","Salicylic Acid",2.24,1217907,54919,"199919",-2.7,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"289","170124_Smp_Pro9312_A","Sucrose",11.8,1454329728,9811492,"139724224",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1454329728
-"290","170124_Smp_Pro9312_B","Sucrose",11.81,1925153536,22027234,"180773264",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1925153536
-"291","170124_Smp_Pro9312_C","Sucrose",11.8,1949077248,13139674,"181698192",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1949077248
-"292","170124_Smp_Pro9313_A","Sucrose",11.8,4296403968,41806956,"373732672",2.3,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",4296403968
-"293","170124_Smp_Pro9313_B","Sucrose",11.84,3299756800,28052396,"270521856",2.5,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",3299756800
-"294","170124_Smp_Pro9313_C","Sucrose",11.82,1863275520,21322296,"165023552",2.5,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1863275520
-"295","170124_Smp_Vesicle9312_1","Sucrose",12.68,2328720,0,"179735",5.5,NA,NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"296","170124_Smp_Vesicle9312_2","Sucrose",12.6,1294893,1360127,"108936",5.1,"SNFlag",NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"297","170124_Smp_Vesicle9312_3","Sucrose",12.62,5504261,0,"321813",4.9,NA,NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"298","170124_Smp_Vesicle9313_1","Sucrose",11.8,808579,0,"96586",7.2,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"299","170124_Smp_Vesicle9313_2","Sucrose",11.87,815518,0,"58575",8,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"300","170124_Smp_Vesicle9313_3","Sucrose",11.79,803252,0,"65862",7.5,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"301","170124_Smp_Pro9312_A","Sulfoacetic Acid",14.05,6020048,0,"561681",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",6020048
-"302","170124_Smp_Pro9312_B","Sulfoacetic Acid",14.13,6895714,0,"453113",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",6895714
-"303","170124_Smp_Pro9312_C","Sulfoacetic Acid",14.1,5429732,0,"492053",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5429732
-"304","170124_Smp_Pro9313_A","Sulfoacetic Acid",14.05,5549439,0,"459224",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5549439
-"305","170124_Smp_Pro9313_B","Sulfoacetic Acid",14.09,5205770,0,"477481",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5205770
-"306","170124_Smp_Pro9313_C","Sulfoacetic Acid",14.07,4520862,0,"399554",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",4520862
-"307","170124_Smp_Vesicle9312_1","Sulfoacetic Acid",13.85,3244796,0,"476624",-2.9,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"308","170124_Smp_Vesicle9312_2","Sulfoacetic Acid",13.83,1669960,0,"182871",-2.3,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"309","170124_Smp_Vesicle9312_3","Sulfoacetic Acid",13.8,2734455,0,"351888",-2.4,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"310","170124_Smp_Vesicle9313_1","Sulfoacetic Acid",13.86,802231,0,"130058",-2.5,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"311","170124_Smp_Vesicle9313_2","Sulfoacetic Acid",13.8,1717844,0,"140033",-2.7,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"312","170124_Smp_Vesicle9313_3","Sulfoacetic Acid",13.85,557448,433278,"99646",-2.8,"SNFlag",NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"313","170124_Smp_Pro9312_A","Thymidine",3.28,1517880,5969082,"110809",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"314","170124_Smp_Pro9312_B","Thymidine",3.39,421884,9187600,"59951",8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"315","170124_Smp_Pro9312_C","Thymidine",3.18,272017,1395665,"69219",7.6,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"316","170124_Smp_Pro9313_A","Thymidine",3.34,2933746,5349906,"196517",7.7,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"317","170124_Smp_Pro9313_B","Thymidine",3.64,4318279,6208289,"157361",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"318","170124_Smp_Pro9313_C","Thymidine",3.38,1194047,5651995,"127105",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"319","170124_Smp_Vesicle9312_1","Thymidine",3.51,885962,1487923,"62028",7.7,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"320","170124_Smp_Vesicle9312_2","Thymidine",2.73,2245834,4674089,"120019",7.5,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"321","170124_Smp_Vesicle9312_3","Thymidine",2.93,3689192,2168259,"125822",7.6,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"322","170124_Smp_Vesicle9313_1","Thymidine",3.53,243080,1940538,"56834",7.6,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"323","170124_Smp_Vesicle9313_2","Thymidine",3.22,795592,1961850,"55195",7.8,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"324","170124_Smp_Vesicle9313_3","Thymidine",2.71,865976,2582428,"93621",7.8,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"325","170124_Smp_Pro9312_A","Thymine",2.75,18493506,41924016,"702548",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"326","170124_Smp_Pro9312_B","Thymine",2.68,17959778,128687840,"592657",-3.4,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"327","170124_Smp_Pro9312_C","Thymine",2.67,8042683,41491792,"507727",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"328","170124_Smp_Pro9313_A","Thymine",2.67,14237177,43613760,"783076",-3.7,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"329","170124_Smp_Pro9313_B","Thymine",2.73,13544703,61438960,"553038",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"330","170124_Smp_Pro9313_C","Thymine",2.71,16102024,82184504,"644850",-3.9,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"331","170124_Smp_Vesicle9312_1","Thymine",2.78,10765369,30282474,"515246",-3.8,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"332","170124_Smp_Vesicle9312_2","Thymine",3.06,10867506,29237646,"405371",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"333","170124_Smp_Vesicle9312_3","Thymine",2.75,7157363,31593110,"333748",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"334","170124_Smp_Vesicle9313_1","Thymine",2.75,11603708,33748044,"511779",-3.7,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"335","170124_Smp_Vesicle9313_2","Thymine",2.68,6573677,47429560,"379578",-3.8,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"336","170124_Smp_Vesicle9313_3","Thymine",2.68,7984466,16094685,"481720",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"337","170124_Smp_Pro9312_A","Trehalose",11.8,1454329728,9811492,"139724224",2.8,NA,NA,NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",1454329728
-"338","170124_Smp_Pro9312_B","Trehalose",12.71,1382008,835450,"117679",6.2,"SNFlag","ppmFlag",NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"339","170124_Smp_Pro9312_C","Trehalose",12.86,671890,1109898,"70519",5.9,"SNFlag",NA,NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"340","170124_Smp_Pro9313_A","Trehalose",12.82,2074181,4605655,"155160",4.5,"SNFlag",NA,NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"SNFlag, ",NA
-"341","170124_Smp_Pro9313_B","Trehalose",11.84,3299756800,28052396,"270521856",2.5,NA,NA,NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",3299756800
-"342","170124_Smp_Pro9313_C","Trehalose",11.82,1863275520,21322296,"165023552",2.5,NA,NA,NA,12.665,NA,151157,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",1863275520
-"343","170124_Smp_Vesicle9312_1","Trehalose",12.68,2775302,0,"179735",5.7,NA,NA,NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"344","170124_Smp_Vesicle9312_2","Trehalose",12.6,3064747,0,"153763",5.4,NA,NA,NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"345","170124_Smp_Vesicle9312_3","Trehalose",12.62,5720554,0,"321813",5.1,NA,NA,NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",5720554
-"346","170124_Smp_Vesicle9313_1","Trehalose",13.08,153744,0,"24627",7.4,NA,"ppmFlag",NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"347","170124_Smp_Vesicle9313_2","Trehalose",12.87,346351,0,"65460",9.5,NA,"ppmFlag",NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"348","170124_Smp_Vesicle9313_3","Trehalose",12.97,142686,0,"24123",8.6,NA,"ppmFlag",NA,12.665,NA,539803,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"349","170124_Smp_Pro9312_A","UDP-glucosamine",12.7,10652239,0,"1088596",3.3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10652239
-"350","170124_Smp_Pro9312_B","UDP-glucosamine",12.71,10708860,0,"1064930",3.6,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10708860
-"351","170124_Smp_Pro9312_C","UDP-glucosamine",12.7,12225041,0,"1238754",3.5,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",12225041
-"352","170124_Smp_Pro9313_A","UDP-glucosamine",12.68,15083028,33588,"1689814",3.3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",15083028
-"353","170124_Smp_Pro9313_B","UDP-glucosamine",12.66,10911148,0,"1210682",3.7,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10911148
-"354","170124_Smp_Pro9313_C","UDP-glucosamine",12.68,4352599,0,"482225",3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4352599
-"355","170124_Smp_Vesicle9312_1","UDP-glucosamine",17.36,26060,0,"22678",-3.5,NA,NA,"areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
-"356","170124_Smp_Vesicle9312_2","UDP-glucosamine",22.42,24689,0,"20441",9.1,NA,"ppmFlag","areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","ppmFlag, areaminFlag, RTFlag, BlankFlag",NA
-"357","170124_Smp_Vesicle9312_3","UDP-glucosamine",12.09,18694,0,"14233",10.1,NA,"ppmFlag","areaminFlag",12.475,NA,16567,NA,"HILIC","BlankFlag","ppmFlag, areaminFlag, BlankFlag",NA
-"358","170124_Smp_Vesicle9313_1","UDP-glucosamine",NA,NA,NA,"#N/A",NA,NA,NA,NA,12.475,NA,16567,NA,"HILIC",NA,"",NA
-"359","170124_Smp_Vesicle9313_2","UDP-glucosamine",NA,NA,NA,"#N/A",NA,NA,NA,NA,12.475,NA,16567,NA,"HILIC",NA,"",NA
-"360","170124_Smp_Vesicle9313_3","UDP-glucosamine",20.55,30607,0,"20485",-3,NA,NA,"areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
-"361","170124_Smp_Pro9312_A","UDP-glucose",13.52,500490,0,"79801",3.3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",500490
-"362","170124_Smp_Pro9312_B","UDP-glucose",13.53,311622,0,"81037",2.6,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",311622
-"363","170124_Smp_Pro9312_C","UDP-glucose",13.5,1043038,0,"150543",3.3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1043038
-"364","170124_Smp_Pro9313_A","UDP-glucose",13.5,3275933,0,"413286",3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",3275933
-"365","170124_Smp_Pro9313_B","UDP-glucose",13.47,1386487,0,"160074",2.9,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1386487
-"366","170124_Smp_Pro9313_C","UDP-glucose",13.5,329612,0,"63495",2.7,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",329612
-"367","170124_Smp_Vesicle9312_1","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
-"368","170124_Smp_Vesicle9312_2","UDP-glucose",7.97,10282,0,"10356",0.8,NA,NA,"areaminFlag",13.335,"RTFlag",NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"areaminFlag, RTFlag, ",NA
-"369","170124_Smp_Vesicle9312_3","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
-"370","170124_Smp_Vesicle9313_1","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
-"371","170124_Smp_Vesicle9313_2","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
-"372","170124_Smp_Vesicle9313_3","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
-"373","170124_Smp_Pro9312_A","Uracil",4.22,3084222,30341542,"405176",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"374","170124_Smp_Pro9312_B","Uracil",4.28,7895443,38953460,"688250",-4.7,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"375","170124_Smp_Pro9312_C","Uracil",4.25,12630535,43633328,"665423",-4.8,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"376","170124_Smp_Pro9313_A","Uracil",4,10599295,67289632,"362301",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"377","170124_Smp_Pro9313_B","Uracil",3.76,2697384,34142400,"256633",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"378","170124_Smp_Pro9313_C","Uracil",3.38,6845998,42303420,"274116",-5,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"379","170124_Smp_Vesicle9312_1","Uracil",3.7,2630595,23502332,"153827",-5.1,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"380","170124_Smp_Vesicle9312_2","Uracil",3.78,1210438,21488066,"122040",-4.9,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"381","170124_Smp_Vesicle9312_3","Uracil",3.81,2946850,17524478,"151605",-4.7,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"382","170124_Smp_Vesicle9313_1","Uracil",4.44,8338974,26296002,"241408",-4.9,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"383","170124_Smp_Vesicle9313_2","Uracil",4.33,1779887,33366464,"142932",-4.8,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"384","170124_Smp_Vesicle9313_3","Uracil",3.97,941808,3156681,"153615",-5,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"385","170124_Smp_Pro9312_A","Uridine",5.98,11962145,516943,"538751",3.5,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",11962145
-"386","170124_Smp_Pro9312_B","Uridine",6.01,13004614,1018967,"593143",3.6,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",13004614
-"387","170124_Smp_Pro9312_C","Uridine",6.03,8061532,125319,"331798",4.3,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",8061532
-"388","170124_Smp_Pro9313_A","Uridine",5.93,4637198,216572,"183141",4.3,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"389","170124_Smp_Pro9313_B","Uridine",6,4012449,228089,"161560",4.6,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"390","170124_Smp_Pro9313_C","Uridine",6.04,3068136,0,"106357",6.2,NA,"ppmFlag",NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"391","170124_Smp_Vesicle9312_1","Uridine",6.14,98198,0,"21798",8.5,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"392","170124_Smp_Vesicle9312_2","Uridine",6.06,58871,0,"12691",9,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"393","170124_Smp_Vesicle9312_3","Uridine",5.93,142160,0,"15976",8,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"394","170124_Smp_Vesicle9313_1","Uridine",6.07,95407,585,"25177",8.1,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"395","170124_Smp_Vesicle9313_2","Uridine",10.61,1197564,0,"106167",10.2,NA,"ppmFlag",NA,5.9525,"RTFlag",623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"396","170124_Smp_Vesicle9313_3","Uridine",6.07,84399,0,"12567",8.3,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"397","170124_Smp_Pro9312_A","DHAP",12.81,104888,0,"31731",-2.8,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"398","170124_Smp_Pro9312_B","DHAP",12.89,168072,0,"25981",-2.5,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"399","170124_Smp_Pro9312_C","DHAP",12.76,56677,125171,"15395",-3.8,"SNFlag",NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
-"400","170124_Smp_Pro9313_A","DHAP",12.82,510571,0,"72709",-3,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"401","170124_Smp_Pro9313_B","DHAP",12.94,145241,0,"31919",-1.6,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"402","170124_Smp_Pro9313_C","DHAP",12.89,82701,0,"34047",-2.8,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"403","170124_Smp_Vesicle9312_1","DHAP",12.9,230685,0,"37264",-7.4,NA,"ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"404","170124_Smp_Vesicle9312_2","DHAP",12.81,72286,78098,"14839",-9.2,"SNFlag","ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"405","170124_Smp_Vesicle9312_3","DHAP",12.84,210995,0,"27327",-7.7,NA,"ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"406","170124_Smp_Vesicle9313_1","DHAP",13,188656,136904,"36522",-7.8,"SNFlag","ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
-"407","170124_Smp_Vesicle9313_2","DHAP",12.93,338812,0,"54003",-5.9,NA,NA,NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"408","170124_Smp_Vesicle9313_3","DHAP",12.76,333475,0,"30594",-6,NA,NA,NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
-"409","170124_Smp_Pro9312_A","Isethionic Acid, 13C2",6.76,45234384,0,"1547413",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"410","170124_Smp_Pro9312_B","Isethionic Acid, 13C2",6.71,44321024,0,"1419253",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"411","170124_Smp_Pro9312_C","Isethionic Acid, 13C2",6.73,42218432,1130976,"1471269",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"412","170124_Smp_Pro9313_A","Isethionic Acid, 13C2",6.76,41662716,616299,"1362986",-7.9,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"413","170124_Smp_Pro9313_B","Isethionic Acid, 13C2",6.76,41207548,724805,"1409318",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"414","170124_Smp_Pro9313_C","Isethionic Acid, 13C2",6.68,43381140,0,"1355928",-7.9,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"415","170124_Smp_Vesicle9312_1","Isethionic Acid, 13C2",6.2,45219012,0,"1137038",-8.1,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"416","170124_Smp_Vesicle9312_2","Isethionic Acid, 13C2",6.2,47579912,0,"1282646",-8,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"417","170124_Smp_Vesicle9312_3","Isethionic Acid, 13C2",6.12,47548692,0,"1315406",-7.6,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"418","170124_Smp_Vesicle9313_1","Isethionic Acid, 13C2",6.31,46489808,0,"1369366",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"419","170124_Smp_Vesicle9313_2","Isethionic Acid, 13C2",6.12,42842480,0,"1204874",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"420","170124_Smp_Vesicle9313_3","Isethionic Acid, 13C2",6.18,43574936,0,"1091876",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"421","170124_Smp_Pro9312_A","L-Cysteic Acid, D3",12.46,12582998,0,"965773",-4,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"422","170124_Smp_Pro9312_B","L-Cysteic Acid, D3",12.44,12310750,0,"904856",-3.8,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"423","170124_Smp_Pro9312_C","L-Cysteic Acid, D3",12.51,13087482,0,"973386",-4,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"424","170124_Smp_Pro9313_A","L-Cysteic Acid, D3",12.51,12752182,0,"1072788",-4.1,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"425","170124_Smp_Pro9313_B","L-Cysteic Acid, D3",12.51,12126057,0,"903519",-3.9,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"426","170124_Smp_Pro9313_C","L-Cysteic Acid, D3",12.51,11138989,0,"840379",-4.2,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"427","170124_Smp_Vesicle9312_1","L-Cysteic Acid, D3",12.42,8831461,0,"1121180",-4.1,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"428","170124_Smp_Vesicle9312_2","L-Cysteic Acid, D3",12.4,9144675,0,"1170175",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"429","170124_Smp_Vesicle9312_3","L-Cysteic Acid, D3",12.34,9440222,0,"1115377",-3.8,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"430","170124_Smp_Vesicle9313_1","L-Cysteic Acid, D3",12.42,8990168,0,"1089733",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"431","170124_Smp_Vesicle9313_2","L-Cysteic Acid, D3",12.37,8630779,0,"1063327",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"432","170124_Smp_Vesicle9313_3","L-Cysteic Acid, D3",12.39,8544404,0,"1105349",-4.2,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"433","170124_Smp_Pro9312_A","Taurine, D4",10.71,16407234,0,"1763762",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"434","170124_Smp_Pro9312_B","Taurine, D4",10.69,14962868,0,"1612273",-7.3,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"435","170124_Smp_Pro9312_C","Taurine, D4",10.72,16138188,0,"1732860",-7.5,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"436","170124_Smp_Pro9313_A","Taurine, D4",10.72,6780372,0,"745745",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"437","170124_Smp_Pro9313_B","Taurine, D4",10.69,9439087,0,"1017158",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"438","170124_Smp_Pro9313_C","Taurine, D4",10.71,12100742,0,"1304793",-8.1,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"439","170124_Smp_Vesicle9312_1","Taurine, D4",10.78,13809284,0,"1680295",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"440","170124_Smp_Vesicle9312_2","Taurine, D4",10.82,13293178,0,"1667784",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"441","170124_Smp_Vesicle9312_3","Taurine, D4",10.72,14642093,0,"1698199",-7.2,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"442","170124_Smp_Vesicle9313_1","Taurine, D4",10.77,13571142,0,"1669255",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"443","170124_Smp_Vesicle9313_2","Taurine, D4",10.72,13939045,0,"1741194",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"444","170124_Smp_Vesicle9313_3","Taurine, D4",10.77,13980306,0,"1747111",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"445","170124_Smp_Pro9312_A","Succinic Acid, D4",12.51,60115232,0,"4835469",-8.1,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"446","170124_Smp_Pro9312_B","Succinic Acid, D4",12.51,62225688,0,"4897801",-8,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"447","170124_Smp_Pro9312_C","Succinic Acid, D4",12.51,67249000,0,"5327682",-8.1,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"448","170124_Smp_Pro9313_A","Succinic Acid, D4",12.53,72657856,0,"5841989",-8.2,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"449","170124_Smp_Pro9313_B","Succinic Acid, D4",12.51,57417456,0,"4727426",-7.9,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"450","170124_Smp_Pro9313_C","Succinic Acid, D4",12.51,53785156,0,"4722423",-8.3,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"451","170124_Smp_Vesicle9312_1","Succinic Acid, D4",12.35,79063760,719006,"7265506",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"452","170124_Smp_Vesicle9312_2","Succinic Acid, D4",12.34,84025920,306246,"7850393",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"453","170124_Smp_Vesicle9312_3","Succinic Acid, D4",12.29,72387672,591288,"6910959",-8,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"454","170124_Smp_Vesicle9313_1","Succinic Acid, D4",12.37,81005144,1760370,"7347877",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"455","170124_Smp_Vesicle9313_2","Succinic Acid, D4",12.32,68353680,0,"6280400",-8.2,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"456","170124_Smp_Vesicle9313_3","Succinic Acid, D4",12.34,70407216,0,"6444926",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
-"457","170124_Smp_Pro9312_A","Sulfoacetic Acid, 13C2",13.97,11147924,0,"2312911",-6.2,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"458","170124_Smp_Pro9312_B","Sulfoacetic Acid, 13C2",13.98,9665413,0,"1988463",-6.2,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"459","170124_Smp_Pro9312_C","Sulfoacetic Acid, 13C2",13.97,9050944,0,"1778796",-6.5,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"460","170124_Smp_Pro9313_A","Sulfoacetic Acid, 13C2",13.99,8967356,0,"2020045",-6.3,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"461","170124_Smp_Pro9313_B","Sulfoacetic Acid, 13C2",13.96,8728700,0,"1934572",-6.6,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"462","170124_Smp_Pro9313_C","Sulfoacetic Acid, 13C2",13.96,8413657,0,"1794324",-7,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"463","170124_Smp_Vesicle9312_1","Sulfoacetic Acid, 13C2",13.86,55988072,496734,"6939115",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"464","170124_Smp_Vesicle9312_2","Sulfoacetic Acid, 13C2",13.85,53912296,0,"6444498",-6.7,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"465","170124_Smp_Vesicle9312_3","Sulfoacetic Acid, 13C2",13.81,54111776,591682,"6555059",-6.6,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"466","170124_Smp_Vesicle9313_1","Sulfoacetic Acid, 13C2",13.85,51980844,0,"6391710",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"467","170124_Smp_Vesicle9313_2","Sulfoacetic Acid, 13C2",13.81,56086700,0,"6749410",-6.8,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"468","170124_Smp_Vesicle9313_3","Sulfoacetic Acid, 13C2",13.85,57860320,0,"6944607",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
-"469","170124_Smp_Pro9312_A","Sulfolactic Acid, 13C3",13.64,3562614,0,"438387",-3.6,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"470","170124_Smp_Pro9312_B","Sulfolactic Acid, 13C3",13.65,4000970,0,"457215",-3.3,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"471","170124_Smp_Pro9312_C","Sulfolactic Acid, 13C3",13.66,3178428,0,"384486",-3.4,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"472","170124_Smp_Pro9313_A","Sulfolactic Acid, 13C3",13.67,3518227,0,"443817",-3.9,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"473","170124_Smp_Pro9313_B","Sulfolactic Acid, 13C3",13.62,3250816,0,"390500",-3.8,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"474","170124_Smp_Pro9313_C","Sulfolactic Acid, 13C3",13.65,3129334,0,"381571",-4.2,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
-"475","170124_Smp_Vesicle9312_1","Sulfolactic Acid, 13C3",13.47,50421368,303123,"6544185",-4.1,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"476","170124_Smp_Vesicle9312_2","Sulfolactic Acid, 13C3",13.47,50556540,0,"6707156",-3.9,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"477","170124_Smp_Vesicle9312_3","Sulfolactic Acid, 13C3",13.42,52529896,42726,"6553022",-3.6,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"478","170124_Smp_Vesicle9313_1","Sulfolactic Acid, 13C3",13.5,49373916,0,"6511531",-3.9,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"479","170124_Smp_Vesicle9313_2","Sulfolactic Acid, 13C3",13.42,55695144,0,"7387254",-3.8,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
-"480","170124_Smp_Vesicle9313_3","Sulfolactic Acid, 13C3",13.47,50905812,183962,"6357121",-4.1,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"253","170124_Smp_Pro9312_A","Ribose 5 phosphate",13.03,7887742,0,"243749",2,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",7887742
+"254","170124_Smp_Pro9312_B","Ribose 5 phosphate",12.96,8711308,0,"260718",2.2,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",8711308
+"255","170124_Smp_Pro9312_C","Ribose 5 phosphate",12.98,4775786,0,"149955",1.9,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4775786
+"256","170124_Smp_Pro9313_A","Ribose 5 phosphate",12.98,1140389,0,"68858",1.5,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1140389
+"257","170124_Smp_Pro9313_B","Ribose 5 phosphate",13.05,591565,0,"54363",1.4,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",591565
+"258","170124_Smp_Pro9313_C","Ribose 5 phosphate",13.05,84257,0,"24755",1,NA,NA,NA,13.0475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",84257
+"259","170124_Smp_Vesicle9312_1","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"260","170124_Smp_Vesicle9312_2","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"261","170124_Smp_Vesicle9312_3","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"262","170124_Smp_Vesicle9313_1","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"263","170124_Smp_Vesicle9313_2","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"264","170124_Smp_Vesicle9313_3","Ribose 5 phosphate",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.0475,NA,12957,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC",NA,"",NA
+"265","170124_Smp_Pro9312_A","Salicylic Acid",2.35,771817,90699,"113884",-2.6,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"266","170124_Smp_Pro9312_B","Salicylic Acid",2.35,653380,164226,"117755",-2.3,"SNFlag",NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"267","170124_Smp_Pro9312_C","Salicylic Acid",2.35,977522,0,"144684",-2.8,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"268","170124_Smp_Pro9313_A","Salicylic Acid",2.37,1146324,0,"142091",-2.4,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"269","170124_Smp_Pro9313_B","Salicylic Acid",2.35,814337,0,"127339",-2.9,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"270","170124_Smp_Pro9313_C","Salicylic Acid",2.34,785454,59860,"118777",-2.8,NA,NA,NA,2.28,NA,1510849,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"271","170124_Smp_Vesicle9312_1","Salicylic Acid",2.27,715097,0,"94456",-2.5,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"272","170124_Smp_Vesicle9312_2","Salicylic Acid",2.24,1687769,0,"224990",-2.7,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"273","170124_Smp_Vesicle9312_3","Salicylic Acid",2.24,688708,0,"84727",-2.6,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"274","170124_Smp_Vesicle9313_1","Salicylic Acid",2.27,790882,214730,"124850",-2.7,"SNFlag",NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"275","170124_Smp_Vesicle9313_2","Salicylic Acid",2.26,1146118,0,"155200",-2.4,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"276","170124_Smp_Vesicle9313_3","Salicylic Acid",2.24,1217907,54919,"199919",-2.7,NA,NA,NA,2.28,NA,10297419,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"277","170124_Smp_Pro9312_A","Sucrose",11.8,1454329728,9811492,"139724224",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1454329728
+"278","170124_Smp_Pro9312_B","Sucrose",11.81,1925153536,22027234,"180773264",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1925153536
+"279","170124_Smp_Pro9312_C","Sucrose",11.8,1949077248,13139674,"181698192",2.8,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1949077248
+"280","170124_Smp_Pro9313_A","Sucrose",11.8,4296403968,41806956,"373732672",2.3,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",4296403968
+"281","170124_Smp_Pro9313_B","Sucrose",11.84,3299756800,28052396,"270521856",2.5,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",3299756800
+"282","170124_Smp_Pro9313_C","Sucrose",11.82,1863275520,21322296,"165023552",2.5,NA,NA,NA,12.4475,NA,1275521,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",1863275520
+"283","170124_Smp_Vesicle9312_1","Sucrose",12.68,2328720,0,"179735",5.5,NA,NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"284","170124_Smp_Vesicle9312_2","Sucrose",12.6,1294893,1360127,"108936",5.1,"SNFlag",NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"285","170124_Smp_Vesicle9312_3","Sucrose",12.62,5504261,0,"321813",4.9,NA,NA,NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"286","170124_Smp_Vesicle9313_1","Sucrose",11.8,808579,0,"96586",7.2,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"287","170124_Smp_Vesicle9313_2","Sucrose",11.87,815518,0,"58575",8,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"288","170124_Smp_Vesicle9313_3","Sucrose",11.79,803252,0,"65862",7.5,NA,"ppmFlag",NA,12.4475,NA,1083127,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"289","170124_Smp_Pro9312_A","Sulfoacetic Acid",14.05,6020048,0,"561681",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",6020048
+"290","170124_Smp_Pro9312_B","Sulfoacetic Acid",14.13,6895714,0,"453113",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",6895714
+"291","170124_Smp_Pro9312_C","Sulfoacetic Acid",14.1,5429732,0,"492053",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5429732
+"292","170124_Smp_Pro9313_A","Sulfoacetic Acid",14.05,5549439,0,"459224",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5549439
+"293","170124_Smp_Pro9313_B","Sulfoacetic Acid",14.09,5205770,0,"477481",-2.9,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",5205770
+"294","170124_Smp_Pro9313_C","Sulfoacetic Acid",14.07,4520862,0,"399554",-3.1,NA,NA,NA,13.83,NA,15980,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC",NA,"",4520862
+"295","170124_Smp_Vesicle9312_1","Sulfoacetic Acid",13.85,3244796,0,"476624",-2.9,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"296","170124_Smp_Vesicle9312_2","Sulfoacetic Acid",13.83,1669960,0,"182871",-2.3,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"297","170124_Smp_Vesicle9312_3","Sulfoacetic Acid",13.8,2734455,0,"351888",-2.4,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"298","170124_Smp_Vesicle9313_1","Sulfoacetic Acid",13.86,802231,0,"130058",-2.5,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"299","170124_Smp_Vesicle9313_2","Sulfoacetic Acid",13.8,1717844,0,"140033",-2.7,NA,NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"300","170124_Smp_Vesicle9313_3","Sulfoacetic Acid",13.85,557448,433278,"99646",-2.8,"SNFlag",NA,NA,13.83,NA,2649921,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"301","170124_Smp_Pro9312_A","Thymidine",3.28,1517880,5969082,"110809",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"302","170124_Smp_Pro9312_B","Thymidine",3.39,421884,9187600,"59951",8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"303","170124_Smp_Pro9312_C","Thymidine",3.18,272017,1395665,"69219",7.6,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"304","170124_Smp_Pro9313_A","Thymidine",3.34,2933746,5349906,"196517",7.7,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"305","170124_Smp_Pro9313_B","Thymidine",3.64,4318279,6208289,"157361",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"306","170124_Smp_Pro9313_C","Thymidine",3.38,1194047,5651995,"127105",7.8,"SNFlag","ppmFlag",NA,3.46,NA,6451943,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"307","170124_Smp_Vesicle9312_1","Thymidine",3.51,885962,1487923,"62028",7.7,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"308","170124_Smp_Vesicle9312_2","Thymidine",2.73,2245834,4674089,"120019",7.5,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"309","170124_Smp_Vesicle9312_3","Thymidine",2.93,3689192,2168259,"125822",7.6,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"310","170124_Smp_Vesicle9313_1","Thymidine",3.53,243080,1940538,"56834",7.6,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"311","170124_Smp_Vesicle9313_2","Thymidine",3.22,795592,1961850,"55195",7.8,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"312","170124_Smp_Vesicle9313_3","Thymidine",2.71,865976,2582428,"93621",7.8,"SNFlag","ppmFlag",NA,3.46,NA,2990302,NA,"HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"313","170124_Smp_Pro9312_A","Thymine",2.75,18493506,41924016,"702548",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"314","170124_Smp_Pro9312_B","Thymine",2.68,17959778,128687840,"592657",-3.4,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"315","170124_Smp_Pro9312_C","Thymine",2.67,8042683,41491792,"507727",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"316","170124_Smp_Pro9313_A","Thymine",2.67,14237177,43613760,"783076",-3.7,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"317","170124_Smp_Pro9313_B","Thymine",2.73,13544703,61438960,"553038",-3.6,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"318","170124_Smp_Pro9313_C","Thymine",2.71,16102024,82184504,"644850",-3.9,"SNFlag",NA,NA,3.5125,NA,19653914,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"319","170124_Smp_Vesicle9312_1","Thymine",2.78,10765369,30282474,"515246",-3.8,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"320","170124_Smp_Vesicle9312_2","Thymine",3.06,10867506,29237646,"405371",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"321","170124_Smp_Vesicle9312_3","Thymine",2.75,7157363,31593110,"333748",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"322","170124_Smp_Vesicle9313_1","Thymine",2.75,11603708,33748044,"511779",-3.7,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"323","170124_Smp_Vesicle9313_2","Thymine",2.68,6573677,47429560,"379578",-3.8,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"324","170124_Smp_Vesicle9313_3","Thymine",2.68,7984466,16094685,"481720",-3.9,"SNFlag",NA,NA,3.5125,NA,33906312,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"325","170124_Smp_Pro9312_A","UDP-glucosamine",12.7,10652239,0,"1088596",3.3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10652239
+"326","170124_Smp_Pro9312_B","UDP-glucosamine",12.71,10708860,0,"1064930",3.6,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10708860
+"327","170124_Smp_Pro9312_C","UDP-glucosamine",12.7,12225041,0,"1238754",3.5,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",12225041
+"328","170124_Smp_Pro9313_A","UDP-glucosamine",12.68,15083028,33588,"1689814",3.3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",15083028
+"329","170124_Smp_Pro9313_B","UDP-glucosamine",12.66,10911148,0,"1210682",3.7,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",10911148
+"330","170124_Smp_Pro9313_C","UDP-glucosamine",12.68,4352599,0,"482225",3,NA,NA,NA,12.475,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",4352599
+"331","170124_Smp_Vesicle9312_1","UDP-glucosamine",17.36,26060,0,"22678",-3.5,NA,NA,"areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
+"332","170124_Smp_Vesicle9312_2","UDP-glucosamine",22.42,24689,0,"20441",9.1,NA,"ppmFlag","areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","ppmFlag, areaminFlag, RTFlag, BlankFlag",NA
+"333","170124_Smp_Vesicle9312_3","UDP-glucosamine",12.09,18694,0,"14233",10.1,NA,"ppmFlag","areaminFlag",12.475,NA,16567,NA,"HILIC","BlankFlag","ppmFlag, areaminFlag, BlankFlag",NA
+"334","170124_Smp_Vesicle9313_1","UDP-glucosamine",NA,NA,NA,"#N/A",NA,NA,NA,NA,12.475,NA,16567,NA,"HILIC",NA,"",NA
+"335","170124_Smp_Vesicle9313_2","UDP-glucosamine",NA,NA,NA,"#N/A",NA,NA,NA,NA,12.475,NA,16567,NA,"HILIC",NA,"",NA
+"336","170124_Smp_Vesicle9313_3","UDP-glucosamine",20.55,30607,0,"20485",-3,NA,NA,"areaminFlag",12.475,"RTFlag",16567,NA,"HILIC","BlankFlag","areaminFlag, RTFlag, BlankFlag",NA
+"337","170124_Smp_Pro9312_A","UDP-glucose",13.52,500490,0,"79801",3.3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",500490
+"338","170124_Smp_Pro9312_B","UDP-glucose",13.53,311622,0,"81037",2.6,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",311622
+"339","170124_Smp_Pro9312_C","UDP-glucose",13.5,1043038,0,"150543",3.3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1043038
+"340","170124_Smp_Pro9313_A","UDP-glucose",13.5,3275933,0,"413286",3,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",3275933
+"341","170124_Smp_Pro9313_B","UDP-glucose",13.47,1386487,0,"160074",2.9,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",1386487
+"342","170124_Smp_Pro9313_C","UDP-glucose",13.5,329612,0,"63495",2.7,NA,NA,NA,13.335,NA,0,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC",NA,"",329612
+"343","170124_Smp_Vesicle9312_1","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
+"344","170124_Smp_Vesicle9312_2","UDP-glucose",7.97,10282,0,"10356",0.8,NA,NA,"areaminFlag",13.335,"RTFlag",NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"areaminFlag, RTFlag, ",NA
+"345","170124_Smp_Vesicle9312_3","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
+"346","170124_Smp_Vesicle9313_1","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
+"347","170124_Smp_Vesicle9313_2","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
+"348","170124_Smp_Vesicle9313_3","UDP-glucose",NA,NA,NA,"#N/A",NA,NA,NA,NA,13.335,NA,NA,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC",NA,"",NA
+"349","170124_Smp_Pro9312_A","Uracil",4.22,3084222,30341542,"405176",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"350","170124_Smp_Pro9312_B","Uracil",4.28,7895443,38953460,"688250",-4.7,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"351","170124_Smp_Pro9312_C","Uracil",4.25,12630535,43633328,"665423",-4.8,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"352","170124_Smp_Pro9313_A","Uracil",4,10599295,67289632,"362301",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"353","170124_Smp_Pro9313_B","Uracil",3.76,2697384,34142400,"256633",-4.9,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"354","170124_Smp_Pro9313_C","Uracil",3.38,6845998,42303420,"274116",-5,"SNFlag",NA,NA,4.245,NA,3130582,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"355","170124_Smp_Vesicle9312_1","Uracil",3.7,2630595,23502332,"153827",-5.1,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"356","170124_Smp_Vesicle9312_2","Uracil",3.78,1210438,21488066,"122040",-4.9,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"357","170124_Smp_Vesicle9312_3","Uracil",3.81,2946850,17524478,"151605",-4.7,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"358","170124_Smp_Vesicle9313_1","Uracil",4.44,8338974,26296002,"241408",-4.9,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"359","170124_Smp_Vesicle9313_2","Uracil",4.33,1779887,33366464,"142932",-4.8,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"360","170124_Smp_Vesicle9313_3","Uracil",3.97,941808,3156681,"153615",-5,"SNFlag",NA,NA,4.245,NA,8625815,NA,"HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"361","170124_Smp_Pro9312_A","Uridine",5.98,11962145,516943,"538751",3.5,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",11962145
+"362","170124_Smp_Pro9312_B","Uridine",6.01,13004614,1018967,"593143",3.6,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",13004614
+"363","170124_Smp_Pro9312_C","Uridine",6.03,8061532,125319,"331798",4.3,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC",NA,"",8061532
+"364","170124_Smp_Pro9313_A","Uridine",5.93,4637198,216572,"183141",4.3,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"365","170124_Smp_Pro9313_B","Uridine",6,4012449,228089,"161560",4.6,NA,NA,NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"366","170124_Smp_Pro9313_C","Uridine",6.04,3068136,0,"106357",6.2,NA,"ppmFlag",NA,5.9525,NA,502002,"170124_Poo_Jan24_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"367","170124_Smp_Vesicle9312_1","Uridine",6.14,98198,0,"21798",8.5,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"368","170124_Smp_Vesicle9312_2","Uridine",6.06,58871,0,"12691",9,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"369","170124_Smp_Vesicle9312_3","Uridine",5.93,142160,0,"15976",8,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"370","170124_Smp_Vesicle9313_1","Uridine",6.07,95407,585,"25177",8.1,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"371","170124_Smp_Vesicle9313_2","Uridine",10.61,1197564,0,"106167",10.2,NA,"ppmFlag",NA,5.9525,"RTFlag",623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"372","170124_Smp_Vesicle9313_3","Uridine",6.07,84399,0,"12567",8.3,NA,"ppmFlag",NA,5.9525,NA,623107,"170124_Poo_Jan25_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"373","170124_Smp_Pro9312_A","DHAP",12.81,104888,0,"31731",-2.8,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"374","170124_Smp_Pro9312_B","DHAP",12.89,168072,0,"25981",-2.5,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"375","170124_Smp_Pro9312_C","DHAP",12.76,56677,125171,"15395",-3.8,"SNFlag",NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","SNFlag, BlankFlag",NA
+"376","170124_Smp_Pro9313_A","DHAP",12.82,510571,0,"72709",-3,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"377","170124_Smp_Pro9313_B","DHAP",12.94,145241,0,"31919",-1.6,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"378","170124_Smp_Pro9313_C","DHAP",12.89,82701,0,"34047",-2.8,NA,NA,NA,12.5775,NA,191595,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"379","170124_Smp_Vesicle9312_1","DHAP",12.9,230685,0,"37264",-7.4,NA,"ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"380","170124_Smp_Vesicle9312_2","DHAP",12.81,72286,78098,"14839",-9.2,"SNFlag","ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"381","170124_Smp_Vesicle9312_3","DHAP",12.84,210995,0,"27327",-7.7,NA,"ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"382","170124_Smp_Vesicle9313_1","DHAP",13,188656,136904,"36522",-7.8,"SNFlag","ppmFlag",NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","SNFlag, ppmFlag, BlankFlag",NA
+"383","170124_Smp_Vesicle9313_2","DHAP",12.93,338812,0,"54003",-5.9,NA,NA,NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"384","170124_Smp_Vesicle9313_3","DHAP",12.76,333475,0,"30594",-6,NA,NA,NA,12.5775,NA,227521,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","BlankFlag",NA
+"385","170124_Smp_Pro9312_A","Isethionic Acid, 13C2",6.76,45234384,0,"1547413",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"386","170124_Smp_Pro9312_B","Isethionic Acid, 13C2",6.71,44321024,0,"1419253",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"387","170124_Smp_Pro9312_C","Isethionic Acid, 13C2",6.73,42218432,1130976,"1471269",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"388","170124_Smp_Pro9313_A","Isethionic Acid, 13C2",6.76,41662716,616299,"1362986",-7.9,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"389","170124_Smp_Pro9313_B","Isethionic Acid, 13C2",6.76,41207548,724805,"1409318",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"390","170124_Smp_Pro9313_C","Isethionic Acid, 13C2",6.68,43381140,0,"1355928",-7.9,NA,"ppmFlag",NA,9.77,"RTFlag",38516004,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"391","170124_Smp_Vesicle9312_1","Isethionic Acid, 13C2",6.2,45219012,0,"1137038",-8.1,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"392","170124_Smp_Vesicle9312_2","Isethionic Acid, 13C2",6.2,47579912,0,"1282646",-8,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"393","170124_Smp_Vesicle9312_3","Isethionic Acid, 13C2",6.12,47548692,0,"1315406",-7.6,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"394","170124_Smp_Vesicle9313_1","Isethionic Acid, 13C2",6.31,46489808,0,"1369366",-7.8,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"395","170124_Smp_Vesicle9313_2","Isethionic Acid, 13C2",6.12,42842480,0,"1204874",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"396","170124_Smp_Vesicle9313_3","Isethionic Acid, 13C2",6.18,43574936,0,"1091876",-7.7,NA,"ppmFlag",NA,9.77,"RTFlag",46421276,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"397","170124_Smp_Pro9312_A","L-Cysteic Acid, D3",12.46,12582998,0,"965773",-4,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"398","170124_Smp_Pro9312_B","L-Cysteic Acid, D3",12.44,12310750,0,"904856",-3.8,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"399","170124_Smp_Pro9312_C","L-Cysteic Acid, D3",12.51,13087482,0,"973386",-4,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"400","170124_Smp_Pro9313_A","L-Cysteic Acid, D3",12.51,12752182,0,"1072788",-4.1,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"401","170124_Smp_Pro9313_B","L-Cysteic Acid, D3",12.51,12126057,0,"903519",-3.9,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"402","170124_Smp_Pro9313_C","L-Cysteic Acid, D3",12.51,11138989,0,"840379",-4.2,NA,NA,NA,12.175,NA,8421063,"170124_Poo_Jan24_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"403","170124_Smp_Vesicle9312_1","L-Cysteic Acid, D3",12.42,8831461,0,"1121180",-4.1,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"404","170124_Smp_Vesicle9312_2","L-Cysteic Acid, D3",12.4,9144675,0,"1170175",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"405","170124_Smp_Vesicle9312_3","L-Cysteic Acid, D3",12.34,9440222,0,"1115377",-3.8,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"406","170124_Smp_Vesicle9313_1","L-Cysteic Acid, D3",12.42,8990168,0,"1089733",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"407","170124_Smp_Vesicle9313_2","L-Cysteic Acid, D3",12.37,8630779,0,"1063327",-4,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"408","170124_Smp_Vesicle9313_3","L-Cysteic Acid, D3",12.39,8544404,0,"1105349",-4.2,NA,NA,NA,12.175,NA,9580597,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"409","170124_Smp_Pro9312_A","Taurine, D4",10.71,16407234,0,"1763762",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"410","170124_Smp_Pro9312_B","Taurine, D4",10.69,14962868,0,"1612273",-7.3,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"411","170124_Smp_Pro9312_C","Taurine, D4",10.72,16138188,0,"1732860",-7.5,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"412","170124_Smp_Pro9313_A","Taurine, D4",10.72,6780372,0,"745745",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"413","170124_Smp_Pro9313_B","Taurine, D4",10.69,9439087,0,"1017158",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"414","170124_Smp_Pro9313_C","Taurine, D4",10.71,12100742,0,"1304793",-8.1,NA,"ppmFlag",NA,13.835,"RTFlag",23837942,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"415","170124_Smp_Vesicle9312_1","Taurine, D4",10.78,13809284,0,"1680295",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"416","170124_Smp_Vesicle9312_2","Taurine, D4",10.82,13293178,0,"1667784",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"417","170124_Smp_Vesicle9312_3","Taurine, D4",10.72,14642093,0,"1698199",-7.2,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"418","170124_Smp_Vesicle9313_1","Taurine, D4",10.77,13571142,0,"1669255",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"419","170124_Smp_Vesicle9313_2","Taurine, D4",10.72,13939045,0,"1741194",-7.4,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"420","170124_Smp_Vesicle9313_3","Taurine, D4",10.77,13980306,0,"1747111",-7.6,NA,"ppmFlag",NA,13.835,"RTFlag",20356106,NA,"HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"421","170124_Smp_Pro9312_A","Succinic Acid, D4",12.51,60115232,0,"4835469",-8.1,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"422","170124_Smp_Pro9312_B","Succinic Acid, D4",12.51,62225688,0,"4897801",-8,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"423","170124_Smp_Pro9312_C","Succinic Acid, D4",12.51,67249000,0,"5327682",-8.1,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"424","170124_Smp_Pro9313_A","Succinic Acid, D4",12.53,72657856,0,"5841989",-8.2,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"425","170124_Smp_Pro9313_B","Succinic Acid, D4",12.51,57417456,0,"4727426",-7.9,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"426","170124_Smp_Pro9313_C","Succinic Acid, D4",12.51,53785156,0,"4722423",-8.3,NA,"ppmFlag",NA,12.27,NA,58356220,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"427","170124_Smp_Vesicle9312_1","Succinic Acid, D4",12.35,79063760,719006,"7265506",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"428","170124_Smp_Vesicle9312_2","Succinic Acid, D4",12.34,84025920,306246,"7850393",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"429","170124_Smp_Vesicle9312_3","Succinic Acid, D4",12.29,72387672,591288,"6910959",-8,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"430","170124_Smp_Vesicle9313_1","Succinic Acid, D4",12.37,81005144,1760370,"7347877",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"431","170124_Smp_Vesicle9313_2","Succinic Acid, D4",12.32,68353680,0,"6280400",-8.2,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"432","170124_Smp_Vesicle9313_3","Succinic Acid, D4",12.34,70407216,0,"6444926",-8.3,NA,"ppmFlag",NA,12.27,NA,87032160,"170124_Poo_Jan25_AqExtracts_FS_2","HILIC","BlankFlag","ppmFlag, BlankFlag",NA
+"433","170124_Smp_Pro9312_A","Sulfoacetic Acid, 13C2",13.97,11147924,0,"2312911",-6.2,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"434","170124_Smp_Pro9312_B","Sulfoacetic Acid, 13C2",13.98,9665413,0,"1988463",-6.2,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"435","170124_Smp_Pro9312_C","Sulfoacetic Acid, 13C2",13.97,9050944,0,"1778796",-6.5,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"436","170124_Smp_Pro9313_A","Sulfoacetic Acid, 13C2",13.99,8967356,0,"2020045",-6.3,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"437","170124_Smp_Pro9313_B","Sulfoacetic Acid, 13C2",13.96,8728700,0,"1934572",-6.6,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"438","170124_Smp_Pro9313_C","Sulfoacetic Acid, 13C2",13.96,8413657,0,"1794324",-7,NA,"ppmFlag",NA,18.265,"RTFlag",4899463,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"439","170124_Smp_Vesicle9312_1","Sulfoacetic Acid, 13C2",13.86,55988072,496734,"6939115",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"440","170124_Smp_Vesicle9312_2","Sulfoacetic Acid, 13C2",13.85,53912296,0,"6444498",-6.7,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"441","170124_Smp_Vesicle9312_3","Sulfoacetic Acid, 13C2",13.81,54111776,591682,"6555059",-6.6,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"442","170124_Smp_Vesicle9313_1","Sulfoacetic Acid, 13C2",13.85,51980844,0,"6391710",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"443","170124_Smp_Vesicle9313_2","Sulfoacetic Acid, 13C2",13.81,56086700,0,"6749410",-6.8,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"444","170124_Smp_Vesicle9313_3","Sulfoacetic Acid, 13C2",13.85,57860320,0,"6944607",-6.9,NA,"ppmFlag",NA,18.265,"RTFlag",60872980,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","ppmFlag, RTFlag, BlankFlag",NA
+"445","170124_Smp_Pro9312_A","Sulfolactic Acid, 13C3",13.64,3562614,0,"438387",-3.6,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"446","170124_Smp_Pro9312_B","Sulfolactic Acid, 13C3",13.65,4000970,0,"457215",-3.3,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"447","170124_Smp_Pro9312_C","Sulfolactic Acid, 13C3",13.66,3178428,0,"384486",-3.4,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"448","170124_Smp_Pro9313_A","Sulfolactic Acid, 13C3",13.67,3518227,0,"443817",-3.9,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"449","170124_Smp_Pro9313_B","Sulfolactic Acid, 13C3",13.62,3250816,0,"390500",-3.8,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"450","170124_Smp_Pro9313_C","Sulfolactic Acid, 13C3",13.65,3129334,0,"381571",-4.2,NA,NA,NA,13.44,NA,2682820,"170124_Poo_Jan24_AqExtracts_FS_1","HILIC","BlankFlag","BlankFlag",NA
+"451","170124_Smp_Vesicle9312_1","Sulfolactic Acid, 13C3",13.47,50421368,303123,"6544185",-4.1,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"452","170124_Smp_Vesicle9312_2","Sulfolactic Acid, 13C3",13.47,50556540,0,"6707156",-3.9,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"453","170124_Smp_Vesicle9312_3","Sulfolactic Acid, 13C3",13.42,52529896,42726,"6553022",-3.6,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"454","170124_Smp_Vesicle9313_1","Sulfolactic Acid, 13C3",13.5,49373916,0,"6511531",-3.9,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"455","170124_Smp_Vesicle9313_2","Sulfolactic Acid, 13C3",13.42,55695144,0,"7387254",-3.8,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
+"456","170124_Smp_Vesicle9313_3","Sulfolactic Acid, 13C3",13.47,50905812,183962,"6357121",-4.1,NA,NA,NA,13.44,NA,61562944,"170124_Poo_Jan25_AqExtracts_FS_3","HILIC","BlankFlag","BlankFlag",NA
