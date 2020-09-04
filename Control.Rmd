@@ -47,5 +47,15 @@ rm(BMISlist)
 #Combine and Tidy environmental data, add in culture data, grab MS2 data
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
 source('SourceCode/Combine_and_Tidy.R')
+```
+
+#QC on targeted compounds from Laura C
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/QC_HILICPos_Targeted.R')
+source('SourceCode/QC_HILICNeg_Targeted.R')
+source('SourceCode/QC_RPAq_Targeted.R')
+
 
 ```
+
+notes: dump trehalose
