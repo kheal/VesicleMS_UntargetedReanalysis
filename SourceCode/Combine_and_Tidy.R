@@ -96,7 +96,9 @@ MF.info.combo <-sn.dat.combo %>%
 dat <- read_csv(HILIC.longdat.file) %>%
   bind_rows(read_csv(CyanoAq.longdat.file))%>%
   bind_rows(read_csv(CyanoOrg.longdat.file)) %>%
-  left_join(sn.dat.combo, by = c("MF", "SampID"))
+  left_join(sn.dat.combo, by = c("MF", "SampID")) 
+
+#	814_HILICNeg is tetraose
 
 #For each MF, get the following information: sample type blank area; CV of pooled (per sample type)-----
 dat.RSD.poo <- dat %>%
@@ -120,7 +122,7 @@ dat.MF.good <- dat.RSD.poo %>%
   left_join(dat.smp.ave, by = c("MF", "Samp.Type")) %>%
   mutate(smptoblank = ave_smp/ave_blank) %>%
   mutate(GoodMFs = ifelse(smptoblank > smp.to.blank.ratio & RSD_poo < 0.3, 1, 0)) %>%
-  mutate(GoodMFs = ifelse(is.na(GoodMFs), 0, GoodMFs))
+  mutate(GoodMFs = ifelse(is.na(GoodMFs), 0, GoodMFs)) 
 
 #See if each individual peaks are good enough by minimum peak size and maximum signal to noise-----
 dat.QC <- dat %>%
@@ -173,7 +175,8 @@ dat.QC.summary.6 <- dat.QC.summary.2 %>%
 write_csv(dat.QC.summary.6, "Intermediates/MF_observed_summary_betweensVandC.csv")
 
 #Make supplemental table
-dat.QC.2 <- dat.QC %>% left_join(read_csv(cell.count.file), by = c("samp", "replicate")) %>%
+dat.QC.2 <- dat.QC %>% 
+  left_join(read_csv(cell.count.file), by = c("samp", "replicate", "Samp.Type")) %>%
   mutate(Strain = str_extract(samp, "931.")) %>%
   filter(type == "Smp") %>%
   mutate(QCd_biovolume_area = ifelse(GoodPeak == 1 & GoodMFs == 1, Adjusted_Area/biovolume_extracted, NA))
@@ -188,5 +191,6 @@ dat.QC.2.wide <- dat.QC.2 %>%
                                        str_replace("_", "")) %>%
   select(MF, Fraction, mz, Retention_time, everything()) %>%
   arrange(Fraction, mz)
-write_csv(dat.QC.summary.6, "Intermediates/FullMF_biovolNormalized.csv")
+
+write_csv(dat.QC.2.wide, "Intermediates/FullMF_biovolNormalized.csv")
 

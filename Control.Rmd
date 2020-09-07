@@ -43,10 +43,10 @@ write_csv(BMISlist[[4]], "Intermediates/BMISReports/BMISd_Areas_long_CyanoOrg.cs
 rm(BMISlist)
 ```
 
-
 #Combine and Tidy environmental data, add in culture data, grab MS2 data
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
 source('SourceCode/Combine_and_Tidy.R')
+remove(list = ls())
 ```
 
 #QC on targeted compounds from Laura C
@@ -67,5 +67,13 @@ remove(list = ls())
 #Combine and tidy targeted data
 ```{r, error = FALSE, warning=FALSE, message=FALSE}
 source('SourceCode/Combine_and_Tidy_Targeted.R')
+remove(list = ls())
+
+```
+
+#Check the untargeted for the same things Laura H sfound
+```{r, error = FALSE, warning=FALSE, message=FALSE}
+source('SourceCode/PreviousResultsCheck.R')
+
 ```
 
